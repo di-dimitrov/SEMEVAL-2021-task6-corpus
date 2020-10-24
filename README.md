@@ -1,0 +1,1 @@
+# semeval-2020-task6-corpus
