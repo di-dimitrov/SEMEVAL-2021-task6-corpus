@@ -55,39 +55,68 @@ Examples:
 Subtask 1:
 ```
 {
-  "id": "1",
-  "labels": [
-    "Loaded Language"
-  ],
-  "text": "What people think super heroes look like:\n\nWhat super heroes actually look like:\n",
+		"id": "159",
+		"labels": [
+			"Loaded Language",
+			"Glittering generalities (Virtue)",
+			"Appeal to fear/prejudice",
+			"Causal Oversimplification"
+		],
+		"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!\n"
 }
 ```
 
 Subtask 2:
 ```
 {
-  "id": "92",
-  "text": "AT LAST, THE ILLEGALS AND ECONOMIC DEADBEATS AND PARASITES HAVE A PRESIDENT ON THEIR MONEY\n\nU.S. DEPARTMENT OF AGRICULTURE\n\nFOOD COUPON\n\nVALUE\n1\nDOLLAR\n\nNON-TRANSFERABLE EXCEPT UNDER CONDITIONS PRESCRIDED BY THE SECRETARY OF AQGRICULTURE\n",
-  "labels": [
-    {
-      "start": 49,
-      "end": 58,
-      "technique": "Loaded Language",
-      "text": "PARASITES"
-    }
-  ]
-}
+		"id": "159",
+		"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!\n",
+		"labels": [
+			{
+				"end": 241,
+				"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!",
+				"start": 0,
+				"technique": "Causal Oversimplification"
+			},
+			{
+				"end": 111,
+				"text": "Crashed our stock market",
+				"start": 87,
+				"technique": "Appeal to fear/prejudice"
+			},
+			{
+				"end": 149,
+				"text": "Caused confusion from misinformation",
+				"start": 113,
+				"technique": "Appeal to fear/prejudice"
+			},
+			{
+				"end": 240,
+				"text": "SHIT",
+				"start": 236,
+				"technique": "Loaded Language"
+			},
+			{
+				"end": 241,
+				"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!",
+				"start": 0,
+				"technique": "Glittering generalities (Virtue)"
+			}
+		]
+	}
 ```
 Subtask 3:
 ```
 {
-  "id": "5",
-  "labels": [
-    "Name calling/Labeling",
-    "Loaded Language",
-    "Smears"
-  ],
-  "text": "The Axis of Evil of the United States of America\n",
-  "image": "5_image.png"
+		"id": "159",
+		"labels": [
+			"Glittering generalities (Virtue)",
+			"Appeal to fear/prejudice",
+			"Loaded Language",
+			"Causal Oversimplification",
+			"Smears"
+		],
+		"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove    people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!\n",
+		"image": "159_image.png"
 }
 ```
