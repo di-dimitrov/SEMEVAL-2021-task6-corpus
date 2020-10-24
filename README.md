@@ -18,21 +18,21 @@ The datasets are JSON files. The text encoding is UTF-8. An object of the json h
 Subtask 1:
 ```
 {
-  id -> identification of the sample,
-  labels -> a list of propaganda techniques related to the text,
+  id -> identifier of the example,
+  labels -> the list of propaganda techniques appearing in the text,
   text -> textual content of meme
 }
 ```
 Subtask 2:
 ```
 {
-  id -> identification of the sample,
+  id -> identifier of the example,
   text -> textual content of meme
   labels : [ -> list of objects
     {
-      start -> start index of technique span,
-      end -> end index of technique span,
-      technique -> technique related to the given span,
+      start -> start index of the span covering the technique,
+      end -> end index of the span covering technique,
+      technique -> technique in the given span,
       text -> textual content of the span
     }
   ]
@@ -42,10 +42,10 @@ Subtask 2:
 Subtask 3:
 ```
 {
-  id -> identification of the sample,
+  id -> identifier of the example,
   text -> textual content of meme
-  image -> name of the image related to the labels,text,id
-  labels -> list of propaganda techniques related to the image and text
+  image -> name of the image file containing the meme
+  labels -> list of propaganda techniques appearing in the meme
 }
 ```
 
