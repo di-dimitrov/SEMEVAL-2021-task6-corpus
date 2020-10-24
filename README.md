@@ -120,3 +120,4 @@ Subtask 3:
 		"image": "159_image.png"
 }
 ```
+![159_image](https://user-images.githubusercontent.com/33981376/97086976-54fbe380-162f-11eb-9b54-22d332ea3e2b.png)
