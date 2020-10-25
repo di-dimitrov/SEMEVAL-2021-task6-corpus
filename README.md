@@ -14,8 +14,13 @@ Data format
 --------------------------------------------
 
 The datasets are JSON files. The text encoding is UTF-8. An object of the json has the following format:
-
+The data is located in:
+/data/
 Subtask 1:
+Subtask 2:
+Subtask 3:
+
+#### Subtask 1:
 ```
 {
   id -> identifier of the example,
@@ -23,7 +28,20 @@ Subtask 1:
   text -> textual content of meme
 }
 ```
-Subtask 2:
+##### Example
+```
+{
+		"id": "159",
+		"labels": [
+			"Loaded Language",
+			"Glittering generalities (Virtue)",
+			"Appeal to fear/prejudice",
+			"Causal Oversimplification"
+		],
+		"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!\n"
+}
+```
+#### Subtask 2:
 ```
 {
   id -> identifier of the example,
@@ -38,8 +56,47 @@ Subtask 2:
   ]
 }
 ```
+##### Example
+```
+{
+	"id": "159",
+	"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!\n",
+	"labels": [
+		{
+			"end": 241,
+			"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!",
+			"start": 0,
+			"technique": "Causal Oversimplification"
+		},
+		{
+			"end": 111,
+			"text": "Crashed our stock market",
+			"start": 87,
+			"technique": "Appeal to fear/prejudice"
+		},
+		{
+			"end": 149,
+			"text": "Caused confusion from misinformation",
+			"start": 113,
+			"technique": "Appeal to fear/prejudice"
+		},
+		{
+			"end": 240,
+			"text": "SHIT",
+			"start": 236,
+			"technique": "Loaded Language"
+		},
+		{
+			"end": 241,
+			"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!",
+			"start": 0,
+			"technique": "Glittering generalities (Virtue)"
+		}
+	]
+}
+```
 
-Subtask 3:
+#### Subtask 3:
 ```
 {
   id -> identifier of the example,
@@ -49,63 +106,7 @@ Subtask 3:
 }
 ```
 
-Examples:
---------------------------------------------
-
-Subtask 1:
-```
-{
-		"id": "159",
-		"labels": [
-			"Loaded Language",
-			"Glittering generalities (Virtue)",
-			"Appeal to fear/prejudice",
-			"Causal Oversimplification"
-		],
-		"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!\n"
-}
-```
-
-Subtask 2:
-```
-{
-		"id": "159",
-		"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!\n",
-		"labels": [
-			{
-				"end": 241,
-				"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!",
-				"start": 0,
-				"technique": "Causal Oversimplification"
-			},
-			{
-				"end": 111,
-				"text": "Crashed our stock market",
-				"start": 87,
-				"technique": "Appeal to fear/prejudice"
-			},
-			{
-				"end": 149,
-				"text": "Caused confusion from misinformation",
-				"start": 113,
-				"technique": "Appeal to fear/prejudice"
-			},
-			{
-				"end": 240,
-				"text": "SHIT",
-				"start": 236,
-				"technique": "Loaded Language"
-			},
-			{
-				"end": 241,
-				"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!",
-				"start": 0,
-				"technique": "Glittering generalities (Virtue)"
-			}
-		]
-	}
-```
-Subtask 3:
+##### Example
 ```
 {
 		"id": "159",
