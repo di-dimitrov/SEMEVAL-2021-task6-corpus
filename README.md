@@ -13,14 +13,15 @@ Subtask 3. Given the meme, identify all techniques used in the meme itself, i.e.
 Data format
 --------------------------------------------
 
-The datasets are JSON files. The text encoding is UTF-8. An object of the json has the following format:
+The datasets are JSON files. The text encoding is UTF-8. 
 The data is located in:
-/data/
-Subtask 1:
-Subtask 2:
-Subtask 3:
+* Subtask 1: /data/training_set_task1.txt
+* Subtask 2: /data/training_set_task2.txt
+* Subtask 3: /data/training_set_task3.zip
+
 
 #### Subtask 1:
+An object of the json has the following format:
 ```
 {
   id -> identifier of the example,
@@ -42,6 +43,7 @@ Subtask 3:
 }
 ```
 #### Subtask 2:
+An object of the json has the following format:
 ```
 {
   id -> identifier of the example,
@@ -97,6 +99,7 @@ Subtask 3:
 ```
 
 #### Subtask 3:
+An object of the json has the following format:
 ```
 {
   id -> identifier of the example,
