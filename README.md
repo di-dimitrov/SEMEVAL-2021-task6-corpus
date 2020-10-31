@@ -8,7 +8,7 @@ Subtask 1. Given the “textual content” of a meme, identify the techniques us
 
 Subtask 2. Given the “textual content” of a meme, identify the techniques in it together with the span(s) of text in which each technique appears.
 
-Subtask 3. Given the meme, identify all techniques used in the meme itself, i.e., in the whole meme, including the visual content (multimodal task). This is a multilabel classification problem.
+Subtask 3. Given a meme, identify all techniques used in the meme, including the text and the visual content (multimodal task). This is a multilabel classification problem.
 
 Data format
 --------------------------------------------
