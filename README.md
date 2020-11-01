@@ -53,7 +53,7 @@ An object of the json has the following format:
       start -> start index of the span covering the technique,
       end -> end index of the span covering technique,
       technique -> technique in the given span,
-      text -> textual content of the span
+      text_fragment -> textual content of the span
     }
   ]
 }
@@ -66,31 +66,31 @@ An object of the json has the following format:
 	"labels": [
 		{
 			"end": 241,
-			"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!",
+			"text_fragment": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!",
 			"start": 0,
 			"technique": "Causal Oversimplification"
 		},
 		{
 			"end": 111,
-			"text": "Crashed our stock market",
+			"text_fragment": "Crashed our stock market",
 			"start": 87,
 			"technique": "Appeal to fear/prejudice"
 		},
 		{
 			"end": 149,
-			"text": "Caused confusion from misinformation",
+			"text_fragment": "Caused confusion from misinformation",
 			"start": 113,
 			"technique": "Appeal to fear/prejudice"
 		},
 		{
 			"end": 240,
-			"text": "SHIT",
+			"text_fragment": "SHIT",
 			"start": 236,
 			"technique": "Loaded Language"
 		},
 		{
 			"end": 241,
-			"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!",
+			"text_fragment": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!",
 			"start": 0,
 			"technique": "Glittering generalities (Virtue)"
 		}
