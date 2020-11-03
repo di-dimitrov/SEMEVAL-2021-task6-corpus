@@ -24,8 +24,10 @@ def read_classes(file_path):
   CLASSES = []
   with open(file_path) as f:
     for label in f.readlines():
-      CLASSES.append(label.strip())
-  return CLASSES  
+      label = label.strip()
+      if label:
+        CLASSES.append(label)
+  return CLASSES
 
 def check_format_task1(file_path, CLASSES=[]):
   if not os.path.exists(file_path):
