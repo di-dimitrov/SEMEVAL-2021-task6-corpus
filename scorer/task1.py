@@ -156,3 +156,5 @@ if __name__ == '__main__':
       logger.info("macro-F1={:.5f}\tmicro-F1={:.5f}".format(macro_f1, micro_f1))
     else:
       logger.info("{}\t{}".format(macro_f1, micro_f1))
+      print("{}\t{}".format(macro_f1, micro_f1))
+
