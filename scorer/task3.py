@@ -14,7 +14,13 @@ from format_checker.task3 import check_format_task3
 Scoring of SEMEVAL-Task-6--subtask-3 with the metrics f1-macro and f1-micro. 
 """
 
-logging.basicConfig(format='%(levelname)s : %(message)s', level=logging.INFO)
+logger = logging.getLogger("task1_scorer")
+ch = logging.StreamHandler(sys.stdout)
+ch.setLevel(logging.INFO)
+formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
+ch.setFormatter(formatter)
+logger.setLevel(logging.INFO)
+#logging.basicConfig(format='%(levelname)s : %(message)s', level=logging.INFO)
 
 def read_classes(file_path):
   CLASSES = []
@@ -39,7 +45,8 @@ def _read_gold_and_pred(pred_fpath, gold_fpath):
   :return: {id:pred_labels} dict; {id:gold_labels} dict
   """
 
-  logging.info("Reading gold predictions from file {}".format(gold_fpath))
+  if args.detailed_results:
+    logging.info("Reading gold predictions from file {}".format(gold_fpath))
   gold_labels = {}
   with open(gold_fpath, encoding='utf-8') as gold_f:
     gold = json.load(gold_f)
@@ -128,6 +135,16 @@ if __name__ == '__main__':
   pred_file = args.pred_file_path
   gold_file = args.gold_file_path
 
+  if not args.detailed_results:
+    output_log_file = pred_file + ".log"
+    logger.info("Logging execution to file " + output_log_file)
+    fileLogger = logging.FileHandler(output_log_file)
+    fileLogger.setLevel(logging.DEBUG)
+    fileLogger.setFormatter(formatter)
+    logger.addHandler(fileLogger)
+  else:
+     logger.addHandler(ch)
+
   if not os.path.exists(args.classes_file_path):
     logging.errors("File doesnt exists: {}".format(classes_file_path))
     raise ValueError("File doesnt exists: {}".format(classes_file_path))
@@ -139,3 +156,4 @@ if __name__ == '__main__':
       logging.info("macro-F1={:.5f}\tmicro-F1={:.5f}".format(macro_f1, micro_f1))
     else:
       logging.info("{}\t{}".format(macro_f1, micro_f1))
+      print("{}\t{}".format(macro_f1, micro_f1))
