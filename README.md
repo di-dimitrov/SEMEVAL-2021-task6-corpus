@@ -1,4 +1,4 @@
-# SEMEVAL-2021-task6-corpus
+# Data for SemEval-2021 Task 6: Detection of Persuasive Techniques in Texts and Images 
 
 __Table of contents:__
 
