@@ -186,7 +186,8 @@ To launch it, run:
 NOTE: You can set a flag ```-d```, to print out more detailed scores. 
 
 ### Subtask 2:
-TBA
+git submodule init
+git submodule update
 
 ### Subtask 3:
 The official evaluation measure is MACRO-F1 and MICRO-F1.
