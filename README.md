@@ -1,4 +1,4 @@
-# Data for SemEval-2021 Task 6: Detection of Persuasive Techniques in Texts and Images 
+# Data for SemEval-2021 Task 6: Detection of Persuasive Techniques in Texts and Images
 
 __Table of contents:__
 
@@ -20,26 +20,33 @@ TBA
 
 ## List of Versions
 
-* __v1.0 [2020/11/24]__ - Training data for subtasks 1, 2 and 3 are released. 
+* __v1.0 [2020/11/24]__ - Training data for subtasks 1, 2 and 3 are released.
 
 
 ## Task Description
 
-Subtask 1. Given the “textual content” of a meme, identify the techniques used in it (multilabel classification problem).
+**Subtask 1:** Given the "textual content" of a meme, identify the techniques used in it (multilabel classification problem).
 
-Subtask 2. Given the “textual content” of a meme, identify the techniques in it together with the span(s) of text in which each technique appears.
+**Subtask 2:** Given the "textual content" of a meme, identify the techniques in it together with the span(s) of text in which each technique appears.
 
-Subtask 3. Given a meme, identify all techniques used in the meme, including the text and the visual content (multimodal task). This is a multilabel classification problem.
+**Subtask 3:** Given a meme, identify all techniques used in the meme, including the text and the visual content (multimodal task). This is a multilabel classification problem.
 
 ## Data Format
 
-The datasets are JSON files. The text encoding is UTF-8. 
+The datasets are JSON files. The text encoding is UTF-8.
 The data is located in:
-* Subtask 1: /data/training_set_task1.txt
-* Subtask 2: /data/training_set_task2.txt
-* Subtask 3: /data/training_set_task3.zip
+* **Subtask 1:**
+  * data/training_set_task1.txt
+  * data/dev_set_task1.txt  
+* **Subtask 2:**
+  * data/training_set_task2.txt
+  * data/dev_set_task1.txt   
+* **Subtask 3:**
+  * data/training_set_task3.zip
+  * data/dev_set_task3.zip
 
-Input and Result files have the same format for all the subtasks. 
+
+**Note:** Input and Result files have the same format for all the subtasks.
 
 ### Subtask 1:
 An object of the json has the following format:
@@ -150,51 +157,58 @@ An object of the json has the following format:
 
 ## Format checkers
 
-The checker for the subtask is located in the [format_checker](format_checker) module of the project.
-The format checker verifies that your generated results file complies with the expected format.
+The format checkers for the subtasks are located in the [format_checker](format_checker) module of the project.
+Each format checker verifies that your generated results file complies with the expected format.
 
-You can install all prerequests through, 
+Before running the format checker please install all prerequisites through,
 > pip install -r requirments.txt
 
 ### Subtask 1:
-To launch it, run: 
-> python3 format_checker/task1.py --pred_files_path=<path_to_your_results_files> --classes_file_path=<path_to_technqiues_categories_for_task1> <br/>
+To launch it, please run the following command:
 
+```python
+python3 format_checker/task1.py --pred_files_path=<path_to_your_results_files> --classes_file_path=<path_to_technqiues_categories_for_task1>
+```
 ### Subtask 2:
 TBA
 
 ### Subtask 3:
-To launch it, run: 
-> python3 format_checker/task3.py --pred_files_path=<path_to_your_results_files> --classes_file_path=<path_to_technqiues_categories_for_task3> <br/>
-
+To launch it, please run the following command:
+```python
+python3 format_checker/task3.py --pred_files_path=<path_to_your_results_files> --classes_file_path=<path_to_technqiues_categories_for_task3>
+```
 Note that the checker can not verify whether the prediction file you submit contain all lines/tweets, because it does not have access to the corresponding gold file.
 
-## Scorers
+## Scorer and Official Evaluation metric
 
 The scorer for the subtasks is located in the [scorer](scorer) module of the project.
-The scorer will report official evaluation metric and other metrics of a prediction file. 
+The scorer will report official evaluation metric and other metrics of a prediction file.
 
-You can install all prerequests through, 
+The **official evaluation metric** for the tasks is **micro-F1**. However, the scorer also reports macro-F1. Note that, for some predicted labels there are no gold labels on the development set. For such cases, the measurement with macro-F1 will be misleading. For cross-validation experiments, similar issues can be raised while computing macro-F1.
+
+You can install all prerequisites through,
 > pip install -r requirments.txt
 
 ### Subtask 1:
-The official evaluation measure is MACRO-F1 and MICRO-F1.
+<!-- The official evaluation measure is MACRO-F1 and MICRO-F1. -->
+To launch it, please run the following command:
+```python
+python3 scorer/task1.py --gold_file_path=<path_to_gold_labels> --pred_file_path=<path_to_your_results_file> --classes_file_path=<path_to_technqiues_categories_for_task1>
+```
 
-To launch it, run: 
-> python3 scorer/task1.py --gold_file_path=<path_to_gold_labels> --pred_file_path=<path_to_your_results_file> --classes_file_path=<path_to_technqiues_categories_for_task1> <br/>
-
-NOTE: You can set a flag ```-d```, to print out more detailed scores. 
+Note: You can set a flag ```-d```, to print out more detailed scores.
 
 ### Subtask 2:
 TBA
 
 ### Subtask 3:
-The official evaluation measure is MACRO-F1 and MICRO-F1.
+<!-- The official evaluation measure is MACRO-F1 and MICRO-F1. -->
 
-To launch it, run: 
-> python3 scorer/task3.py --gold_file_path=<path_to_gold_labels> --pred_file_path=<path_to_your_results_file> --classes_file_path=<path_to_technqiues_categories_for_task3> <br/>
-
-NOTE: You can set a flag ```-d```, to print out more detailed scores. 
+To launch it, please run the following command:
+```python
+python3 scorer/task3.py --gold_file_path=<path_to_gold_labels> --pred_file_path=<path_to_your_results_file> --classes_file_path=<path_to_technqiues_categories_for_task3>
+```
+NOTE: You can set a flag ```-d```, to print out more detailed scores.
 
 
 ## Baseline
@@ -203,7 +217,7 @@ TBA
 
 ## Licensing
 
-  These datasets are free for general research use.
+These datasets are free for general research use.
 
 ## Credits
 
@@ -212,4 +226,3 @@ TBA
 ## Citation
 
 TBA
-
