@@ -62,14 +62,12 @@ An object of the json has the following format:
 #### Example
 ```
 {
-		"id": "159",
-		"labels": [
-			"Loaded Language",
-			"Glittering generalities (Virtue)",
-			"Appeal to fear/prejudice",
-			"Causal Oversimplification"
-		],
-		"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!\n"
+        "id": "125",
+        "labels": [
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "I HATE TRUMP\n\nMOST TERRORIST DO"
 }
 ```
 ### Subtask 2:
@@ -91,40 +89,22 @@ An object of the json has the following format:
 #### Example
 ```
 {
-	"id": "159",
-	"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!\n",
-	"labels": [
-		{
-			"end": 241,
-			"text_fragment": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!",
-			"start": 0,
-			"technique": "Causal Oversimplification"
-		},
-		{
-			"end": 111,
-			"text_fragment": "Crashed our stock market",
-			"start": 87,
-			"technique": "Appeal to fear/prejudice"
-		},
-		{
-			"end": 149,
-			"text_fragment": "Caused confusion from misinformation",
-			"start": 113,
-			"technique": "Appeal to fear/prejudice"
-		},
-		{
-			"end": 240,
-			"text_fragment": "SHIT",
-			"start": 236,
-			"technique": "Loaded Language"
-		},
-		{
-			"end": 241,
-			"text_fragment": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!",
-			"start": 0,
-			"technique": "Glittering generalities (Virtue)"
-		}
-	]
+        "id": "125",
+        "text": "I HATE TRUMP\n\nMOST TERRORIST DO",
+        "labels": [
+            {
+                "start": 2,
+                "end": 6,
+                "technique": "Loaded Language",
+                "text_fragment": "HATE"
+            },
+            {
+                "start": 19,
+                "end": 28,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "TERRORIST"
+            }
+        ]
 }
 ```
 
@@ -142,20 +122,19 @@ An object of the json has the following format:
 #### Example
 ```
 {
-		"id": "159",
-		"labels": [
-			"Glittering generalities (Virtue)",
-			"Appeal to fear/prejudice",
-			"Loaded Language",
-			"Causal Oversimplification",
-			"Smears"
-		],
-		"text": "Do you remember when: Swine Flu Ebola Virus, and Zika Virus Caused mass cancellations?\nCrashed our stock market?\nCaused confusion from misinformation?\nDrove    people to stockpile toilet paper?\n\nOf Course not... Because Obama HANDLED that SHIT!\n",
-		"image": "159_image.png"
+        "id": "125",
+        "labels": [
+            "Reductio ad hitlerum",
+            "Smears",
+            "Loaded Language",
+            "Name calling/Labeling"
+        ],
+        "text": "I HATE TRUMP\n\nMOST TERRORIST DO",
+        "image": "125_image.png"
 }
 ```
-![159_image](https://user-images.githubusercontent.com/33981376/97086976-54fbe380-162f-11eb-9b54-22d332ea3e2b.png)
-
+<!--![125_image](https://user-images.githubusercontent.com/33981376/99262849-1c62ba80-2827-11eb-99f2-ba52aa26236a.png)-->
+<img src="https://user-images.githubusercontent.com/33981376/99262849-1c62ba80-2827-11eb-99f2-ba52aa26236a.png" width="350" height="350">
 
 ## Format checkers
 
