@@ -1,5 +1,7 @@
 # Data for SemEval-2021 Task 6: Detection of Persuasive Techniques in Texts and Images
 
+The details of the SemEval-2021 Task 6 can be found here: https://propaganda.math.unipd.it/semeval2021task6/
+
 __Table of contents:__
 
 - [SEMEVAL-2021-task6-corpus](#semeval-2021-task6-corpus)
@@ -179,7 +181,7 @@ python3 format_checker/task3.py --pred_files_path=<path_to_your_results_files> -
 ```
 Note that the checker can not verify whether the prediction file you submit contain all lines/tweets, because it does not have access to the corresponding gold file.
 
-## Scorer and Official Evaluation metric
+## Scorer and Official Evaluation Metrics
 
 The scorer for the subtasks is located in the [scorer](scorer) module of the project.
 The scorer will report official evaluation metric and other metrics of a prediction file.
