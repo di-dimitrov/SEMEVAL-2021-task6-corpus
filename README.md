@@ -171,9 +171,6 @@ You can install all prerequisites through,
 
 ### Subtask 1:
 The **official evaluation metric** for the tasks is **micro-F1**. However, the scorer also reports macro-F1. 
-Note that, for some predicted labels there are no gold labels on the development set. 
-For such cases, the measurement with macro-F1 will be misleading. 
-For cross-validation experiments, similar issues can be raised while computing macro-F1.
 
 To launch it, please run the following command:
 ```python
@@ -204,9 +201,6 @@ Note that the option -d prints additional debugging information.
 
 ### Subtask 3:
 The **official evaluation metric** for the tasks is **micro-F1**. However, the scorer also reports macro-F1. 
-Note that, for some predicted labels there are no gold labels on the development set. 
-For such cases, the measurement with macro-F1 will be misleading. 
-For cross-validation experiments, similar issues can be raised while computing macro-F1.
 
 To launch it, please run the following command:
 ```python
