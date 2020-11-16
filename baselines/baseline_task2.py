@@ -23,7 +23,6 @@ except:
 with open(propaganda_techniques_file, "r") as f:
     propaganda_techniques_names = [ line.rstrip() for line in f.readlines() if len(line)>2 ]
 
-print(len(jsonobj))
 for example in jsonobj:
         start_fragment, end_fragment, text_length = (0, 0, len(example['text']))
         current_example_annotations = []
