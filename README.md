@@ -211,6 +211,14 @@ NOTE: You can set a flag ```-d```, to print out more detailed scores.
 
 ## Baseline
 
+### Task 1
+
+ * Random baseline
+ ```
+cd baselines; python3 baseline_task1_random.py
+ ```
+
+
 ### Task 2
 
 The baseline for task 2 simply creates random spans and technique names for the development set. No learning is performed. 
@@ -226,6 +234,14 @@ python3 task-2-semeval21_scorer.py -s ../../baselines/baseline-output-task2-trai
 F1=0.038112
 ...
 ```
+
+### Task 3
+
+ * Random baseline
+ ```
+cd baselines; python3 baseline_task3_random.py
+ ```
+
 
 ## Licensing
 
