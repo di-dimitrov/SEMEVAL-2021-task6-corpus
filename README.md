@@ -22,7 +22,8 @@ TBA
 
 ## List of Versions
 
-* __v1.0 [2020/11/24]__ - Training data for subtasks 1, 2 and 3 are released.
+* __v1.1 [2020/11/02]__ - Development data for subtasks 1, 2 and 3 are released.
+* __v1.0 [2020/10/24]__ - Training data for subtasks 1, 2 and 3 are released.
 
 
 ## Task Description
@@ -158,20 +159,22 @@ To launch it, please run the following command:
 ```python
 python3 format_checker/task3.py --pred_files_path=<path_to_your_results_files> --classes_file_path=<path_to_technqiues_categories_for_task3>
 ```
-Note that the checker can not verify whether the prediction file you submit contain all lines/tweets, because it does not have access to the corresponding gold file.
+Note that the checker can not verify whether the prediction file you submit contain all lines, because it does not have access to the corresponding gold file.
 
 ## Scorer and Official Evaluation Metrics
 
 The scorer for the subtasks is located in the [scorer](scorer) module of the project.
 The scorer will report official evaluation metric and other metrics of a prediction file.
 
-The **official evaluation metric** for the tasks is **micro-F1**. However, the scorer also reports macro-F1. Note that, for some predicted labels there are no gold labels on the development set. For such cases, the measurement with macro-F1 will be misleading. For cross-validation experiments, similar issues can be raised while computing macro-F1.
-
 You can install all prerequisites through,
-> pip install -r requirments.txt
+> pip install -r requirements.txt
 
 ### Subtask 1:
-<!-- The official evaluation measure is MACRO-F1 and MICRO-F1. -->
+The **official evaluation metric** for the tasks is **micro-F1**. However, the scorer also reports macro-F1. 
+Note that, for some predicted labels there are no gold labels on the development set. 
+For such cases, the measurement with macro-F1 will be misleading. 
+For cross-validation experiments, similar issues can be raised while computing macro-F1.
+
 To launch it, please run the following command:
 ```python
 python3 scorer/task1.py --gold_file_path=<path_to_gold_labels> --pred_file_path=<path_to_your_results_file> --classes_file_path=<path_to_technqiues_categories_for_task1>
@@ -180,11 +183,30 @@ python3 scorer/task1.py --gold_file_path=<path_to_gold_labels> --pred_file_path=
 Note: You can set a flag ```-d```, to print out more detailed scores.
 
 ### Subtask 2:
+The scorer for task 2 is coded in another repository. In order to add it to the project type the following commands:
+```
 git submodule init
 git submodule update
+git pull
+```
+Task 2 is a multi-label sequence tagging task. We modify the standard micro-averaged F1 to account for partial matching between the spans. 
+In addition, an F1 value is computed for each propaganda technique.
+```
+cd scorer/task2; 
+python3 task-2-semeval21_scorer.py -s prediction_file -r gold_labels_file -p ../../techniques_list_task1-2.txt 
+```
+To access the command line help of the scorer type
+```
+python3 task-2-semeval21_scorer.py -h
+```
+Note that the option -d prints additional debugging information.
+
 
 ### Subtask 3:
-<!-- The official evaluation measure is MACRO-F1 and MICRO-F1. -->
+The **official evaluation metric** for the tasks is **micro-F1**. However, the scorer also reports macro-F1. 
+Note that, for some predicted labels there are no gold labels on the development set. 
+For such cases, the measurement with macro-F1 will be misleading. 
+For cross-validation experiments, similar issues can be raised while computing macro-F1.
 
 To launch it, please run the following command:
 ```python
@@ -195,7 +217,21 @@ NOTE: You can set a flag ```-d```, to print out more detailed scores.
 
 ## Baseline
 
-TBA
+### Task 2
+
+The baseline for task 2 simply creates random spans and technique names for the development set. No learning is performed. 
+Run as
+```
+cd baselines; python3 baseline_task2.py
+```
+If you score the baseline on the training set (uncomment lines 5-6 in baseline_task2.py), you should get F1=0.038112
+the following output
+```
+python3 task-2-semeval21_scorer.py -s ../../baselines/baseline-output-task2-train.txt -r ../../data/training_set_task2.txt -p ../../techniques_list_task1-2.txt 
+...
+F1=0.038112
+...
+```
 
 ## Licensing
 
