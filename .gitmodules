@@ -1,0 +1,3 @@
+[submodule "scorer/task2"]
+	path = scorer/task2
+	url = https://gitlab.com/joedsm/propaganda-techniques-scorer.git

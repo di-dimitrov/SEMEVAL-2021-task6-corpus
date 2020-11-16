@@ -180,7 +180,8 @@ python3 scorer/task1.py --gold_file_path=<path_to_gold_labels> --pred_file_path=
 Note: You can set a flag ```-d```, to print out more detailed scores.
 
 ### Subtask 2:
-TBA
+git submodule init
+git submodule update
 
 ### Subtask 3:
 <!-- The official evaluation measure is MACRO-F1 and MICRO-F1. -->
