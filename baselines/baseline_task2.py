@@ -2,6 +2,9 @@ dev_file = "../data/dev_set_task2.txt"
 propaganda_techniques_file = "../techniques_list_task1-2.txt" 
 task_2_output_file = "baseline-output-task2.txt"
 
+#dev_file = "../data/training_set_task2.txt" 		# this is to run baseline
+#task_2_output_file = "baseline-output-task2-train.txt" 	# on the training set
+
 #
 # Baseline task 2: create random spans for the development set
 #

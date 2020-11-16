@@ -91,8 +91,8 @@ def evaluate(pred_fpath, gold_fpath, CLASSES):
   gold = mlb.transform(gold)
   pred = mlb.transform(pred)
 
-  macro_f1 = f1_score(gold, pred, average="macro")
-  micro_f1 = f1_score(gold, pred, average="micro")
+  macro_f1 = f1_score(gold, pred, average="macro", zero_division=1)
+  micro_f1 = f1_score(gold, pred, average="micro", zero_division=1)
   return macro_f1, micro_f1
 
 def validate_files(pred_files, gold_files, CLASSES):
