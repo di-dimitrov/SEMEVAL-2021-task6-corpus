@@ -228,7 +228,7 @@ NOTE: You can set a flag ```-d```, to print out more detailed scores.
  ```
 cd baselines; python3 baseline_task1_random.py
  ```
-
+If you submit the baseline on the shared task website, you should get a F1 score of 0.08046.
 
 ### Task 2
 
@@ -237,6 +237,7 @@ Run as
 ```
 cd baselines; python3 baseline_task2.py
 ```
+If you submit the baseline on the shared task website, you should get a F1 score of 0.00699.
 If you score the baseline on the training set (uncomment lines 5-6 in baseline_task2.py), you should get a F1 score of 0.038112
 ```
 python3 task-2-semeval21_scorer.py -s ../../baselines/baseline-output-task2-train.txt -r ../../data/training_set_task2.txt -p ../../techniques_list_task1-2.txt 
@@ -251,6 +252,7 @@ F1=0.038112
  ```
 cd baselines; python3 baseline_task3_random.py
  ```
+If you submit the baseline on the shared task website, you should get a F1 score of 0.06009.
 
 
 ## Licensing
