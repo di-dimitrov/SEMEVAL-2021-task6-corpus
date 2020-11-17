@@ -22,8 +22,8 @@ TBA
 
 ## List of Versions
 
-* __v1.1 [2020/11/02]__ - Development data for subtasks 1, 2 and 3 are released.
-* __v1.0 [2020/10/24]__ - Training data for subtasks 1, 2 and 3 are released.
+* __v1.1 [2020/11/02]__ - Development data for subtasks 1, 2 and 3 are released (63 memes).
+* __v1.0 [2020/10/24]__ - Training data for subtasks 1, 2 and 3 are released (101 memes).
 
 
 ## Task Description
