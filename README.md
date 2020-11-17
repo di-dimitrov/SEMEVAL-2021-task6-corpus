@@ -51,7 +51,9 @@ The data is located in:
 
 **Note:** Input and Result files have the same format for all the subtasks.
 
-### Subtask 1:
+### Input data format
+
+#### Subtask 1:
 An object of the json has the following format:
 ```
 {
@@ -60,7 +62,7 @@ An object of the json has the following format:
   text -> textual content of meme
 }
 ```
-#### Example
+##### Example
 ```
 {
         "id": "125",
@@ -71,7 +73,7 @@ An object of the json has the following format:
         "text": "I HATE TRUMP\n\nMOST TERRORIST DO"
 }
 ```
-### Subtask 2:
+#### Subtask 2:
 An object of the json has the following format:
 ```
 {
@@ -87,7 +89,7 @@ An object of the json has the following format:
   ]
 }
 ```
-#### Example
+##### Example
 ```
 {
         "id": "125",
@@ -109,7 +111,7 @@ An object of the json has the following format:
 }
 ```
 
-### Subtask 3:
+#### Subtask 3:
 An object of the json has the following format:
 ```
 {
@@ -120,7 +122,7 @@ An object of the json has the following format:
 }
 ```
 
-#### Example
+##### Example
 ```
 {
         "id": "125",
@@ -136,6 +138,14 @@ An object of the json has the following format:
 ```
 <!--![125_image](https://user-images.githubusercontent.com/33981376/99262849-1c62ba80-2827-11eb-99f2-ba52aa26236a.png)-->
 <img src="https://user-images.githubusercontent.com/33981376/99262849-1c62ba80-2827-11eb-99f2-ba52aa26236a.png" width="350" height="350">
+
+### Prediction Files Format
+
+A prediction file, for example for the development set, must be one single json file for all memes. The entry for each meme must include the fields "id" and "labels". As an example, the input files described above would be also valid prediction files.  
+In the case of task 2, each entry of the field labels must include the fields "start", "end", "technique". We provide format checkers to automatically check the format of the submissions (see below). 
+
+If you want to check the performance of your model on the development and test (when available) sets, upload your predictions' file to the website of the shared task: https://propaganda.math.unipd.it/semeval2021task6/. 
+See instructions on the website about how to register and make a submission. 
 
 ## Format checkers
 
@@ -210,7 +220,7 @@ python3 scorer/task3.py --gold_file_path=<path_to_gold_labels> --pred_file_path=
 NOTE: You can set a flag ```-d```, to print out more detailed scores.
 
 
-## Baseline
+## Baselines
 
 ### Task 1
 
@@ -227,8 +237,7 @@ Run as
 ```
 cd baselines; python3 baseline_task2.py
 ```
-If you score the baseline on the training set (uncomment lines 5-6 in baseline_task2.py), you should get F1=0.038112
-the following output
+If you score the baseline on the training set (uncomment lines 5-6 in baseline_task2.py), you should get a F1 score of 0.038112
 ```
 python3 task-2-semeval21_scorer.py -s ../../baselines/baseline-output-task2-train.txt -r ../../data/training_set_task2.txt -p ../../techniques_list_task1-2.txt 
 ...
