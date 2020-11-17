@@ -139,8 +139,9 @@ An object of the json has the following format:
 
 ## Format checkers
 
-The format checkers for the subtasks are located in the [format_checker](format_checker) module of the project.
-Each format checker verifies that your generated results file complies with the expected format.
+The format checkers for the subtasks 1 and 2 are located in the [format_checker](format_checker) module of the project. 
+Each format checker verifies that your generated results file complies with the expected format. 
+The format checker for subtask 2 is included in the scorer. 
 
 Before running the format checker please install all prerequisites through,
 > pip install -r requirments.txt
@@ -152,7 +153,7 @@ To launch it, please run the following command:
 python3 format_checker/task1.py --pred_files_path=<path_to_your_results_files> --classes_file_path=<path_to_technqiues_categories_for_task1>
 ```
 ### Subtask 2:
-TBA
+Run the scorer to have the format of the input file checked. 
 
 ### Subtask 3:
 To launch it, please run the following command:
@@ -170,7 +171,7 @@ You can install all prerequisites through,
 > pip install -r requirements.txt
 
 ### Subtask 1:
-The **official evaluation metric** for the tasks is **micro-F1**. However, the scorer also reports macro-F1. 
+The **official evaluation metric** for the task is **micro-F1**. However, the scorer also reports macro-F1. 
 
 To launch it, please run the following command:
 ```python
@@ -200,7 +201,7 @@ Note that the option -d prints additional debugging information.
 
 
 ### Subtask 3:
-The **official evaluation metric** for the tasks is **micro-F1**. However, the scorer also reports macro-F1. 
+The **official evaluation metric** for the task is **micro-F1**. However, the scorer also reports macro-F1. 
 
 To launch it, please run the following command:
 ```python
