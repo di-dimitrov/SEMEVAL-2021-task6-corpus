@@ -8,13 +8,14 @@ from sklearn.preprocessing import MultiLabelBinarizer
 
 import sys
 sys.path.append('.')
-from format_checker.task1 import check_format_task1
+from format_checker.task1_3 import check_format_task1_task3
+from format_checker.task1_3 import read_classes
 
 """
-Scoring of SEMEVAL-Task-6--subtask-1 with the metrics f1-macro and f1-micro. 
+Scoring of SEMEVAL-Task-6--subtask-1-and-3  with the metrics f1-macro and f1-micro. 
 """
 
-logger = logging.getLogger("task1_scorer")
+logger = logging.getLogger("task1-3_scorer")
 ch = logging.StreamHandler(sys.stdout)
 ch.setLevel(logging.INFO)
 formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
@@ -22,14 +23,6 @@ ch.setFormatter(formatter)
 logger.setLevel(logging.INFO)
 #logging.basicConfig(format='%(levelname)s : %(message)s', level=logging.INFO)
 
-def read_classes(file_path):
-  CLASSES = []
-  with open(file_path) as f:
-    for label in f.readlines():
-      label = label.strip()
-      if label:
-        CLASSES.append(label)
-  return CLASSES
 
 def _read_gold_and_pred(pred_fpath, gold_fpath):
   """
@@ -39,7 +32,6 @@ def _read_gold_and_pred(pred_fpath, gold_fpath):
     [{
       id     -> identifier of the test sample,
       labels -> the list of propaganda techniques detected in the text,
-      text   -> textual content of meme
     }]
 
   :return: {id:pred_labels} dict; {id:gold_labels} dict
@@ -75,7 +67,6 @@ def evaluate(pred_fpath, gold_fpath, CLASSES):
     [{
       id     -> identifier of the test sample,
       labels -> the list of propaganda techniques detected in the text,
-      text   -> textual content of meme
     }]
   """
   pred_labels, gold_labels = _read_gold_and_pred(pred_file, gold_file)
@@ -96,7 +87,7 @@ def evaluate(pred_fpath, gold_fpath, CLASSES):
   return macro_f1, micro_f1
 
 def validate_files(pred_files, gold_files, CLASSES):
-  if not check_format_task1(pred_file, CLASSES):
+  if not check_format_task1_task3(pred_file, CLASSES):
     logger.error('Bad format for pred file {}. Cannot score.'.format(pred_file))
     return False
   return True
