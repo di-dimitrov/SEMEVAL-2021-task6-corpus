@@ -51,7 +51,9 @@ The data is located in:
 
 **Note:** Input and Result files have the same format for all the subtasks.
 
-### Subtask 1:
+### Input data format
+
+#### Subtask 1:
 An object of the json has the following format:
 ```
 {
@@ -60,7 +62,7 @@ An object of the json has the following format:
   text -> textual content of meme
 }
 ```
-#### Example
+##### Example
 ```
 {
         "id": "125",
@@ -71,7 +73,7 @@ An object of the json has the following format:
         "text": "I HATE TRUMP\n\nMOST TERRORIST DO"
 }
 ```
-### Subtask 2:
+#### Subtask 2:
 An object of the json has the following format:
 ```
 {
@@ -87,7 +89,7 @@ An object of the json has the following format:
   ]
 }
 ```
-#### Example
+##### Example
 ```
 {
         "id": "125",
@@ -109,7 +111,7 @@ An object of the json has the following format:
 }
 ```
 
-### Subtask 3:
+#### Subtask 3:
 An object of the json has the following format:
 ```
 {
@@ -120,7 +122,7 @@ An object of the json has the following format:
 }
 ```
 
-#### Example
+##### Example
 ```
 {
         "id": "125",
@@ -136,6 +138,14 @@ An object of the json has the following format:
 ```
 <!--![125_image](https://user-images.githubusercontent.com/33981376/99262849-1c62ba80-2827-11eb-99f2-ba52aa26236a.png)-->
 <img src="https://user-images.githubusercontent.com/33981376/99262849-1c62ba80-2827-11eb-99f2-ba52aa26236a.png" width="350" height="350">
+
+### Prediction Files Format
+
+Files with the predictions must be a single json file including the fields "id" and "labels" for each meme. 
+In the case of task 2, each entry of the field labels must include the fields "start", "end", "technique". We provide format checkers to automatically check the format of the submissions (see below). 
+
+If you want to check the performance of your model on the development and test (when available) sets, upload your predictions' file to the website of the shared task: https://propaganda.math.unipd.it/semeval2021task6/. 
+See instructions on the website about how to register and make a submission. 
 
 ## Format checkers
 
