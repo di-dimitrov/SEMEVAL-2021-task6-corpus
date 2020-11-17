@@ -1,6 +1,6 @@
 # Data for SemEval-2021 Task 6: Detection of Persuasive Techniques in Texts and Images
 
-The details of the SemEval-2021 Task 6 can be found here: https://propaganda.math.unipd.it/semeval2021task6/
+The website of the shared task, with the submission instructions, updates on the competition and the live leaderboard are here  https://propaganda.math.unipd.it/semeval2021task6/
 
 __Table of contents:__
 
