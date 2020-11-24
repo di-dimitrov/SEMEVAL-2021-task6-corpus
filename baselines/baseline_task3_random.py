@@ -6,7 +6,7 @@ task_output_file = "baseline-output-task3-random.txt"
 #task_output_file = "baseline-output-task3-random-train.txt" 	# on the training set
 
 #
-# Baseline task 1: create random labels
+# Baseline task 3: create random labels
 #
 #
 
@@ -28,9 +28,12 @@ with open(propaganda_techniques_file, "r") as f:
 for example in jsonobj:
 
     techniques_list = []
+    tmp_propaganda_techniques_names = propaganda_techniques_names[:]
     i = 0
     while i < len(propaganda_techniques_names) and random.random() < 0.5:
-        techniques_list.append(propaganda_techniques_names[random.randint(0, len(propaganda_techniques_names)-1)])
+        random_technique = tmp_propaganda_techniques_names[random.randint(0, len(tmp_propaganda_techniques_names)-1)]
+        techniques_list.append(random_technique)
+        tmp_propaganda_techniques_names.remove(random_technique)
         i += 1
     example['labels'] = techniques_list
     print("example %s: added %d labels" % (example['id'], i))    

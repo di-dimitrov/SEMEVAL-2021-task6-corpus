@@ -29,8 +29,11 @@ for example in jsonobj:
 
     techniques_list = []
     i = 0
+    tmp_propaganda_techniques_names = propaganda_techniques_names[:]
     while i < len(propaganda_techniques_names) and random.random() < 0.5:
-        techniques_list.append(propaganda_techniques_names[random.randint(0, len(propaganda_techniques_names)-1)])
+        random_technique = tmp_propaganda_techniques_names[random.randint(0, len(tmp_propaganda_techniques_names)-1)]
+        techniques_list.append(random_technique)
+        tmp_propaganda_techniques_names.remove(random_technique)
         i += 1
     example['labels'] = techniques_list
     print("example %s: added %d labels" % (example['id'], i))    
