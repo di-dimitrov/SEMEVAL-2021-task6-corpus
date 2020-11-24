@@ -156,21 +156,16 @@ The format checker for subtask 2 is included in the scorer.
 Before running the format checker please install all prerequisites through,
 > pip install -r requirments.txt
 
-### Subtask 1:
+### Subtask 1 and 3:
 To launch it, please run the following command:
 
 ```python
-python3 format_checker/task1.py --pred_files_path=<path_to_your_results_files> --classes_file_path=<path_to_technqiues_categories_for_task1>
-```
-### Subtask 2:
-Run the scorer to have the format of the input file checked. 
-
-### Subtask 3:
-To launch it, please run the following command:
-```python
-python3 format_checker/task3.py --pred_files_path=<path_to_your_results_files> --classes_file_path=<path_to_technqiues_categories_for_task3>
+python3 format_checker/task1_3.py --pred_files_path=<path_to_your_results_files> --classes_file_path=<path_to_techniques_categories_for_task>
 ```
 Note that the checker can not verify whether the prediction file you submit contain all lines, because it does not have access to the corresponding gold file.
+
+### Subtask 2:
+Run the scorer to have the format of the input file checked. 
 
 ## Scorer and Official Evaluation Metrics
 
@@ -180,12 +175,12 @@ The scorer will report official evaluation metric and other metrics of a predict
 You can install all prerequisites through,
 > pip install -r requirements.txt
 
-### Subtask 1:
+### Subtask 1 and 3:
 The **official evaluation metric** for the task is **micro-F1**. However, the scorer also reports macro-F1. 
 
 To launch it, please run the following command:
 ```python
-python3 scorer/task1.py --gold_file_path=<path_to_gold_labels> --pred_file_path=<path_to_your_results_file> --classes_file_path=<path_to_technqiues_categories_for_task1>
+python3 scorer/task1_3.py --gold_file_path=<path_to_gold_labels> --pred_file_path=<path_to_your_results_file> --classes_file_path=<path_to_techniques_categories_for_task>
 ```
 
 Note: You can set a flag ```-d```, to print out more detailed scores.
@@ -210,16 +205,6 @@ python3 task-2-semeval21_scorer.py -h
 Note that the option -d prints additional debugging information.
 
 
-### Subtask 3:
-The **official evaluation metric** for the task is **micro-F1**. However, the scorer also reports macro-F1. 
-
-To launch it, please run the following command:
-```python
-python3 scorer/task3.py --gold_file_path=<path_to_gold_labels> --pred_file_path=<path_to_your_results_file> --classes_file_path=<path_to_technqiues_categories_for_task3>
-```
-NOTE: You can set a flag ```-d```, to print out more detailed scores.
-
-
 ## Baselines
 
 ### Task 1
@@ -228,7 +213,7 @@ NOTE: You can set a flag ```-d```, to print out more detailed scores.
  ```
 cd baselines; python3 baseline_task1_random.py
  ```
-If you submit the baseline on the shared task website, you should get a F1 score of 0.08046.
+If you submit the baseline on the shared task website, you should get a F1 score of 0.04494.
 
 ### Task 2
 
@@ -252,7 +237,7 @@ F1=0.038112
  ```
 cd baselines; python3 baseline_task3_random.py
  ```
-If you submit the baseline on the shared task website, you should get a F1 score of 0.06009.
+If you submit the baseline on the shared task website, you should get a F1 score of 0.03376.
 
 
 ## Licensing
