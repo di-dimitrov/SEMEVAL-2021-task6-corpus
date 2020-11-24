@@ -154,7 +154,7 @@ Each format checker verifies that your generated results file complies with the 
 The format checker for subtask 2 is included in the scorer. 
 
 Before running the format checker please install all prerequisites through,
-> pip install -r requirments.txt
+> pip install -r requirements.txt
 
 ### Subtask 1 and 3:
 To launch it, please run the following command:
