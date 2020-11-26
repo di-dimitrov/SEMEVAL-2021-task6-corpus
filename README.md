@@ -22,9 +22,9 @@ TBA
 
 ## List of Versions
 
+* __v1.2 [2020/11/26]__ - Seocnd batches of training data for subtasks 1, 2 and 3 are released (101 new memes, a total of 202 memes).
 * __v1.1 [2020/11/02]__ - Development data for subtasks 1, 2 and 3 are released (63 memes).
 * __v1.0 [2020/10/24]__ - Training data for subtasks 1, 2 and 3 are released (101 memes).
-
 
 ## Task Description
 
