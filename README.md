@@ -26,8 +26,8 @@ TBA
 * __v1.1 [2020/11/02]__ - Development data for subtasks 1, 2 and 3 released (63 memes).
 * __v1.0 [2020/10/24]__ - Training data for subtasks 1, 2 and 3 released (101 memes).
 
-Note that, for task 1 and task 2, you are free to use the annotations of the [PTC corpus](https://propaganda.qcri.org/semeval2020-task11/
-). The domain of that corpus is news articles, but the annotations are made using the same guidelines. 
+Note that, for subtask 1 and subtask 2, you are free to use the annotations of the [PTC corpus](https://propaganda.qcri.org/semeval2020-task11/
+). The domain of that corpus is news articles, but the annotations are made using the same guidelines, altough fewer techniques were considered. 
 
 ## Task Description
 
