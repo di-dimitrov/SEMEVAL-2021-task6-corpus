@@ -1,6 +1,6 @@
 # Data for SemEval-2021 Task 6: Detection of Persuasive Techniques in Texts and Images
 
-The website of the shared task, with the submission instructions, updates on the competition and the live leaderboard are here  https://propaganda.math.unipd.it/semeval2021task6/
+The website of the shared task, with the submission instructions, updates on the competition and the live leaderboard can be found here: https://propaganda.math.unipd.it/semeval2021task6/
 
 __Table of contents:__
 
@@ -22,15 +22,15 @@ TBA
 
 ## List of Versions
 
-* __v1.2 [2020/11/26]__ - Seocnd batches of training data for subtasks 1, 2 and 3 are released (101 new memes, a total of 202 memes).
-* __v1.1 [2020/11/02]__ - Development data for subtasks 1, 2 and 3 are released (63 memes).
-* __v1.0 [2020/10/24]__ - Training data for subtasks 1, 2 and 3 are released (101 memes).
+* __v1.2 [2020/11/26]__ - Second batch of training data for subtasks 1, 2 and 3 is released (101 new memes; a total of 202 for train + 63 for dev).
+* __v1.1 [2020/11/02]__ - Development data for subtasks 1, 2 and 3 released (63 memes).
+* __v1.0 [2020/10/24]__ - Training data for subtasks 1, 2 and 3 released (101 memes).
 
 ## Task Description
 
-**Subtask 1:** Given the "textual content" of a meme, identify the techniques used in it (multilabel classification problem).
+**Subtask 1:** Given the textual content of a meme, identify the techniques used in it (multilabel classification problem).
 
-**Subtask 2:** Given the "textual content" of a meme, identify the techniques in it together with the span(s) of text in which each technique appears.
+**Subtask 2:** Given the textual content of a meme, identify the techniques in it together with the span(s) of text in which each propaganda techniques appear
 
 **Subtask 3:** Given a meme, identify all techniques used in the meme, including the text and the visual content (multimodal task). This is a multilabel classification problem.
 
@@ -49,12 +49,12 @@ The data is located in:
   * data/dev_set_task3.zip
 
 
-**Note:** Input and Result files have the same format for all the subtasks.
+**Note:** The input and the result files have the same format for all the subtasks.
 
 ### Input data format
 
 #### Subtask 1:
-An object of the json has the following format:
+An object of the JSON has the following format:
 ```
 {
   id -> identifier of the example,
@@ -74,7 +74,7 @@ An object of the json has the following format:
 }
 ```
 #### Subtask 2:
-An object of the json has the following format:
+An object of the JSON has the following format:
 ```
 {
   id -> identifier of the example,
@@ -112,7 +112,7 @@ An object of the json has the following format:
 ```
 
 #### Subtask 3:
-An object of the json has the following format:
+An object of the JSON has the following format:
 ```
 {
   id -> identifier of the example,
@@ -141,7 +141,7 @@ An object of the json has the following format:
 
 ### Prediction Files Format
 
-A prediction file, for example for the development set, must be one single json file for all memes. The entry for each meme must include the fields "id" and "labels". As an example, the input files described above would be also valid prediction files.  
+A prediction file, for example for the development set, must be one single JSON file for all memes. The entry for each meme must include the fields "id" and "labels". As an example, the input files described above would be also valid prediction files.  
 In the case of task 2, each entry of the field labels must include the fields "start", "end", "technique". We provide format checkers to automatically check the format of the submissions (see below). 
 
 If you want to check the performance of your model on the development and test (when available) sets, upload your predictions' file to the website of the shared task: https://propaganda.math.unipd.it/semeval2021task6/. 
