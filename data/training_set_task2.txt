@@ -4314,12 +4314,6 @@
                 "text_fragment": "AntiVaxxerLogic"
             },
             {
-                "end": 57,
-                "start": 6,
-                "technique": "Misrepresentation of Someone's Position (Straw Man)",
-                "text_fragment": "This bridge is only 99.997% safe.\nI think I'll swim"
-            },
-            {
                 "end": 76,
                 "start": 6,
                 "technique": "Smears",
@@ -4504,28 +4498,1289 @@
                 "text_fragment": "THE ROYAL CANADIAN MOUNTED POLICE- WE ALWAYS GET OUR MAN.\n\nUNLESS THAT MAN IS A HIGH RANKING LIBERAL POLITICIAN. THAT'S WHEN WE GO INTO HIDING"
             },
             {
-                "end": 44,
-                "start": 38,
-                "technique": "Exaggeration/Minimisation",
-                "text_fragment": "ALWAYS"
-            },
-            {
-                "end": 111,
-                "start": 80,
-                "technique": "Name calling/Labeling",
-                "text_fragment": "HIGH RANKING LIBERAL POLITICIAN"
-            },
-            {
-                "end": 56,
-                "start": 35,
-                "technique": "Slogans",
-                "text_fragment": "WE ALWAYS GET OUR MAN"
-            },
-            {
                 "end": 142,
                 "start": 0,
                 "technique": "Smears",
                 "text_fragment": "THE ROYAL CANADIAN MOUNTED POLICE- WE ALWAYS GET OUR MAN.\n\nUNLESS THAT MAN IS A HIGH RANKING LIBERAL POLITICIAN. THAT'S WHEN WE GO INTO HIDING"
+            }
+        ]
+    },
+    {
+        "id": "206_batch_2",
+        "text": "WHEN A LIBERAL STARTS TALKING",
+        "labels": []
+    },
+    {
+        "id": "209_batch_2",
+        "text": "How could you have married that man?\n\nI was going to ask you the same question!\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 36,
+                "technique": "Doubt",
+                "text_fragment": "How could you have married that man?"
+            }
+        ]
+    },
+    {
+        "id": "210_batch_2",
+        "text": "They should first test the covid vaccine on gov't officials.\n\nIf they are safe, the vaccine is good.\nBut if they die, the country is safe.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 100,
+                "technique": "Causal Oversimplification",
+                "text_fragment": "They should first test the covid vaccine on gov't officials.\n\nIf they are safe, the vaccine is good."
+            },
+            {
+                "start": 105,
+                "end": 137,
+                "technique": "Smears",
+                "text_fragment": "if they die, the country is safe"
+            },
+            {
+                "start": 113,
+                "end": 116,
+                "technique": "Loaded Language",
+                "text_fragment": "die"
+            }
+        ]
+    },
+    {
+        "id": "211_batch_2",
+        "text": "OUR CONSTITUTION WAS WRITTEN TO STOP PEOPLE LIKE THESE",
+        "labels": [
+            {
+                "start": 0,
+                "end": 16,
+                "technique": "Flag-waving",
+                "text_fragment": "OUR CONSTITUTION"
+            }
+        ]
+    },
+    {
+        "id": "212_batch_2",
+        "text": "WHEN YOU ARE SO FULL OF SHIT THAT YOU NEED A SECOND ASSHOLE",
+        "labels": [
+            {
+                "start": 24,
+                "end": 28,
+                "technique": "Loaded Language",
+                "text_fragment": "SHIT"
+            },
+            {
+                "start": 52,
+                "end": 59,
+                "technique": "Loaded Language",
+                "text_fragment": "ASSHOLE"
+            }
+        ]
+    },
+    {
+        "id": "213_batch_2",
+        "text": "BREAKING: Massive crowds at biden's rally",
+        "labels": []
+    },
+    {
+        "id": "214_batch_2",
+        "text": "THE FIRST PRESIDENT TO EVER FIGHT CHILD SEX TRAFFICKING\n\nIF THAT DOESN'T EARN YOUR VOTE, NOTHING WILL",
+        "labels": [
+            {
+                "end": 55,
+                "start": 0,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "THE FIRST PRESIDENT TO EVER FIGHT CHILD SEX TRAFFICKING"
+            },
+            {
+                "end": 55,
+                "start": 0,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "THE FIRST PRESIDENT TO EVER FIGHT CHILD SEX TRAFFICKING"
+            },
+            {
+                "end": 101,
+                "start": 57,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "IF THAT DOESN'T EARN YOUR VOTE, NOTHING WILL"
+            },
+            {
+                "end": 55,
+                "start": 34,
+                "technique": "Loaded Language",
+                "text_fragment": "CHILD SEX TRAFFICKING"
+            }
+        ]
+    },
+    {
+        "id": "215_batch_2",
+        "text": "TRUMP SAID THEY ARE FIGHTING AN ANCIENT SEX TRAFFICKING RING AND NOT A SINGLE REPORTER ASKED FOR MORE INFORMATION.\n",
+        "labels": [
+            {
+                "start": 40,
+                "end": 55,
+                "technique": "Loaded Language",
+                "text_fragment": "SEX TRAFFICKING"
+            },
+            {
+                "start": 65,
+                "end": 113,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "NOT A SINGLE REPORTER ASKED FOR MORE INFORMATION"
+            }
+        ]
+    },
+    {
+        "id": "216_batch_2",
+        "text": "I BULLSHITTED AND USED BLACKS AND MINORITIES TO GET ELECTED AND DID NOTHING FOR THEM...\n\nNOW I'M ENDORSING JOE BIDEN TO DO THE EXACT SAME THING.",
+        "labels": [
+            {
+                "start": 2,
+                "end": 13,
+                "technique": "Loaded Language",
+                "text_fragment": "BULLSHITTED"
+            },
+            {
+                "start": 0,
+                "end": 143,
+                "technique": "Misrepresentation of Someone's Position (Straw Man)",
+                "text_fragment": "I BULLSHITTED AND USED BLACKS AND MINORITIES TO GET ELECTED AND DID NOTHING FOR THEM...\n\nNOW I'M ENDORSING JOE BIDEN TO DO THE EXACT SAME THING"
+            },
+            {
+                "start": 0,
+                "end": 143,
+                "technique": "Smears",
+                "text_fragment": "I BULLSHITTED AND USED BLACKS AND MINORITIES TO GET ELECTED AND DID NOTHING FOR THEM...\n\nNOW I'M ENDORSING JOE BIDEN TO DO THE EXACT SAME THING"
+            }
+        ]
+    },
+    {
+        "id": "219_batch_2",
+        "text": "The first Black woman vice President and her family.",
+        "labels": []
+    },
+    {
+        "id": "220_batch_2",
+        "text": "WHO SHIT MY PANTS?",
+        "labels": [
+            {
+                "start": 4,
+                "end": 8,
+                "technique": "Loaded Language",
+                "text_fragment": "SHIT"
+            }
+        ]
+    },
+    {
+        "id": "221_batch_2",
+        "text": "Joey, have you ever rubbed the blonde hair on a grown mans leg?",
+        "labels": []
+    },
+    {
+        "id": "223_batch_2",
+        "text": "STILL YOUR PRESIDENT",
+        "labels": []
+    },
+    {
+        "id": "224_batch_2",
+        "text": "ME: “Name your high-level sources.\"\n\nLIB JOURNO:",
+        "labels": [
+            {
+                "start": 37,
+                "end": 47,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "LIB JOURNO"
+            }
+        ]
+    },
+    {
+        "id": "225_batch_2",
+        "text": "DONALD, HOW DO YOU SLEEP AT NIGHT KNOWING HOW MANY PEOPLE HATE YOU?\n\nNAKED WITH A SUPER MODEL, AND IT'S MR. PRESIDENT TO YOU.",
+        "labels": [
+            {
+                "start": 69,
+                "end": 124,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "NAKED WITH A SUPER MODEL, AND IT'S MR. PRESIDENT TO YOU"
+            },
+            {
+                "start": 58,
+                "end": 62,
+                "technique": "Loaded Language",
+                "text_fragment": "HATE"
+            }
+        ]
+    },
+    {
+        "id": "226_batch_2",
+        "text": "THE MOMENT YOU REGRET THE TRANSITION SURGERY",
+        "labels": []
+    },
+    {
+        "id": "227_batch_2",
+        "text": "I BET HE'S THINKING ABOUT ANOTHER WOMAN\n\nWHY HAVEN'T THEY ARRESTED HER YET?",
+        "labels": [
+            {
+                "start": 41,
+                "end": 75,
+                "technique": "Doubt",
+                "text_fragment": "WHY HAVEN'T THEY ARRESTED HER YET?"
+            }
+        ]
+    },
+    {
+        "id": "228_batch_2",
+        "text": "The picture they show you when you have an erection lasting more than 4 hours\n",
+        "labels": [
+            {
+                "start": 43,
+                "end": 51,
+                "technique": "Loaded Language",
+                "text_fragment": "erection"
+            }
+        ]
+    },
+    {
+        "id": "229_batch_2",
+        "text": "If Trump serves a total of 8 years .. He will have donated his salary of $3,200,000!!\n\n\"The most honest man in Washington!\"",
+        "labels": [
+            {
+                "start": 0,
+                "end": 85,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "If Trump serves a total of 8 years .. He will have donated his salary of $3,200,000!!"
+            },
+            {
+                "start": 88,
+                "end": 122,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "The most honest man in Washington!"
+            },
+            {
+                "start": 88,
+                "end": 122,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "The most honest man in Washington!"
+            }
+        ]
+    },
+    {
+        "id": "230_batch_2",
+        "text": "47 MONTHS VS 47 YEARS\n\nYOU DECIDE WHO GOT MORE DONE AND WHO IS THE PROBLEM",
+        "labels": []
+    },
+    {
+        "id": "231_batch_2",
+        "text": "It's just a debate!\nCome on Joe, you can do it.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 19,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "It's just a debate!"
+            }
+        ]
+    },
+    {
+        "id": "232_batch_2",
+        "text": "NON-ESSENTIAL EMPLOYEE OF THE MONTH 48 YEARS IN A ROW",
+        "labels": [
+            {
+                "start": 0,
+                "end": 35,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "NON-ESSENTIAL EMPLOYEE OF THE MONTH"
+            }
+        ]
+    },
+    {
+        "id": "233_batch_2",
+        "text": "Oh shit look at that we all get treated the same way!! Who knew",
+        "labels": [
+            {
+                "start": 3,
+                "end": 7,
+                "technique": "Loaded Language",
+                "text_fragment": "shit"
+            }
+        ]
+    },
+    {
+        "id": "234_batch_2",
+        "text": "DEFAMED BY CNN.\nSUES CNN.\nWINS. \nTHEN ROASTS CNN\n...ON CNN",
+        "labels": [
+            {
+                "start": 0,
+                "end": 7,
+                "technique": "Loaded Language",
+                "text_fragment": "DEFAMED"
+            },
+            {
+                "start": 38,
+                "end": 44,
+                "technique": "Loaded Language",
+                "text_fragment": "ROASTS"
+            }
+        ]
+    },
+    {
+        "id": "235_batch_2",
+        "text": "The First Black Lives Matter Meeting!",
+        "labels": []
+    },
+    {
+        "id": "236_batch_2",
+        "text": "THE POLITICAL PARTY WHO LOST 33,000 EMAILS WANTS MAIL-IN VOTING?",
+        "labels": [
+            {
+                "start": 0,
+                "end": 64,
+                "technique": "Doubt",
+                "text_fragment": "THE POLITICAL PARTY WHO LOST 33,000 EMAILS WANTS MAIL-IN VOTING?"
+            }
+        ]
+    },
+    {
+        "id": "237_batch_2",
+        "text": "LISTEN UP GROUP\n \nGIVE ME A THUMBS UP IF YOU WANT THE VILLAGE IDIOT \"ALEXANDER\" BOOTED",
+        "labels": [
+            {
+                "start": 62,
+                "end": 67,
+                "technique": "Loaded Language",
+                "text_fragment": "IDIOT"
+            },
+            {
+                "start": 80,
+                "end": 86,
+                "technique": "Loaded Language",
+                "text_fragment": "BOOTED"
+            },
+            {
+                "start": 54,
+                "end": 79,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "VILLAGE IDIOT \"ALEXANDER\""
+            }
+        ]
+    },
+    {
+        "id": "238_batch_2",
+        "text": "Trump loves Miners!\n\nBiden loves Minors!",
+        "labels": [
+            {
+                "start": 21,
+                "end": 40,
+                "technique": "Smears",
+                "text_fragment": "Biden loves Minors!"
+            },
+            {
+                "start": 0,
+                "end": 19,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "Trump loves Miners!"
+            }
+        ]
+    },
+    {
+        "id": "239_batch_2",
+        "text": "ВABY'S LIVES MATTER",
+        "labels": [
+            {
+                "start": 0,
+                "end": 19,
+                "technique": "Slogans",
+                "text_fragment": "ВABY'S LIVES MATTER"
+            }
+        ]
+    },
+    {
+        "id": "240_batch_2",
+        "text": "If the democrats really were for women and minorities why did they put an old white guy on top and make her serve him?\nThat sounds extremely racist and sexist, doesn't it?",
+        "labels": [
+            {
+                "start": 141,
+                "end": 147,
+                "technique": "Loaded Language",
+                "text_fragment": "racist"
+            },
+            {
+                "start": 152,
+                "end": 158,
+                "technique": "Loaded Language",
+                "text_fragment": "sexist"
+            },
+            {
+                "start": 0,
+                "end": 171,
+                "technique": "Smears",
+                "text_fragment": "If the democrats really were for women and minorities why did they put an old white guy on top and make her serve him?\nThat sounds extremely racist and sexist, doesn't it?"
+            },
+            {
+                "start": 74,
+                "end": 87,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "old white guy"
+            }
+        ]
+    },
+    {
+        "id": "241_batch_2",
+        "text": "WHICH AMERICA WILL YOU VOTE FOR\n\nBIDEN\n\nTRUMP",
+        "labels": []
+    },
+    {
+        "id": "242_batch_2",
+        "text": "Snowflakes begging THIS guy to save them from trolls\n\nThe rest of Earth",
+        "labels": [
+            {
+                "start": 0,
+                "end": 10,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Snowflakes"
+            },
+            {
+                "start": 0,
+                "end": 18,
+                "technique": "Loaded Language",
+                "text_fragment": "Snowflakes begging"
+            },
+            {
+                "start": 46,
+                "end": 52,
+                "technique": "Loaded Language",
+                "text_fragment": "trolls"
+            }
+        ]
+    },
+    {
+        "id": "244_batch_2",
+        "text": "BREAKING NEWS... SHIT FLOATS!",
+        "labels": [
+            {
+                "start": 17,
+                "end": 21,
+                "technique": "Loaded Language",
+                "text_fragment": "SHIT"
+            }
+        ]
+    },
+    {
+        "id": "245_batch_2",
+        "text": "I can't breath in this thing you have no idea how hard this is\n\n(Laughs in MOPP 4)",
+        "labels": []
+    },
+    {
+        "id": "248_batch_2",
+        "text": "PROOF YOU DON'T HAVE TO FLY A PLANE INTO A BUILDING TO DESTROY A NATION!",
+        "labels": [
+            {
+                "start": 55,
+                "end": 72,
+                "technique": "Loaded Language",
+                "text_fragment": "DESTROY A NATION!"
+            }
+        ]
+    },
+    {
+        "id": "249_batch_2",
+        "text": "BIDEN PART OF THE PROBLEM SINCE 1972",
+        "labels": [
+            {
+                "start": 0,
+                "end": 36,
+                "technique": "Smears",
+                "text_fragment": "BIDEN PART OF THE PROBLEM SINCE 1972"
+            }
+        ]
+    },
+    {
+        "id": "250_batch_2",
+        "text": "TRUMP DID IT?\n\nCNN",
+        "labels": []
+    },
+    {
+        "id": "251_batch_2",
+        "text": "The Democratic Party\nWe run cities... into the ground.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 54,
+                "technique": "Smears",
+                "text_fragment": "The Democratic Party\nWe run cities... into the ground."
+            }
+        ]
+    },
+    {
+        "id": "252_batch_2",
+        "text": "Preparing Joe Biden for a Q & A",
+        "labels": []
+    },
+    {
+        "id": "254_batch_2",
+        "text": "I JUST TESTED POSITIVE FOR A SECOND TERM!",
+        "labels": []
+    },
+    {
+        "id": "255_batch_2",
+        "text": "I HEARD Y'ALL DON'T WANT ME MODERATING ANYMORE. IS THAT TRUE?",
+        "labels": [
+            {
+                "start": 0,
+                "end": 61,
+                "technique": "Doubt",
+                "text_fragment": "I HEARD Y'ALL DON'T WANT ME MODERATING ANYMORE. IS THAT TRUE?"
+            }
+        ]
+    },
+    {
+        "id": "256_batch_2",
+        "text": "CHRIS WALLACE IS A DISGRACE AND SHOULD NOT MODERATE ANOTHER DEBATE AGAIN!",
+        "labels": [
+            {
+                "start": 0,
+                "end": 73,
+                "technique": "Smears",
+                "text_fragment": "CHRIS WALLACE IS A DISGRACE AND SHOULD NOT MODERATE ANOTHER DEBATE AGAIN!"
+            },
+            {
+                "start": 19,
+                "end": 27,
+                "technique": "Loaded Language",
+                "text_fragment": "DISGRACE"
+            }
+        ]
+    },
+    {
+        "id": "257_batch_2",
+        "text": "WORST MODERATOR EVER!",
+        "labels": [
+            {
+                "start": 0,
+                "end": 21,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "WORST MODERATOR EVER!"
+            },
+            {
+                "start": 0,
+                "end": 21,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "WORST MODERATOR EVER!"
+            }
+        ]
+    },
+    {
+        "id": "258_batch_2",
+        "text": "DO YOU THINK CHRIS WALLACE WILL BE FAIR TO PRESIDENT TRUMP?",
+        "labels": [
+            {
+                "start": 0,
+                "end": 59,
+                "technique": "Doubt",
+                "text_fragment": "DO YOU THINK CHRIS WALLACE WILL BE FAIR TO PRESIDENT TRUMP?"
+            }
+        ]
+    },
+    {
+        "id": "259_batch_2",
+        "text": "WHO ELSE IS LOOKING FORWARD TO ME BEATING \"SLEEPY\" JOE IN THE DEBATE?",
+        "labels": [
+            {
+                "start": 42,
+                "end": 54,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "\"SLEEPY\" JOE"
+            }
+        ]
+    },
+    {
+        "id": "260_batch_2",
+        "text": "IF THEY CAN IMPEACH HIM IN AN ELECTION YEAR, HE CAN PICK A SUPREME COURT JUSTICE.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 80,
+                "technique": "Whataboutism",
+                "text_fragment": "IF THEY CAN IMPEACH HIM IN AN ELECTION YEAR, HE CAN PICK A SUPREME COURT JUSTICE"
+            }
+        ]
+    },
+    {
+        "id": "262_batch_2",
+        "text": "WE CAN SURVIVE WITHOUT THE AMERICAN ATHLETE BUT NOT WITHOUT THE AMERICAN SOLDIER",
+        "labels": [
+            {
+                "start": 0,
+                "end": 80,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "WE CAN SURVIVE WITHOUT THE AMERICAN ATHLETE BUT NOT WITHOUT THE AMERICAN SOLDIER"
+            },
+            {
+                "start": 64,
+                "end": 80,
+                "technique": "Flag-waving",
+                "text_fragment": "AMERICAN SOLDIER"
+            }
+        ]
+    },
+    {
+        "id": "263_batch_2",
+        "text": "WOULD YOU TRUST ME?",
+        "labels": []
+    },
+    {
+        "id": "264_batch_2",
+        "text": "\"IF YOU CAN PROTEST IN PERSON, YOU CAN VOTE IN PERSON.\" - TRUMP\n\nDO YOU AGREE?",
+        "labels": [
+            {
+                "start": 1,
+                "end": 53,
+                "technique": "Whataboutism",
+                "text_fragment": "IF YOU CAN PROTEST IN PERSON, YOU CAN VOTE IN PERSON"
+            }
+        ]
+    },
+    {
+        "id": "265_batch_2",
+        "text": "WHEN YOU SEE THE GUY WHO SAID “YOU'LL NEVER BE\nPRESIDENT\" AT YOUR INAUGURATION",
+        "labels": []
+    },
+    {
+        "id": "266_batch_2",
+        "text": "SO THEY PROTEST IN PERSON AGAINST VOTING IN PERSON!?\n\nPostmaster\nSaboteur",
+        "labels": [
+            {
+                "start": 0,
+                "end": 51,
+                "technique": "Whataboutism",
+                "text_fragment": "SO THEY PROTEST IN PERSON AGAINST VOTING IN PERSON!"
+            },
+            {
+                "start": 0,
+                "end": 52,
+                "technique": "Doubt",
+                "text_fragment": "SO THEY PROTEST IN PERSON AGAINST VOTING IN PERSON!?"
+            }
+        ]
+    },
+    {
+        "id": "267_batch_2",
+        "text": "DO Y'ALL REALLY WANT US TO RETIRE?",
+        "labels": []
+    },
+    {
+        "id": "268_batch_2",
+        "text": "WOULD YOU EVER VOTE DEMOCRAT TO RUN YOUR CITY?",
+        "labels": [
+            {
+                "start": 0,
+                "end": 46,
+                "technique": "Doubt",
+                "text_fragment": "WOULD YOU EVER VOTE DEMOCRAT TO RUN YOUR CITY?"
+            }
+        ]
+    },
+    {
+        "id": "269_batch_2",
+        "text": "\"I stand for the flag because I am a proud American.\"\n– Stephon Tuitt\nPittsburgh Steelers\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 69,
+                "technique": "Appeal to authority",
+                "text_fragment": "\"I stand for the flag because I am a proud American.\"\n– Stephon Tuitt"
+            },
+            {
+                "start": 1,
+                "end": 52,
+                "technique": "Flag-waving",
+                "text_fragment": "I stand for the flag because I am a proud American."
+            },
+            {
+                "start": 37,
+                "end": 51,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "proud American"
+            }
+        ]
+    },
+    {
+        "id": "270_batch_2",
+        "text": "THAT FACE YOU MAKE WHEN CRIMINALS ARE QUESTIONING YOUR INTEGRITY",
+        "labels": []
+    },
+    {
+        "id": "271_batch_2",
+        "text": "STATES OF AMERICA\n\nUsed to think Trump was great but now seeing the whole system was rigged against him, I have to believe now that he is one of the greatest of all time!",
+        "labels": [
+            {
+                "start": 19,
+                "end": 170,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "Used to think Trump was great but now seeing the whole system was rigged against him, I have to believe now that he is one of the greatest of all time!"
+            },
+            {
+                "start": 85,
+                "end": 103,
+                "technique": "Loaded Language",
+                "text_fragment": "rigged against him"
+            },
+            {
+                "start": 149,
+                "end": 170,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "greatest of all time!"
+            }
+        ]
+    },
+    {
+        "id": "272_batch_2",
+        "text": "IT DOES NOT MATTER WHAT DEMS, HOLLYWOOD ELITES AND MEDIA PUNDITS SAY\n\nI TRUST OUR PRESIDENT AND WILL VOTE FOR HIM AGAIN!",
+        "labels": [
+            {
+                "start": 30,
+                "end": 46,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "HOLLYWOOD ELITES"
+            },
+            {
+                "start": 70,
+                "end": 120,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "I TRUST OUR PRESIDENT AND WILL VOTE FOR HIM AGAIN!"
+            }
+        ]
+    },
+    {
+        "id": "273_batch_2",
+        "text": "The United States of America should be a sanctuary for law abiding Americans, not criminal aliens.",
+        "labels": [
+            {
+                "start": 82,
+                "end": 97,
+                "technique": "Loaded Language",
+                "text_fragment": "criminal aliens"
+            },
+            {
+                "start": 82,
+                "end": 97,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "criminal aliens"
+            },
+            {
+                "start": 55,
+                "end": 76,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "law abiding Americans"
+            },
+            {
+                "start": 41,
+                "end": 50,
+                "technique": "Loaded Language",
+                "text_fragment": "sanctuary"
+            }
+        ]
+    },
+    {
+        "id": "274_batch_2",
+        "text": "IN A SHOW OF HANDS, WHO'S STILL VOTING FOR ME IN 2020?",
+        "labels": []
+    },
+    {
+        "id": "275_batch_2",
+        "text": "He knew he was entering a den of vipers.\nAnd he went in anyway.\nFor us.\n\nAre You Thankful for Trump?",
+        "labels": [
+            {
+                "end": 71,
+                "start": 0,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "He knew he was entering a den of vipers.\nAnd he went in anyway.\nFor us."
+            },
+            {
+                "end": 39,
+                "start": 26,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "den of vipers"
+            }
+        ]
+    },
+    {
+        "id": "276_batch_2",
+        "text": "HAPPY 4TH PATRIOTS!\n\nMAKE AMERICA GREAT AGAIN!",
+        "labels": [
+            {
+                "start": 21,
+                "end": 46,
+                "technique": "Slogans",
+                "text_fragment": "MAKE AMERICA GREAT AGAIN!"
+            },
+            {
+                "start": 0,
+                "end": 46,
+                "technique": "Flag-waving",
+                "text_fragment": "HAPPY 4TH PATRIOTS!\n\nMAKE AMERICA GREAT AGAIN!"
+            }
+        ]
+    },
+    {
+        "id": "277_batch_2",
+        "text": "MICHIGAN GOVERNOR WHITMER IS NOW ASKING FOR WASHINGTON'S HELP WITH HER BUDGET.\nI DON'T THINK PRESIDENT TRUMP SHOULD GIVE HER A SINGLE DIME.\nDO YOU AGREE?\n",
+        "labels": [
+            {
+                "start": 125,
+                "end": 138,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "A SINGLE DIME"
+            }
+        ]
+    },
+    {
+        "id": "278_batch_2",
+        "text": "THERE IS NO COMPARISON BETWEEN PAT TILLMAN AND COLIN KAEPERNICK!",
+        "labels": []
+    },
+    {
+        "id": "279_batch_2",
+        "text": "\"NEVER TAKE A KNEE! ONLY TO GOD!\" \n- PRESIDENT TRUMP",
+        "labels": [
+            {
+                "start": 0,
+                "end": 52,
+                "technique": "Appeal to authority",
+                "text_fragment": "\"NEVER TAKE A KNEE! ONLY TO GOD!\" \n- PRESIDENT TRUMP"
+            },
+            {
+                "start": 1,
+                "end": 32,
+                "technique": "Slogans",
+                "text_fragment": "NEVER TAKE A KNEE! ONLY TO GOD!"
+            }
+        ]
+    },
+    {
+        "id": "280_batch_2",
+        "text": "WE WENT FROM THE WORST PRESIDENT EVER TO THE BEST PRESIDENT EVER.\nWHO AGREES?",
+        "labels": [
+            {
+                "start": 17,
+                "end": 38,
+                "technique": "Smears",
+                "text_fragment": "WORST PRESIDENT EVER "
+            },
+            {
+                "start": 45,
+                "end": 64,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "BEST PRESIDENT EVER"
+            },
+            {
+                "start": 13,
+                "end": 37,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "THE WORST PRESIDENT EVER"
+            },
+            {
+                "start": 41,
+                "end": 64,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "THE BEST PRESIDENT EVER"
+            },
+            {
+                "start": 13,
+                "end": 37,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "THE WORST PRESIDENT EVER"
+            },
+            {
+                "start": 41,
+                "end": 64,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "THE BEST PRESIDENT EVER"
+            }
+        ]
+    },
+    {
+        "id": "281_batch_2",
+        "text": "Make AOC Bartend Again.\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 22,
+                "technique": "Slogans",
+                "text_fragment": "Make AOC Bartend Again"
+            },
+            {
+                "start": 0,
+                "end": 22,
+                "technique": "Smears",
+                "text_fragment": "Make AOC Bartend Again"
+            }
+        ]
+    },
+    {
+        "id": "282_batch_2",
+        "text": "THE MAYOR OF MINNEAPOLIS WANTS 55 MILLION DOLLARS FOR DAMAGES CAUSED BY RIOTS. I DON'T THINK HE SHOULD GET A PENNY! DO YOU AGREE?",
+        "labels": [
+            {
+                "start": 72,
+                "end": 77,
+                "technique": "Loaded Language",
+                "text_fragment": "RIOTS"
+            },
+            {
+                "start": 79,
+                "end": 115,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "I DON'T THINK HE SHOULD GET A PENNY!"
+            }
+        ]
+    },
+    {
+        "id": "284_batch_2",
+        "text": "PRESIDENT TRUMP SAYS HE WILL DESIGNATE ANTIFA AS A TERRORIST GROUP.\nDO YOU AGREE WITH HIM?",
+        "labels": [
+            {
+                "start": 51,
+                "end": 66,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "TERRORIST GROUP"
+            },
+            {
+                "start": 51,
+                "end": 66,
+                "technique": "Loaded Language",
+                "text_fragment": "TERRORIST GROUP"
+            }
+        ]
+    },
+    {
+        "id": "285_batch_2",
+        "text": "NANCY THINKS THIS IS MORBIDLY OBESE. \nWHAT DO YOU THINK?",
+        "labels": [
+            {
+                "start": 21,
+                "end": 35,
+                "technique": "Loaded Language",
+                "text_fragment": "MORBIDLY OBESE"
+            }
+        ]
+    },
+    {
+        "id": "288_batch_2",
+        "text": "WHEN DID AMERICA STOP BEING GREAT ?\n\nWHEN THIS CLOWN WAS ELECTED TWICE !",
+        "labels": [
+            {
+                "start": 0,
+                "end": 72,
+                "technique": "Causal Oversimplification",
+                "text_fragment": "WHEN DID AMERICA STOP BEING GREAT ?\n\nWHEN THIS CLOWN WAS ELECTED TWICE !"
+            },
+            {
+                "start": 0,
+                "end": 72,
+                "technique": "Smears",
+                "text_fragment": "WHEN DID AMERICA STOP BEING GREAT ?\n\nWHEN THIS CLOWN WAS ELECTED TWICE !"
+            },
+            {
+                "start": 47,
+                "end": 52,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "CLOWN"
+            }
+        ]
+    },
+    {
+        "id": "289_batch_2",
+        "text": "78 YEAR OLD VIRUS\n\nSTILL NO CURE!",
+        "labels": []
+    },
+    {
+        "id": "290_batch_2",
+        "text": "HOPE YOU HAD FUN INVESTIGATING ME\n\nNOW IT'S MY TURN",
+        "labels": []
+    },
+    {
+        "id": "291_batch_2",
+        "text": "IF YOU WOULD LIKE TO SEE ADAM SCHIFF TRIED FOR TREASON, GIVE A YUGE THUMBS UP!",
+        "labels": [
+            {
+                "start": 0,
+                "end": 78,
+                "technique": "Smears",
+                "text_fragment": "IF YOU WOULD LIKE TO SEE ADAM SCHIFF TRIED FOR TREASON, GIVE A YUGE THUMBS UP!"
+            },
+            {
+                "start": 47,
+                "end": 54,
+                "technique": "Loaded Language",
+                "text_fragment": "TREASON"
+            }
+        ]
+    },
+    {
+        "id": "292_batch_2",
+        "text": "IMPEACH TRUMP BEFORE WE ALL END UP WITH JOBS!",
+        "labels": [
+            {
+                "start": 0,
+                "end": 45,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "IMPEACH TRUMP BEFORE WE ALL END UP WITH JOBS!"
+            }
+        ]
+    },
+    {
+        "id": "294_batch_2",
+        "text": "ELECTION IS ONLY 6 MONTHS WAY!\n\nTHUMBS UP FOR TRUMP AND THUMPS DOWN FOR BIDEN!",
+        "labels": [
+            {
+                "start": 56,
+                "end": 78,
+                "technique": "Smears",
+                "text_fragment": "THUMPS DOWN FOR BIDEN!"
+            },
+            {
+                "start": 32,
+                "end": 51,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "THUMBS UP FOR TRUMP"
+            }
+        ]
+    },
+    {
+        "id": "295_batch_2",
+        "text": "I still don't understand how a man who's never held\npublic office until being elected President is blamed for all of America's problems...\nBy the people we've had in Congress since the 1970's.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 191,
+                "technique": "Doubt",
+                "text_fragment": "I still don't understand how a man who's never held\npublic office until being elected President is blamed for all of America's problems...\nBy the people we've had in Congress since the 1970's"
+            },
+            {
+                "start": 0,
+                "end": 191,
+                "technique": "Whataboutism",
+                "text_fragment": "I still don't understand how a man who's never held\npublic office until being elected President is blamed for all of America's problems...\nBy the people we've had in Congress since the 1970's"
+            }
+        ]
+    },
+    {
+        "id": "296_batch_2",
+        "text": "We The People Want This Woman Out Of Office",
+        "labels": [
+            {
+                "start": 0,
+                "end": 43,
+                "technique": "Smears",
+                "text_fragment": "We The People Want This Woman Out Of Office"
+            }
+        ]
+    },
+    {
+        "id": "298_batch_2",
+        "text": "KNOCK KNOCK\n\nWHO'S THERE?\n\nWHO'S WHERE?",
+        "labels": []
+    },
+    {
+        "id": "299_batch_2",
+        "text": "I picked you for president",
+        "labels": []
+    },
+    {
+        "id": "300_batch_2",
+        "text": "\"American warriors did not defeat fascism and oppression overseas only to watch our freedoms be trampled by violent mobs here at home.\"\n- President Donald Trump",
+        "labels": [
+            {
+                "start": 0,
+                "end": 160,
+                "technique": "Appeal to authority",
+                "text_fragment": "\"American warriors did not defeat fascism and oppression overseas only to watch our freedoms be trampled by violent mobs here at home.\"\n- President Donald Trump"
+            },
+            {
+                "start": 1,
+                "end": 18,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "American warriors"
+            },
+            {
+                "start": 34,
+                "end": 56,
+                "technique": "Loaded Language",
+                "text_fragment": "fascism and oppression"
+            },
+            {
+                "start": 84,
+                "end": 120,
+                "technique": "Loaded Language",
+                "text_fragment": "freedoms be trampled by violent mobs"
+            },
+            {
+                "start": 108,
+                "end": 120,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "violent mobs"
+            },
+            {
+                "start": 80,
+                "end": 120,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "our freedoms be trampled by violent mobs"
+            }
+        ]
+    },
+    {
+        "id": "302_batch_2",
+        "text": "House Majority Whip James Clyburn, gave it away with one comment.\n\nCoVid 19 \"is a tremendous opportunity to restructure things to fit our vision,\"\n",
+        "labels": [
+            {
+                "end": 104,
+                "start": 82,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "tremendous opportunity"
+            },
+            {
+                "end": 146,
+                "start": 0,
+                "technique": "Smears",
+                "text_fragment": "House Majority Whip James Clyburn, gave it away with one comment.\n\nCoVid 19 \"is a tremendous opportunity to restructure things to fit our vision,\""
+            }
+        ]
+    },
+    {
+        "id": "303_batch_2",
+        "text": "NIKE CALLED AND SAID THEY WERE BEING LOOTED-\nBY BLACK LIVES MATTER.\n\nI TOLD THEM TO CALL THE NFL FOR HELP!",
+        "labels": [
+            {
+                "start": 37,
+                "end": 43,
+                "technique": "Loaded Language",
+                "text_fragment": "LOOTED"
+            }
+        ]
+    },
+    {
+        "id": "304_batch_2",
+        "text": "THE PARTY THAT CONSTANTLY CALLS THE RIGHT RACIST AND SEXIST JUST CHOSE THEIR VP BASED ON RACE AND SEX.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 102,
+                "technique": "Whataboutism",
+                "text_fragment": "THE PARTY THAT CONSTANTLY CALLS THE RIGHT RACIST AND SEXIST JUST CHOSE THEIR VP BASED ON RACE AND SEX."
+            },
+            {
+                "start": 42,
+                "end": 48,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "RACIST"
+            },
+            {
+                "start": 53,
+                "end": 59,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "SEXIST"
+            },
+            {
+                "start": 42,
+                "end": 59,
+                "technique": "Loaded Language",
+                "text_fragment": "RACIST AND SEXIST"
+            }
+        ]
+    },
+    {
+        "id": "305_batch_2",
+        "text": "WHAT DOES A GOVERNMENT DO ONCE IT HAS DISARMED ITS CITIZENS?\nWHATEVER IT WANTS.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 78,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "WHAT DOES A GOVERNMENT DO ONCE IT HAS DISARMED ITS CITIZENS?\nWHATEVER IT WANTS"
+            }
+        ]
+    },
+    {
+        "id": "306_batch_2",
+        "text": "THAT LOOK YOU GET WHEN YOUR BILLION DOLLAR VIRUS HAS A $20 CURE.",
+        "labels": [
+            {
+                "start": 28,
+                "end": 48,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "BILLION DOLLAR VIRUS"
+            }
+        ]
+    },
+    {
+        "id": "307_batch_2",
+        "text": "IF WE WERE REALLY WRONG ABOUT THEM THEY WOULDN'T NEED TO CENSOR US",
+        "labels": [
+            {
+                "start": 0,
+                "end": 66,
+                "technique": "Causal Oversimplification",
+                "text_fragment": "IF WE WERE REALLY WRONG ABOUT THEM THEY WOULDN'T NEED TO CENSOR US"
+            },
+            {
+                "start": 57,
+                "end": 63,
+                "technique": "Loaded Language",
+                "text_fragment": "CENSOR"
+            }
+        ]
+    },
+    {
+        "id": "308_batch_2",
+        "text": "It's No Longer Democrat vs Republican\n\nIt's Communism vs Freedom",
+        "labels": [
+            {
+                "start": 44,
+                "end": 53,
+                "technique": "Loaded Language",
+                "text_fragment": "Communism"
+            },
+            {
+                "start": 57,
+                "end": 64,
+                "technique": "Loaded Language",
+                "text_fragment": "Freedom"
+            },
+            {
+                "start": 0,
+                "end": 64,
+                "technique": "Smears",
+                "text_fragment": "It's No Longer Democrat vs Republican\n\nIt's Communism vs Freedom"
+            },
+            {
+                "start": 0,
+                "end": 64,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "It's No Longer Democrat vs Republican\n\nIt's Communism vs Freedom"
+            },
+            {
+                "start": 44,
+                "end": 53,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Communism"
+            },
+            {
+                "start": 57,
+                "end": 64,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Freedom"
+            }
+        ]
+    },
+    {
+        "id": "309_batch_2",
+        "text": "LOCKDOWN IS THE ONLY WAY TO KEEP YOU SAFE\n\nREALLY?",
+        "labels": [
+            {
+                "start": 0,
+                "end": 41,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "LOCKDOWN IS THE ONLY WAY TO KEEP YOU SAFE"
             }
         ]
     }
