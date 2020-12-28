@@ -9420,5 +9420,2314 @@
                 "text_fragment": "I WENT TO A PETTING ZOO YESTERDAY.\n\nTHAT WAS AN ELEMENTARY SCHOOL JOE"
             }
         ]
+    },
+    {
+        "id": "571_batch_2",
+        "text": "WE SEEM TO BE MOVING STEADILY IN THE DIRECTION OF A SOCIETY WHERE NO ONE IS RESPONSIBLE FOR WHAT HE HIMSELF DID BUT WE ARE ALL RESPONSIBLE FOR WHAT SOMEBODY ELSE DID, EITHER IN THE PRESENT OR IN THE PAST.\nTHOMAS SOWELL\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 218,
+                "technique": "Appeal to authority",
+                "text_fragment": "WE SEEM TO BE MOVING STEADILY IN THE DIRECTION OF A SOCIETY WHERE NO ONE IS RESPONSIBLE FOR WHAT HE HIMSELF DID BUT WE ARE ALL RESPONSIBLE FOR WHAT SOMEBODY ELSE DID, EITHER IN THE PRESENT OR IN THE PAST.\nTHOMAS SOWELL"
+            }
+        ]
+    },
+    {
+        "id": "572_batch_2",
+        "text": "I could sit here all day and still be full of shit.\n",
+        "labels": [
+            {
+                "start": 38,
+                "end": 50,
+                "technique": "Loaded Language",
+                "text_fragment": "full of shit"
+            }
+        ]
+    },
+    {
+        "id": "573_batch_2",
+        "text": "The devil bowed her head\nBecause she knew that she'd been beat\nAnd she laid that golden pen\nOn the ground at Donald's feet\nDonald said, \"Nancy, just come on back\nIf you ever want to try again\nI done told you once you drunk old bat\nI'm still your PRESIDENT\"\n",
+        "labels": [
+            {
+                "start": 4,
+                "end": 9,
+                "technique": "Loaded Language",
+                "text_fragment": "devil"
+            },
+            {
+                "start": 4,
+                "end": 9,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "devil"
+            },
+            {
+                "start": 137,
+                "end": 230,
+                "technique": "Smears",
+                "text_fragment": "Nancy, just come on back\nIf you ever want to try again\nI done told you once you drunk old bat"
+            },
+            {
+                "start": 213,
+                "end": 230,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "you drunk old bat"
+            },
+            {
+                "start": 217,
+                "end": 230,
+                "technique": "Loaded Language",
+                "text_fragment": "drunk old bat"
+            },
+            {
+                "start": 231,
+                "end": 255,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "I'm still your PRESIDENT"
+            }
+        ]
+    },
+    {
+        "id": "574_batch_2",
+        "text": "LET ME BLOW IN YOUR EAR..\n\nTHAT'S AWESOME!\nTHANKS FOR THE REFILL!\n",
+        "labels": [
+            {
+                "start": 34,
+                "end": 41,
+                "technique": "Loaded Language",
+                "text_fragment": "AWESOME"
+            }
+        ]
+    },
+    {
+        "id": "575_batch_2",
+        "text": "LET ME GET THIS STRAIGHT.\n\nYOU KNOW BILL GATES OPENLY STATED VACCINES WILL BE USED TO DEPOPULATE THE WORLD 10%-15%, THAT HE RAN PANDEMIC DRILLS IN OCTOBER CALLED EVENT 201, HE ALREADY HAD A CORONA VACCINE PATENT.....\nAND YOU'RE STILL GOING TO TAKE HIS VACCINE?\nARE YOU FUCKING INSANE \n",
+        "labels": [
+            {
+                "start": 36,
+                "end": 114,
+                "technique": "Misrepresentation of Someone's Position (Straw Man)",
+                "text_fragment": "BILL GATES OPENLY STATED VACCINES WILL BE USED TO DEPOPULATE THE WORLD 10%-15%"
+            },
+            {
+                "start": 36,
+                "end": 211,
+                "technique": "Smears",
+                "text_fragment": "BILL GATES OPENLY STATED VACCINES WILL BE USED TO DEPOPULATE THE WORLD 10%-15%, THAT HE RAN PANDEMIC DRILLS IN OCTOBER CALLED EVENT 201, HE ALREADY HAD A CORONA VACCINE PATENT"
+            },
+            {
+                "start": 86,
+                "end": 114,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "DEPOPULATE THE WORLD 10%-15%"
+            },
+            {
+                "start": 221,
+                "end": 260,
+                "technique": "Doubt",
+                "text_fragment": "YOU'RE STILL GOING TO TAKE HIS VACCINE?"
+            },
+            {
+                "start": 269,
+                "end": 283,
+                "technique": "Loaded Language",
+                "text_fragment": "FUCKING INSANE"
+            }
+        ]
+    },
+    {
+        "id": "576_batch_2",
+        "text": "In an effort to level the playing field, Barron Trump will debate Joe Biden\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 75,
+                "technique": "Smears",
+                "text_fragment": "In an effort to level the playing field, Barron Trump will debate Joe Biden"
+            }
+        ]
+    },
+    {
+        "id": "577_batch_2",
+        "text": "SORRY, BUT I DON'T LISTEN TO ANTI-GUN LECTURES FROM PEOPLE WHO THINK IT'S OK TO KILL A BABY.",
+        "labels": [
+            {
+                "start": 11,
+                "end": 91,
+                "technique": "Whataboutism",
+                "text_fragment": "I DON'T LISTEN TO ANTI-GUN LECTURES FROM PEOPLE WHO THINK IT'S OK TO KILL A BABY"
+            },
+            {
+                "start": 52,
+                "end": 91,
+                "technique": "Misrepresentation of Someone's Position (Straw Man)",
+                "text_fragment": "PEOPLE WHO THINK IT'S OK TO KILL A BABY"
+            },
+            {
+                "start": 52,
+                "end": 91,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "PEOPLE WHO THINK IT'S OK TO KILL A BABY"
+            },
+            {
+                "start": 80,
+                "end": 91,
+                "technique": "Loaded Language",
+                "text_fragment": "KILL A BABY"
+            },
+            {
+                "start": 87,
+                "end": 91,
+                "technique": "Obfuscation, Intentional vagueness, Confusion",
+                "text_fragment": "BABY"
+            }
+        ]
+    },
+    {
+        "id": "578_batch_2",
+        "text": "SO WHAT DID YOU LEARN AT HOME DURING THE PANDEMIC?\n\nI'm a boy!\n\nI'm a girl!\n\nNuke Goddam China!\n\n",
+        "labels": [
+            {
+                "start": 77,
+                "end": 81,
+                "technique": "Loaded Language",
+                "text_fragment": "Nuke"
+            },
+            {
+                "start": 77,
+                "end": 95,
+                "technique": "Slogans",
+                "text_fragment": "Nuke Goddam China!"
+            },
+            {
+                "start": 82,
+                "end": 88,
+                "technique": "Loaded Language",
+                "text_fragment": "Goddam"
+            },
+            {
+                "start": 82,
+                "end": 94,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Goddam China"
+            }
+        ]
+    },
+    {
+        "id": "579_batch_2",
+        "text": "I AND I ALONE CONTROL YOUR WORLDS CLIMATE.\nNOW SHUT THE FUCK UP OR I'LL FRY YOUR ASSES.\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 41,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "I AND I ALONE CONTROL YOUR WORLDS CLIMATE"
+            },
+            {
+                "start": 43,
+                "end": 86,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "NOW SHUT THE FUCK UP OR I'LL FRY YOUR ASSES"
+            },
+            {
+                "start": 47,
+                "end": 63,
+                "technique": "Loaded Language",
+                "text_fragment": "SHUT THE FUCK UP"
+            },
+            {
+                "start": 47,
+                "end": 86,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "SHUT THE FUCK UP OR I'LL FRY YOUR ASSES"
+            },
+            {
+                "start": 72,
+                "end": 86,
+                "technique": "Loaded Language",
+                "text_fragment": "FRY YOUR ASSES"
+            }
+        ]
+    },
+    {
+        "id": "580_batch_2",
+        "text": "ON MY WAY BACK TO THE WHITE HOUSE\n\nMR. TRUMP NEEDS ME\nAMERICA NEEDS ME\n",
+        "labels": []
+    },
+    {
+        "id": "581_batch_2",
+        "text": "WHEN THE HOLY SPIRIT CRANKS THE PASTOR UP AND\nHE GETS REAL SPECIFIC ABOUT YOUR SITUATION.\n",
+        "labels": [
+            {
+                "start": 9,
+                "end": 20,
+                "technique": "Loaded Language",
+                "text_fragment": "HOLY SPIRIT"
+            },
+            {
+                "start": 21,
+                "end": 27,
+                "technique": "Loaded Language",
+                "text_fragment": "CRANKS"
+            }
+        ]
+    },
+    {
+        "id": "582_batch_2",
+        "text": "Democrats love saying \"orange man\" so much\n\nthey nominated a vegetable!!\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 71,
+                "technique": "Smears",
+                "text_fragment": "Democrats love saying \"orange man\" so much\n\nthey nominated a vegetable!"
+            },
+            {
+                "start": 22,
+                "end": 34,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "\"orange man\""
+            },
+            {
+                "start": 61,
+                "end": 70,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "vegetable"
+            }
+        ]
+    },
+    {
+        "id": "583_batch_2",
+        "text": "If we wipe out the Coronavirus when the warm weather comes we can tell the liberals that Global Warming killed it and watch their heads explode!\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 144,
+                "technique": "Smears",
+                "text_fragment": "If we wipe out the Coronavirus when the warm weather comes we can tell the liberals that Global Warming killed it and watch their heads explode!"
+            },
+            {
+                "start": 6,
+                "end": 14,
+                "technique": "Loaded Language",
+                "text_fragment": "wipe out"
+            },
+            {
+                "start": 89,
+                "end": 103,
+                "technique": "Loaded Language",
+                "text_fragment": "Global Warming"
+            },
+            {
+                "start": 104,
+                "end": 110,
+                "technique": "Loaded Language",
+                "text_fragment": "killed"
+            },
+            {
+                "start": 130,
+                "end": 144,
+                "technique": "Loaded Language",
+                "text_fragment": "heads explode!"
+            }
+        ]
+    },
+    {
+        "id": "584_batch_2",
+        "text": "When the left finds out sunshine kills the China virus\n",
+        "labels": [
+            {
+                "start": 33,
+                "end": 38,
+                "technique": "Loaded Language",
+                "text_fragment": "kills"
+            },
+            {
+                "start": 43,
+                "end": 54,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "China virus"
+            }
+        ]
+    },
+    {
+        "id": "585_batch_2",
+        "text": "HOW YOU THINK YOU LOOK PROTESTING THE LOCKDOWNS\n\nHOW YOU ACTUALLY LOOK PROTESTING THE LOCKDOWNS\nHELP! HELP! I'M BEING REPRESSED!\n",
+        "labels": [
+            {
+                "start": 118,
+                "end": 127,
+                "technique": "Loaded Language",
+                "text_fragment": "REPRESSED"
+            }
+        ]
+    },
+    {
+        "id": "586_batch_2",
+        "text": "Mexican word of the Day: Biden\n\n\"Help! This gringo is Biden my ear!\"\n",
+        "labels": [
+            {
+                "start": 39,
+                "end": 50,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "This gringo"
+            },
+            {
+                "start": 44,
+                "end": 50,
+                "technique": "Loaded Language",
+                "text_fragment": "gringo"
+            }
+        ]
+    },
+    {
+        "id": "587_batch_2",
+        "text": "EVERYTHING IS GOING AS PLANNED.",
+        "labels": []
+    },
+    {
+        "id": "588_batch_2",
+        "text": "HOW TO KILL THE CORONOVIRUS\n\nHey Hillary, I hear the Coronavirus is going to testify against you.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 96,
+                "technique": "Smears",
+                "text_fragment": "HOW TO KILL THE CORONOVIRUS\n\nHey Hillary, I hear the Coronavirus is going to testify against you"
+            },
+            {
+                "start": 7,
+                "end": 11,
+                "technique": "Loaded Language",
+                "text_fragment": "KILL"
+            }
+        ]
+    },
+    {
+        "id": "589_batch_2",
+        "text": "REMEMBER, NO MATTER HOW BAD THINGS GET AT LEAST YOU'RE NOT QUARANTINED WITH HILLARY!",
+        "labels": [
+            {
+                "start": 0,
+                "end": 84,
+                "technique": "Smears",
+                "text_fragment": "REMEMBER, NO MATTER HOW BAD THINGS GET AT LEAST YOU'RE NOT QUARANTINED WITH HILLARY!"
+            }
+        ]
+    },
+    {
+        "id": "590_batch_2",
+        "text": "When there have been 0 mass shootings during Quarantine when Guns and Ammo are being bought in mass.\n\nWOULD YOU JUST LOOK AT THAT",
+        "labels": [
+            {
+                "start": 23,
+                "end": 37,
+                "technique": "Loaded Language",
+                "text_fragment": "mass shootings"
+            }
+        ]
+    },
+    {
+        "id": "591_batch_2",
+        "text": "IMPEACH THE DEMOCRATS\n\nKEEP AMERICA GREAT",
+        "labels": [
+            {
+                "start": 0,
+                "end": 21,
+                "technique": "Slogans",
+                "text_fragment": "IMPEACH THE DEMOCRATS"
+            },
+            {
+                "start": 0,
+                "end": 22,
+                "technique": "Smears",
+                "text_fragment": "IMPEACH THE DEMOCRATS\n"
+            },
+            {
+                "start": 23,
+                "end": 41,
+                "technique": "Slogans",
+                "text_fragment": "KEEP AMERICA GREAT"
+            },
+            {
+                "start": 23,
+                "end": 41,
+                "technique": "Flag-waving",
+                "text_fragment": "KEEP AMERICA GREAT"
+            }
+        ]
+    },
+    {
+        "id": "592_batch_2",
+        "text": "If Nonessential was A Human",
+        "labels": []
+    },
+    {
+        "id": "593_batch_2",
+        "text": "THE FACE YOU MAKE WHEN REALIZING COVID-19 DIES AT 80 DEGREES AND GLOBAL WARMING CAN SAVE US",
+        "labels": [
+            {
+                "start": 65,
+                "end": 79,
+                "technique": "Loaded Language",
+                "text_fragment": "GLOBAL WARMING"
+            }
+        ]
+    },
+    {
+        "id": "594_batch_2",
+        "text": "Infected for 9 days\nBeen in contact with 42 people Asymptomatic & feeling fine!\n\nInfected for 35 minutes\nAbout to get super sick, miss two weeks of work & a truck payment\n\nDating a nurse.\n\nMom has cancer.\n\nHas asthma.\n\nAsymptomatic? Lucky for you.\nCould be bad luck for everyone else.",
+        "labels": [
+            {
+                "start": 197,
+                "end": 203,
+                "technique": "Loaded Language",
+                "text_fragment": "cancer"
+            }
+        ]
+    },
+    {
+        "id": "595_batch_2",
+        "text": "normal people\n\nconspiracy theorists",
+        "labels": []
+    },
+    {
+        "id": "597_batch_2",
+        "text": "When I walk into a southern grocery store with my mask on",
+        "labels": []
+    },
+    {
+        "id": "599_batch_2",
+        "text": "When I hear someone basing their trust in a vaccine on which politicians approve it.\nWithout even looking at what scientists say.",
+        "labels": []
+    },
+    {
+        "id": "600_batch_2",
+        "text": "David skipped the flu shot.\nHe got sick and recovered within a week.\nHis elderly grandmother was not so lucky.\n\nVaccines - It isn't always about you.",
+        "labels": [
+            {
+                "start": 69,
+                "end": 109,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "His elderly grandmother was not so lucky"
+            },
+            {
+                "start": 112,
+                "end": 148,
+                "technique": "Slogans",
+                "text_fragment": "Vaccines - It isn't always about you"
+            }
+        ]
+    },
+    {
+        "id": "601_batch_2",
+        "text": "Before you let that political advertisment outrage you try to remember the last time a political ad told you anything objectively.",
+        "labels": [
+            {
+                "start": 43,
+                "end": 50,
+                "technique": "Loaded Language",
+                "text_fragment": "outrage"
+            },
+            {
+                "start": 62,
+                "end": 129,
+                "technique": "Doubt",
+                "text_fragment": "remember the last time a political ad told you anything objectively"
+            }
+        ]
+    },
+    {
+        "id": "602_batch_2",
+        "text": "Anti-maskers\n\"You'll never take OUR FREEDOM!\"\n\nThe rest of society\n\"You're just going to the store mate. Put yer fuckin' mask on!\"",
+        "labels": [
+            {
+                "start": 36,
+                "end": 43,
+                "technique": "Loaded Language",
+                "text_fragment": "FREEDOM"
+            },
+            {
+                "start": 47,
+                "end": 130,
+                "technique": "Smears",
+                "text_fragment": "The rest of society\n\"You're just going to the store mate. Put yer fuckin' mask on!\""
+            },
+            {
+                "start": 113,
+                "end": 119,
+                "technique": "Loaded Language",
+                "text_fragment": "fuckin"
+            },
+            {
+                "start": 14,
+                "end": 44,
+                "technique": "Slogans",
+                "text_fragment": "You'll never take OUR FREEDOM!"
+            }
+        ]
+    },
+    {
+        "id": "603_batch_2",
+        "text": "THIS IS AN ANTIDEPRESSANT\n\nTHIS IS SHIT\n\nDepression is a serious illness that kills over 800,000 people every year.\nIts causes and treatments are complicated and nuanced. \nIt is not something that can be treated flippantly with a day in the forest.",
+        "labels": [
+            {
+                "start": 35,
+                "end": 39,
+                "technique": "Loaded Language",
+                "text_fragment": "SHIT"
+            },
+            {
+                "start": 41,
+                "end": 114,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "Depression is a serious illness that kills over 800,000 people every year"
+            },
+            {
+                "start": 212,
+                "end": 222,
+                "technique": "Loaded Language",
+                "text_fragment": "flippantly"
+            },
+            {
+                "start": 78,
+                "end": 83,
+                "technique": "Loaded Language",
+                "text_fragment": "kills"
+            }
+        ]
+    },
+    {
+        "id": "604_batch_2",
+        "text": "Homeopathy is fake medicine that by definition has no active ingredients.\nThe so-called doctors\" who prescribe it are either incompetent or frauds. \nThey are giving fake medicine to sick people and belong in jail.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 212,
+                "technique": "Smears",
+                "text_fragment": "Homeopathy is fake medicine that by definition has no active ingredients.\nThe so-called doctors\" who prescribe it are either incompetent or frauds. \nThey are giving fake medicine to sick people and belong in jail"
+            },
+            {
+                "start": 14,
+                "end": 27,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "fake medicine"
+            },
+            {
+                "start": 74,
+                "end": 146,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "The so-called doctors\" who prescribe it are either incompetent or frauds"
+            },
+            {
+                "start": 140,
+                "end": 146,
+                "technique": "Loaded Language",
+                "text_fragment": "frauds"
+            },
+            {
+                "start": 165,
+                "end": 178,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "fake medicine"
+            },
+            {
+                "start": 125,
+                "end": 136,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "incompetent"
+            },
+            {
+                "start": 140,
+                "end": 146,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "frauds"
+            },
+            {
+                "start": 158,
+                "end": 193,
+                "technique": "Loaded Language",
+                "text_fragment": "giving fake medicine to sick people"
+            },
+            {
+                "start": 198,
+                "end": 212,
+                "technique": "Loaded Language",
+                "text_fragment": "belong in jail"
+            }
+        ]
+    },
+    {
+        "id": "605_batch_2",
+        "text": "Before we get started sir, is your blood\ntype liberal, conservative, or independent?\n\n(Yes, making medical decisions based on politics is as stupid as this sounds)",
+        "labels": [
+            {
+                "start": 141,
+                "end": 147,
+                "technique": "Loaded Language",
+                "text_fragment": "stupid"
+            }
+        ]
+    },
+    {
+        "id": "606_batch_2",
+        "text": "Maybe if we renamed diseases after anti-vaccine activists, less children would have to suffer.\nLike this child with Jim Carrey's Disease (chicken Pox)",
+        "labels": [
+            {
+                "start": 116,
+                "end": 136,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Jim Carrey's Disease"
+            },
+            {
+                "start": 0,
+                "end": 136,
+                "technique": "Smears",
+                "text_fragment": "Maybe if we renamed diseases after anti-vaccine activists, less children would have to suffer.\nLike this child with Jim Carrey's Disease"
+            },
+            {
+                "start": 0,
+                "end": 93,
+                "technique": "Doubt",
+                "text_fragment": "Maybe if we renamed diseases after anti-vaccine activists, less children would have to suffer"
+            }
+        ]
+    },
+    {
+        "id": "607_batch_2",
+        "text": "I have a conspiracy blog that exposes the way big corporations control the world by propaganda.\n\nYour blog is hosted on Amazon, registered by GolDaddy, and mostly found via Google.\nTell me again how this propaganda thing works?",
+        "labels": [
+            {
+                "start": 97,
+                "end": 227,
+                "technique": "Doubt",
+                "text_fragment": "Your blog is hosted on Amazon, registered by GolDaddy, and mostly found via Google.\nTell me again how this propaganda thing works?"
+            },
+            {
+                "start": 9,
+                "end": 24,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "conspiracy blog"
+            },
+            {
+                "start": 30,
+                "end": 94,
+                "technique": "Loaded Language",
+                "text_fragment": "exposes the way big corporations control the world by propaganda"
+            },
+            {
+                "start": 0,
+                "end": 227,
+                "technique": "Whataboutism",
+                "text_fragment": "I have a conspiracy blog that exposes the way big corporations control the world by propaganda.\n\nYour blog is hosted on Amazon, registered by GolDaddy, and mostly found via Google.\nTell me again how this propaganda thing works?"
+            }
+        ]
+    },
+    {
+        "id": "608_batch_2",
+        "text": "l'll never know measles, chicken pox, polio, or whooping cough.\n\nThanks for having me vaccinated Mom.\nI love you",
+        "labels": [
+            {
+                "start": 0,
+                "end": 15,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "l'll never know"
+            },
+            {
+                "start": 102,
+                "end": 112,
+                "technique": "Loaded Language",
+                "text_fragment": "I love you"
+            },
+            {
+                "start": 65,
+                "end": 100,
+                "technique": "Loaded Language",
+                "text_fragment": "Thanks for having me vaccinated Mom"
+            }
+        ]
+    },
+    {
+        "id": "610_batch_2",
+        "text": "Mom, can't I see a doctor?\nNo honey. \nI'm sure GonzoSk8r69 knows what's best for you.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 84,
+                "technique": "Smears",
+                "text_fragment": "Mom, can't I see a doctor?\nNo honey. \nI'm sure GonzoSk8r69 knows what's best for you"
+            }
+        ]
+    },
+    {
+        "id": "611_batch_2",
+        "text": "Common name: \nAsian Giant Hornet\n\nName the media uses to scare you into clicking links: Murder Hornet",
+        "labels": [
+            {
+                "start": 57,
+                "end": 62,
+                "technique": "Loaded Language",
+                "text_fragment": "scare"
+            },
+            {
+                "start": 88,
+                "end": 94,
+                "technique": "Loaded Language",
+                "text_fragment": "Murder"
+            },
+            {
+                "start": 88,
+                "end": 101,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Murder Hornet"
+            },
+            {
+                "start": 34,
+                "end": 101,
+                "technique": "Smears",
+                "text_fragment": "Name the media uses to scare you into clicking links: Murder Hornet"
+            }
+        ]
+    },
+    {
+        "id": "613_batch_2",
+        "text": "When your anti-vaccine friend is upset that you called them on their bullshit.",
+        "labels": [
+            {
+                "start": 10,
+                "end": 29,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "anti-vaccine friend"
+            },
+            {
+                "start": 33,
+                "end": 38,
+                "technique": "Loaded Language",
+                "text_fragment": "upset"
+            },
+            {
+                "start": 0,
+                "end": 77,
+                "technique": "Smears",
+                "text_fragment": "When your anti-vaccine friend is upset that you called them on their bullshit"
+            },
+            {
+                "start": 48,
+                "end": 77,
+                "technique": "Loaded Language",
+                "text_fragment": "called them on their bullshit"
+            }
+        ]
+    },
+    {
+        "id": "614_batch_2",
+        "text": "If anti-lockdown protest logic were applied to other areas of life:\n\"Ok guys, we've slowed to a safe falling speed, SO we clearly don't need these parachutes anymore!\"",
+        "labels": [
+            {
+                "start": 0,
+                "end": 167,
+                "technique": "Doubt",
+                "text_fragment": "If anti-lockdown protest logic were applied to other areas of life:\n\"Ok guys, we've slowed to a safe falling speed, SO we clearly don't need these parachutes anymore!\""
+            },
+            {
+                "start": 0,
+                "end": 167,
+                "technique": "Misrepresentation of Someone's Position (Straw Man)",
+                "text_fragment": "If anti-lockdown protest logic were applied to other areas of life:\n\"Ok guys, we've slowed to a safe falling speed, SO we clearly don't need these parachutes anymore!\""
+            },
+            {
+                "start": 3,
+                "end": 30,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "anti-lockdown protest logic"
+            }
+        ]
+    },
+    {
+        "id": "615_batch_2",
+        "text": "If you truly believe I can hear your thoughts and prayers wherever you are\nThen it doesn't make a lot of sense to crowd together in a church during a pandemic does it?\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 168,
+                "technique": "Smears",
+                "text_fragment": "If you truly believe I can hear your thoughts and prayers wherever you are\nThen it doesn't make a lot of sense to crowd together in a church during a pandemic does it?\n"
+            },
+            {
+                "start": 7,
+                "end": 20,
+                "technique": "Loaded Language",
+                "text_fragment": "truly believe"
+            },
+            {
+                "start": 114,
+                "end": 158,
+                "technique": "Loaded Language",
+                "text_fragment": "crowd together in a church during a pandemic"
+            },
+            {
+                "start": 0,
+                "end": 167,
+                "technique": "Whataboutism",
+                "text_fragment": "If you truly believe I can hear your thoughts and prayers wherever you are\nThen it doesn't make a lot of sense to crowd together in a church during a pandemic does it?"
+            }
+        ]
+    },
+    {
+        "id": "618_batch_2",
+        "text": "This is your child\n\nThis is your child on vaccines\n\nAny Questions?",
+        "labels": [
+            {
+                "start": 52,
+                "end": 66,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "Any Questions?"
+            }
+        ]
+    },
+    {
+        "id": "619_batch_2",
+        "text": "If you think your body has energy fields.\nIt means you don't actually understand what energy is.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 95,
+                "technique": "Smears",
+                "text_fragment": "If you think your body has energy fields.\nIt means you don't actually understand what energy is"
+            }
+        ]
+    },
+    {
+        "id": "620_batch_2",
+        "text": "The reason I don't eat plant based meats is because\nI want to support our farmers.\nSure, but aren't you ignoring the plight of hard working people in the soybean mines?",
+        "labels": [
+            {
+                "start": 127,
+                "end": 146,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "hard working people"
+            },
+            {
+                "start": 154,
+                "end": 167,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "soybean mines"
+            },
+            {
+                "start": 104,
+                "end": 167,
+                "technique": "Loaded Language",
+                "text_fragment": "ignoring the plight of hard working people in the soybean mines"
+            },
+            {
+                "start": 0,
+                "end": 168,
+                "technique": "Whataboutism",
+                "text_fragment": "The reason I don't eat plant based meats is because\nI want to support our farmers.\nSure, but aren't you ignoring the plight of hard working people in the soybean mines?"
+            }
+        ]
+    },
+    {
+        "id": "621_batch_2",
+        "text": "The radiation emitted from this lamp is far more energetic than 5G signals.\n\nNeither are harmful to your health. \nExcept when you use them to read woo on the internet.\n\n",
+        "labels": [
+            {
+                "start": 147,
+                "end": 150,
+                "technique": "Loaded Language",
+                "text_fragment": "woo"
+            }
+        ]
+    },
+    {
+        "id": "622_batch_2",
+        "text": "50,000 people die from influenza and most people don't get vaccinated.\n\nA few cases of ebola, SARS, or corona virus show up and everyone loses their minds.\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 154,
+                "technique": "Whataboutism",
+                "text_fragment": "50,000 people die from influenza and most people don't get vaccinated.\n\nA few cases of ebola, SARS, or corona virus show up and everyone loses their minds"
+            },
+            {
+                "start": 72,
+                "end": 123,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "A few cases of ebola, SARS, or corona virus show up"
+            },
+            {
+                "start": 137,
+                "end": 154,
+                "technique": "Loaded Language",
+                "text_fragment": "loses their minds"
+            },
+            {
+                "start": 128,
+                "end": 154,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "everyone loses their minds"
+            },
+            {
+                "start": 14,
+                "end": 17,
+                "technique": "Loaded Language",
+                "text_fragment": "die"
+            }
+        ]
+    },
+    {
+        "id": "623_batch_2",
+        "text": "Number of confirmed injuries due to strangers tampering with Halloween candy since 1970: None\n\nNumber of confirmed injuries due to meteorites since 1970: 1100+\n\n",
+        "labels": []
+    },
+    {
+        "id": "624_batch_2",
+        "text": "Still waiting...\n\nFor peer reviewed evidence of eating GMO foods harming human health.\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 85,
+                "technique": "Doubt",
+                "text_fragment": "Still waiting...\n\nFor peer reviewed evidence of eating GMO foods harming human health"
+            },
+            {
+                "start": 55,
+                "end": 85,
+                "technique": "Loaded Language",
+                "text_fragment": "GMO foods harming human health"
+            }
+        ]
+    },
+    {
+        "id": "625_batch_2",
+        "text": "Nathan Rothschild\nPart of a family who:\n- Never financed both sides of any war.\n- Doesn't own any central banks\n- Are accused by conspiracy theorists of having more money than actually exists.\n\n",
+        "labels": [
+            {
+                "start": 118,
+                "end": 149,
+                "technique": "Loaded Language",
+                "text_fragment": "accused by conspiracy theorists"
+            },
+            {
+                "start": 118,
+                "end": 191,
+                "technique": "Doubt",
+                "text_fragment": "accused by conspiracy theorists of having more money than actually exists"
+            }
+        ]
+    },
+    {
+        "id": "626_batch_2",
+        "text": "The annual conference of scientists who have proven\nthat GMO foods are harmful...\n...seems just as busy as last year's\n\n",
+        "labels": [
+            {
+                "start": 57,
+                "end": 78,
+                "technique": "Loaded Language",
+                "text_fragment": "GMO foods are harmful"
+            }
+        ]
+    },
+    {
+        "id": "627_batch_2",
+        "text": "\"We know that the increase in atmospheric CO2 comes from fossil fuels by examining isotopes. \nWe know that an increase in CO2 means that more heat is trapped in the atmosphere.\nAdding more CO2 to the system will result in an increase in temperature.\"\n\n\"But some people at the Climate protest were littering!\"\n",
+        "labels": [
+            {
+                "start": 252,
+                "end": 308,
+                "technique": "Smears",
+                "text_fragment": "\"But some people at the Climate protest were littering!\""
+            }
+        ]
+    },
+    {
+        "id": "628_batch_2",
+        "text": "Just a heads up, Most quotes you see from me being passed around the internet aren't actually mine.\n-Morgan Freeman\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 115,
+                "technique": "Appeal to authority",
+                "text_fragment": "Just a heads up, Most quotes you see from me being passed around the internet aren't actually mine.\n-Morgan Freeman"
+            }
+        ]
+    },
+    {
+        "id": "629_batch_2",
+        "text": "Where did the \"ancient\" concept of Qi and meridians\nthat your acupuncture practitioner speaks of originate?\n\nFrom this French author in 1939. \nNothing ancient or Chinese about it.\n\n",
+        "labels": [
+            {
+                "start": 14,
+                "end": 23,
+                "technique": "Doubt",
+                "text_fragment": "\"ancient\""
+            },
+            {
+                "start": 0,
+                "end": 178,
+                "technique": "Doubt",
+                "text_fragment": "Where did the \"ancient\" concept of Qi and meridians\nthat your acupuncture practitioner speaks of originate?\n\nFrom this French author in 1939. \nNothing ancient or Chinese about it"
+            }
+        ]
+    },
+    {
+        "id": "630_batch_2",
+        "text": "Yes, I'm homeopathic, why do you ask?\n\nI'd like to see a real medical doctor instead if you don't mind.\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 103,
+                "technique": "Smears",
+                "text_fragment": "Yes, I'm homeopathic, why do you ask?\n\nI'd like to see a real medical doctor instead if you don't mind."
+            },
+            {
+                "start": 57,
+                "end": 76,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "real medical doctor"
+            }
+        ]
+    },
+    {
+        "id": "631_batch_2",
+        "text": "If you criticize others for ignoring hard scientific data confirming anthropogenic global warming...\n...but ignore hard scientific data that shows GMO foods are safe and organic food has no nutritional advantage...\n\nYou're doing science wrong!\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 214,
+                "technique": "Whataboutism",
+                "text_fragment": "If you criticize others for ignoring hard scientific data confirming anthropogenic global warming...\n...but ignore hard scientific data that shows GMO foods are safe and organic food has no nutritional advantage..."
+            },
+            {
+                "start": 37,
+                "end": 57,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "hard scientific data"
+            },
+            {
+                "start": 115,
+                "end": 135,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "hard scientific data"
+            },
+            {
+                "start": 69,
+                "end": 97,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "anthropogenic global warming"
+            },
+            {
+                "start": 7,
+                "end": 16,
+                "technique": "Loaded Language",
+                "text_fragment": "criticize"
+            },
+            {
+                "start": 28,
+                "end": 57,
+                "technique": "Loaded Language",
+                "text_fragment": "ignoring hard scientific data"
+            },
+            {
+                "start": 108,
+                "end": 135,
+                "technique": "Loaded Language",
+                "text_fragment": "ignore hard scientific data"
+            },
+            {
+                "start": 216,
+                "end": 243,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "You're doing science wrong!"
+            }
+        ]
+    },
+    {
+        "id": "633_batch_2",
+        "text": "This site is bound to be honest and unbiased.\n\nIt has the word \"truth\" right in the URL.\n\n",
+        "labels": [
+            {
+                "start": 25,
+                "end": 44,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "honest and unbiased"
+            },
+            {
+                "start": 25,
+                "end": 44,
+                "technique": "Loaded Language",
+                "text_fragment": "honest and unbiased"
+            },
+            {
+                "start": 63,
+                "end": 70,
+                "technique": "Loaded Language",
+                "text_fragment": "\"truth\""
+            }
+        ]
+    },
+    {
+        "id": "634_batch_2",
+        "text": "\"I'm really worried about getting cancer from those wind turbines!\"\n\n\"Well, they blow the chemtrails away, so I think it's worth the risk.\"\n",
+        "labels": [
+            {
+                "start": 34,
+                "end": 40,
+                "technique": "Loaded Language",
+                "text_fragment": "cancer"
+            },
+            {
+                "start": 5,
+                "end": 19,
+                "technique": "Loaded Language",
+                "text_fragment": "really worried"
+            }
+        ]
+    },
+    {
+        "id": "635_batch_2",
+        "text": "I don't get it. \nMy parents refuse to vaccinate me because they say the aluminium in vaccines is poison.\n\nThen they go and feed me food that contains aluminium all day?\n\n",
+        "labels": [
+            {
+                "start": 17,
+                "end": 168,
+                "technique": "Whataboutism",
+                "text_fragment": "My parents refuse to vaccinate me because they say the aluminium in vaccines is poison.\n\nThen they go and feed me food that contains aluminium all day?"
+            },
+            {
+                "start": 97,
+                "end": 103,
+                "technique": "Loaded Language",
+                "text_fragment": "poison"
+            },
+            {
+                "start": 106,
+                "end": 168,
+                "technique": "Doubt",
+                "text_fragment": "Then they go and feed me food that contains aluminium all day?"
+            },
+            {
+                "start": 28,
+                "end": 47,
+                "technique": "Loaded Language",
+                "text_fragment": "refuse to vaccinate"
+            }
+        ]
+    },
+    {
+        "id": "636_batch_2",
+        "text": "Naturopathy,\nFor those who want to look like a real doctor, but cant be bothered with all that pesky science.\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 108,
+                "technique": "Smears",
+                "text_fragment": "Naturopathy,\nFor those who want to look like a real doctor, but cant be bothered with all that pesky science"
+            },
+            {
+                "start": 95,
+                "end": 108,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "pesky science"
+            },
+            {
+                "start": 64,
+                "end": 108,
+                "technique": "Loaded Language",
+                "text_fragment": "cant be bothered with all that pesky science"
+            }
+        ]
+    },
+    {
+        "id": "637_batch_2",
+        "text": "Most children undergoing cancer treatment cannot be vaccinated. \nTheir lives are in danger from unvaccinated people.\n\nVaccines. \nIt isn't always about you.\n",
+        "labels": [
+            {
+                "start": 71,
+                "end": 90,
+                "technique": "Loaded Language",
+                "text_fragment": "lives are in danger"
+            },
+            {
+                "start": 118,
+                "end": 155,
+                "technique": "Slogans",
+                "text_fragment": "Vaccines. \nIt isn't always about you."
+            },
+            {
+                "start": 25,
+                "end": 31,
+                "technique": "Loaded Language",
+                "text_fragment": "cancer"
+            }
+        ]
+    },
+    {
+        "id": "638_batch_2",
+        "text": "Cancer cures are suppressed because there's more money to be made in treating than curing.\n\nYou're trying to tell me tobacco companies wouldn't page huge money for a lung cancer cure?\n",
+        "labels": [
+            {
+                "start": 92,
+                "end": 183,
+                "technique": "Doubt",
+                "text_fragment": "You're trying to tell me tobacco companies wouldn't page huge money for a lung cancer cure?"
+            },
+            {
+                "start": 0,
+                "end": 27,
+                "technique": "Loaded Language",
+                "text_fragment": "Cancer cures are suppressed"
+            },
+            {
+                "start": 0,
+                "end": 89,
+                "technique": "Causal Oversimplification",
+                "text_fragment": "Cancer cures are suppressed because there's more money to be made in treating than curing"
+            },
+            {
+                "start": 92,
+                "end": 183,
+                "technique": "Misrepresentation of Someone's Position (Straw Man)",
+                "text_fragment": "You're trying to tell me tobacco companies wouldn't page huge money for a lung cancer cure?"
+            },
+            {
+                "start": 149,
+                "end": 159,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "huge money"
+            }
+        ]
+    },
+    {
+        "id": "639_batch_2",
+        "text": "\"Spreading the chemtrails is actually quite easy.\"\n\n\"Getting them right to the edge of the Earth without flying off into space is the difficult part.\"\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 150,
+                "technique": "Obfuscation, Intentional vagueness, Confusion",
+                "text_fragment": "\"Spreading the chemtrails is actually quite easy.\"\n\n\"Getting them right to the edge of the Earth without flying off into space is the difficult part.\""
+            }
+        ]
+    },
+    {
+        "id": "640_batch_2",
+        "text": "Breaking news!\n\nUniversity of Google alumni left reeling as Dunning-Kruger Syndrome spreads unchecked through their ranks.\n\n",
+        "labels": [
+            {
+                "start": 16,
+                "end": 121,
+                "technique": "Smears",
+                "text_fragment": "University of Google alumni left reeling as Dunning-Kruger Syndrome spreads unchecked through their ranks"
+            },
+            {
+                "start": 49,
+                "end": 56,
+                "technique": "Loaded Language",
+                "text_fragment": "reeling"
+            },
+            {
+                "start": 84,
+                "end": 121,
+                "technique": "Loaded Language",
+                "text_fragment": "spreads unchecked through their ranks"
+            },
+            {
+                "start": 16,
+                "end": 43,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "University of Google alumni"
+            },
+            {
+                "start": 0,
+                "end": 14,
+                "technique": "Slogans",
+                "text_fragment": "Breaking news!"
+            }
+        ]
+    },
+    {
+        "id": "641_batch_2",
+        "text": "In case you fell for it...\n\nIsraeli scientists have NOT found a cure for all cancers. It was just another case of bad science reporting by a credulous media.\n\n",
+        "labels": [
+            {
+                "start": 114,
+                "end": 135,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "bad science reporting"
+            },
+            {
+                "start": 141,
+                "end": 156,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "credulous media"
+            },
+            {
+                "start": 114,
+                "end": 135,
+                "technique": "Loaded Language",
+                "text_fragment": "bad science reporting"
+            }
+        ]
+    },
+    {
+        "id": "642_batch_2",
+        "text": "Large studies have found no correlation between glyphosate use among farmers and cancer rates.\n\nNone. Zip. Nada. Zilch.\n\n",
+        "labels": [
+            {
+                "start": 102,
+                "end": 105,
+                "technique": "Repetition",
+                "text_fragment": "Zip"
+            },
+            {
+                "start": 107,
+                "end": 111,
+                "technique": "Repetition",
+                "text_fragment": "Nada"
+            },
+            {
+                "start": 113,
+                "end": 118,
+                "technique": "Repetition",
+                "text_fragment": "Zilch"
+            }
+        ]
+    },
+    {
+        "id": "643_batch_2",
+        "text": "While there's no scientific consensus that acupuncture actually works, you can reasonably argue that it can have a placebo effect on humans.\n\nAnimals however do not respond to placebos, so all veterinary acupuncturists are doing is stabbing your pets for money. \nAnimal cruelty plain and simple.\n",
+        "labels": [
+            {
+                "start": 263,
+                "end": 277,
+                "technique": "Loaded Language",
+                "text_fragment": "Animal cruelty"
+            },
+            {
+                "start": 232,
+                "end": 260,
+                "technique": "Loaded Language",
+                "text_fragment": "stabbing your pets for money"
+            },
+            {
+                "start": 189,
+                "end": 260,
+                "technique": "Smears",
+                "text_fragment": "all veterinary acupuncturists are doing is stabbing your pets for money"
+            }
+        ]
+    },
+    {
+        "id": "644_batch_2",
+        "text": "The only thing \"essential\" oils are essential for is the seller's income\n\nAromatherapy has no proven medical benefits\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 117,
+                "technique": "Smears",
+                "text_fragment": "The only thing \"essential\" oils are essential for is the seller's income\n\nAromatherapy has no proven medical benefits"
+            }
+        ]
+    },
+    {
+        "id": "645_batch_2",
+        "text": "Claims big pharma won't sell natural medicines because they can't make a profit off what they can't patent.\n\nSpends $120 a month on water.\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 137,
+                "technique": "Whataboutism",
+                "text_fragment": "Claims big pharma won't sell natural medicines because they can't make a profit off what they can't patent.\n\nSpends $120 a month on water"
+            }
+        ]
+    },
+    {
+        "id": "646_batch_2",
+        "text": "\"I can't believe how cold it is lately. \nSo much for global warming.\"\n\n\"You mean the sea levels are falling and hundreds of thousands of square kilometres of polar ice has returned? That's fantastic news!\"\n\n",
+        "labels": [
+            {
+                "start": 72,
+                "end": 181,
+                "technique": "Misrepresentation of Someone's Position (Straw Man)",
+                "text_fragment": "You mean the sea levels are falling and hundreds of thousands of square kilometres of polar ice has returned?"
+            },
+            {
+                "start": 189,
+                "end": 203,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "fantastic news"
+            },
+            {
+                "start": 189,
+                "end": 203,
+                "technique": "Loaded Language",
+                "text_fragment": "fantastic news"
+            }
+        ]
+    },
+    {
+        "id": "647_batch_2",
+        "text": "Turkey does in fact contain l-tryptophan which can induce drowsiness.\n\nBut no more than beef, chicken, or other common meats.\nSo the drowsiness is more likely because you ate like a pig, had some wine, and then ate some more.\n\n",
+        "labels": [
+            {
+                "start": 171,
+                "end": 185,
+                "technique": "Loaded Language",
+                "text_fragment": "ate like a pig"
+            }
+        ]
+    },
+    {
+        "id": "648_batch_2",
+        "text": "Try to think of all the \"natural\" things that can harm or kill you.\n\nThen ask yourself why that word sways your choice of food.\n\n",
+        "labels": [
+            {
+                "start": 87,
+                "end": 126,
+                "technique": "Doubt",
+                "text_fragment": "why that word sways your choice of food"
+            },
+            {
+                "start": 24,
+                "end": 40,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "\"natural\" things"
+            },
+            {
+                "start": 50,
+                "end": 54,
+                "technique": "Loaded Language",
+                "text_fragment": "harm"
+            },
+            {
+                "start": 58,
+                "end": 62,
+                "technique": "Loaded Language",
+                "text_fragment": "kill"
+            }
+        ]
+    },
+    {
+        "id": "649_batch_2",
+        "text": "Could those of you saying that someone losing a Twitter account is akin to life under the Nazis\nKindly STFU?\n\n",
+        "labels": [
+            {
+                "start": 103,
+                "end": 107,
+                "technique": "Loaded Language",
+                "text_fragment": "STFU"
+            },
+            {
+                "start": 103,
+                "end": 107,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "STFU"
+            }
+        ]
+    },
+    {
+        "id": "650_batch_2",
+        "text": "Diphtheria, polio, smallpox...\n\nThat's the problem with you pro-vaccine people. \nYou keep bringing up diseases that almost nobody hears about anymore.\n\n",
+        "labels": []
+    },
+    {
+        "id": "651_batch_2",
+        "text": "Marty, I'm going back in time again!\n\nWhy? Is something wrong with my parents?\n\nNo.\nl just wanted to live in a time when vaccines being a good thing and the Earth being a globe wasn't something people actually debated.\n\n",
+        "labels": []
+    },
+    {
+        "id": "652_batch_2",
+        "text": "Calls for a ban on glyphosate based on a mistaken belief that it may be carcinogenic.\n\nKeeps drinking wine which IS carcinogenic\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 128,
+                "technique": "Whataboutism",
+                "text_fragment": "Calls for a ban on glyphosate based on a mistaken belief that it may be carcinogenic.\n\nKeeps drinking wine which IS carcinogenic"
+            },
+            {
+                "start": 41,
+                "end": 56,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "mistaken belief"
+            },
+            {
+                "start": 72,
+                "end": 84,
+                "technique": "Loaded Language",
+                "text_fragment": "carcinogenic"
+            },
+            {
+                "start": 116,
+                "end": 128,
+                "technique": "Loaded Language",
+                "text_fragment": "carcinogenic"
+            },
+            {
+                "start": 116,
+                "end": 128,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "carcinogenic"
+            }
+        ]
+    },
+    {
+        "id": "653_batch_2",
+        "text": "\"Those who believe without reason cannot be convinced by reason.\"\n-James Randi\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 78,
+                "technique": "Appeal to authority",
+                "text_fragment": "\"Those who believe without reason cannot be convinced by reason.\"\n-James Randi"
+            }
+        ]
+    },
+    {
+        "id": "654_batch_2",
+        "text": "We know the moon landings were not faked.\n\nBecause that's how we discovered the Earth was flat.\n\n",
+        "labels": [
+            {
+                "start": 35,
+                "end": 40,
+                "technique": "Loaded Language",
+                "text_fragment": "faked"
+            }
+        ]
+    },
+    {
+        "id": "655_batch_2",
+        "text": "Today we salute the 400,000 people involved in faking six moon landings for keeping their mouths shut for 49 years.\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 114,
+                "technique": "Doubt",
+                "text_fragment": "Today we salute the 400,000 people involved in faking six moon landings for keeping their mouths shut for 49 years"
+            },
+            {
+                "start": 47,
+                "end": 53,
+                "technique": "Loaded Language",
+                "text_fragment": "faking"
+            },
+            {
+                "start": 76,
+                "end": 101,
+                "technique": "Loaded Language",
+                "text_fragment": "keeping their mouths shut"
+            }
+        ]
+    },
+    {
+        "id": "656_batch_2",
+        "text": "Jake believes he's \"woke\".\n\nHe is suspicious of anything said by the government,\ncorporations, or any authority.\n\nYet he believes random uncited memes circulating on Facebook without question\n\nJake ain't woke\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 25,
+                "technique": "Doubt",
+                "text_fragment": "Jake believes he's \"woke\""
+            },
+            {
+                "start": 28,
+                "end": 191,
+                "technique": "Whataboutism",
+                "text_fragment": "He is suspicious of anything said by the government,\ncorporations, or any authority.\n\nYet he believes random uncited memes circulating on Facebook without question"
+            },
+            {
+                "start": 34,
+                "end": 44,
+                "technique": "Loaded Language",
+                "text_fragment": "suspicious"
+            },
+            {
+                "start": 204,
+                "end": 208,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "woke"
+            },
+            {
+                "start": 19,
+                "end": 25,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "\"woke\""
+            }
+        ]
+    },
+    {
+        "id": "657_batch_2",
+        "text": "Claim: Acupuncture is a form of Chinese medicine that is thousands of years old.\n\nHowever: The technology for making the needles is only a few hundred years old\n\n",
+        "labels": [
+            {
+                "start": 82,
+                "end": 160,
+                "technique": "Doubt",
+                "text_fragment": "However: The technology for making the needles is only a few hundred years old"
+            }
+        ]
+    },
+    {
+        "id": "658_batch_2",
+        "text": "Had a brain Injury and forgot everything he learned in medical school.\n\nSuccessful Naturopath.\n\n",
+        "labels": [
+            {
+                "start": 72,
+                "end": 93,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Successful Naturopath"
+            }
+        ]
+    },
+    {
+        "id": "659_batch_2",
+        "text": "When someone ignores your peer reviewed citations and tells you to \"do ur research\"\n\n",
+        "labels": []
+    },
+    {
+        "id": "660_batch_2",
+        "text": "\"If chemtrails aren't real, explain why they appear to turn on and off all the time?\"\n\n\"The same reason why you see your breath on a cold day, but not a hot day, dummy.\"\n\n",
+        "labels": [
+            {
+                "start": 162,
+                "end": 167,
+                "technique": "Loaded Language",
+                "text_fragment": "dummy"
+            },
+            {
+                "start": 162,
+                "end": 167,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "dummy"
+            },
+            {
+                "start": 1,
+                "end": 84,
+                "technique": "Doubt",
+                "text_fragment": "If chemtrails aren't real, explain why they appear to turn on and off all the time?"
+            }
+        ]
+    },
+    {
+        "id": "661_batch_2",
+        "text": "Aside from the vitamin seller,\nThis is the main beneficiary when you megadose vitamins.\n",
+        "labels": [
+            {
+                "start": 69,
+                "end": 77,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "megadose"
+            }
+        ]
+    },
+    {
+        "id": "662_batch_2",
+        "text": "\"So why are we marching against Monsanto and not all the other companies who make the same products?\"\n\n\"Uh... just chant the slogans and don't ask questions!\"\n\n",
+        "labels": [
+            {
+                "start": 4,
+                "end": 100,
+                "technique": "Whataboutism",
+                "text_fragment": "why are we marching against Monsanto and not all the other companies who make the same products?"
+            },
+            {
+                "start": 110,
+                "end": 157,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "just chant the slogans and don't ask questions!"
+            },
+            {
+                "start": 137,
+                "end": 156,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "don't ask questions"
+            }
+        ]
+    },
+    {
+        "id": "663_batch_2",
+        "text": "I'm going to strike a blow at Monsanto, expose the Rothschilds, and warn everyone about big pharma!\n\nAs long as I don't have to get off the sofa.\n",
+        "labels": [
+            {
+                "start": 13,
+                "end": 26,
+                "technique": "Loaded Language",
+                "text_fragment": "strike a blow"
+            },
+            {
+                "start": 40,
+                "end": 46,
+                "technique": "Loaded Language",
+                "text_fragment": "expose"
+            },
+            {
+                "start": 68,
+                "end": 72,
+                "technique": "Loaded Language",
+                "text_fragment": "warn"
+            },
+            {
+                "start": 101,
+                "end": 144,
+                "technique": "Smears",
+                "text_fragment": "As long as I don't have to get off the sofa"
+            }
+        ]
+    },
+    {
+        "id": "664_batch_2",
+        "text": "While well-fed westerners campaign against crops genetically modified to be higher yielding, and drought resistant\n\nThose with no voice continue to die in drought induced famines.\n\n",
+        "labels": [
+            {
+                "start": 6,
+                "end": 25,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "well-fed westerners"
+            },
+            {
+                "start": 116,
+                "end": 178,
+                "technique": "Loaded Language",
+                "text_fragment": "Those with no voice continue to die in drought induced famines"
+            },
+            {
+                "start": 0,
+                "end": 178,
+                "technique": "Whataboutism",
+                "text_fragment": "While well-fed westerners campaign against crops genetically modified to be higher yielding, and drought resistant\n\nThose with no voice continue to die in drought induced famines"
+            }
+        ]
+    },
+    {
+        "id": "665_batch_2",
+        "text": "\"I can't believe how much positive feedback I'm getting from other anti-vaccine activists on Facebook.\"\n\n\"I'm glad you're getting some attention Dad, but why am I the one who has to get sick?\"\n\n",
+        "labels": []
+    },
+    {
+        "id": "666_batch_2",
+        "text": "Ate 5000 calories per day for a month.\n\nThinks the restaurant is the problem.\n",
+        "labels": []
+    },
+    {
+        "id": "667_batch_2",
+        "text": "Ok, explain this to me again...\n\nExactly how does breaking blood vessels and causing clots and bruising \"enhance circulation\"?\n\n",
+        "labels": [
+            {
+                "start": 33,
+                "end": 126,
+                "technique": "Doubt",
+                "text_fragment": "Exactly how does breaking blood vessels and causing clots and bruising \"enhance circulation\"?"
+            },
+            {
+                "start": 50,
+                "end": 103,
+                "technique": "Loaded Language",
+                "text_fragment": "breaking blood vessels and causing clots and bruising"
+            }
+        ]
+    },
+    {
+        "id": "668_batch_2",
+        "text": "For those times when you just can't make it to your reiki session, but you wanted the same results.\n\n",
+        "labels": []
+    },
+    {
+        "id": "669_batch_2",
+        "text": "Researchers have developed a type of rice to combat Vitamin A deficiencies in poor countries that cause widespread blindness and over 600,000 childhood deaths annually.\n\nThe well fed people at Greenpeace oppose this. \nWhat kind of people are they?\n\n",
+        "labels": [
+            {
+                "start": 104,
+                "end": 167,
+                "technique": "Loaded Language",
+                "text_fragment": "widespread blindness and over 600,000 childhood deaths annually"
+            },
+            {
+                "start": 170,
+                "end": 247,
+                "technique": "Smears",
+                "text_fragment": "The well fed people at Greenpeace oppose this. \nWhat kind of people are they?"
+            },
+            {
+                "start": 174,
+                "end": 189,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "well fed people"
+            }
+        ]
+    },
+    {
+        "id": "670_batch_2",
+        "text": "When are you anti-vaccine nuts going to stop making the autism claims? \nIt was proven wrong years ago!\n\nAs Soon as you science nerds stop making the same tired old dihydrogen monoxide jokes over and over again.\n\n",
+        "labels": [
+            {
+                "start": 13,
+                "end": 30,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "anti-vaccine nuts"
+            },
+            {
+                "start": 119,
+                "end": 132,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "science nerds"
+            },
+            {
+                "start": 149,
+                "end": 189,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "same tired old dihydrogen monoxide jokes"
+            },
+            {
+                "start": 26,
+                "end": 30,
+                "technique": "Loaded Language",
+                "text_fragment": "nuts"
+            }
+        ]
+    },
+    {
+        "id": "689_batch_2",
+        "text": "HUNTER TAKING PRESS QUESTIONS\n",
+        "labels": []
+    },
+    {
+        "id": "690_batch_2",
+        "text": "I take a shit every morning at 8 AM.\n\nThat's good. So what's the problem?\n\nI wake up at 9 AM.\n\n",
+        "labels": [
+            {
+                "start": 9,
+                "end": 13,
+                "technique": "Loaded Language",
+                "text_fragment": "shit"
+            }
+        ]
+    },
+    {
+        "id": "691_batch_2",
+        "text": "Sen. Mazie Hirono, D-Hawaii, the dumbest person in the U.S. Capitol*, questions Judge Amy Coney Barrett, the smartest person, during Confirmation hearings this week.\n\n* Normally, the \"dumbest\" designation goes to Rep. Maxine Waters, D-Calif., but Ms. Waters was not present in the building.\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 67,
+                "technique": "Smears",
+                "text_fragment": "Sen. Mazie Hirono, D-Hawaii, the dumbest person in the U.S. Capitol"
+            },
+            {
+                "start": 29,
+                "end": 47,
+                "technique": "Loaded Language",
+                "text_fragment": "the dumbest person"
+            },
+            {
+                "start": 29,
+                "end": 47,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "the dumbest person"
+            },
+            {
+                "start": 29,
+                "end": 67,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "the dumbest person in the U.S. Capitol"
+            },
+            {
+                "start": 80,
+                "end": 124,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "Judge Amy Coney Barrett, the smartest person"
+            },
+            {
+                "start": 105,
+                "end": 124,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "the smartest person"
+            },
+            {
+                "start": 105,
+                "end": 124,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "the smartest person"
+            },
+            {
+                "start": 179,
+                "end": 204,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "the \"dumbest\" designation"
+            },
+            {
+                "start": 179,
+                "end": 241,
+                "technique": "Smears",
+                "text_fragment": "the \"dumbest\" designation goes to Rep. Maxine Waters, D-Calif."
+            },
+            {
+                "start": 183,
+                "end": 192,
+                "technique": "Loaded Language",
+                "text_fragment": "\"dumbest\""
+            }
+        ]
+    },
+    {
+        "id": "692_batch_2",
+        "text": "(OBAMA) KICKED ME OUT\n\n(TRUMP) INVITED ME BACK\n",
+        "labels": [
+            {
+                "start": 8,
+                "end": 21,
+                "technique": "Loaded Language",
+                "text_fragment": "KICKED ME OUT"
+            }
+        ]
+    },
+    {
+        "id": "693_batch_2",
+        "text": "I am getting very concerned!\n\nThis man hasn't called me yet to tell me how to vote.\n",
+        "labels": [
+            {
+                "start": 18,
+                "end": 27,
+                "technique": "Loaded Language",
+                "text_fragment": "concerned"
+            }
+        ]
+    },
+    {
+        "id": "694_batch_2",
+        "text": "BIDEN FOR PRESIDENT\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 19,
+                "technique": "Slogans",
+                "text_fragment": "BIDEN FOR PRESIDENT"
+            }
+        ]
+    },
+    {
+        "id": "695_batch_2",
+        "text": "Magnification reveals how low Democrats will go to smear the opposition.\n\nBIDEN\nHARRIS\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 71,
+                "technique": "Smears",
+                "text_fragment": "Magnification reveals how low Democrats will go to smear the opposition"
+            },
+            {
+                "start": 51,
+                "end": 56,
+                "technique": "Loaded Language",
+                "text_fragment": "smear"
+            }
+        ]
+    },
+    {
+        "id": "696_batch_2",
+        "text": "Let's take a stroll down memory lane, shall we?\n",
+        "labels": []
+    },
+    {
+        "id": "697_batch_2",
+        "text": "FaceTime thanksgiving is better than tummy time Christmas.\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 21,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "FaceTime thanksgiving"
+            },
+            {
+                "start": 37,
+                "end": 57,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "tummy time Christmas"
+            }
+        ]
+    },
+    {
+        "id": "698_batch_2",
+        "text": "\"Vaccines are just a way for doctors & big pharma to make money.\"\n\nSaid the ignorant, internet doctor who thinks this is free.\n\n",
+        "labels": [
+            {
+                "start": 76,
+                "end": 84,
+                "technique": "Loaded Language",
+                "text_fragment": "ignorant"
+            },
+            {
+                "start": 76,
+                "end": 101,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "ignorant, internet doctor"
+            },
+            {
+                "start": 1,
+                "end": 63,
+                "technique": "Doubt",
+                "text_fragment": "Vaccines are just a way for doctors & big pharma to make money"
+            },
+            {
+                "start": 67,
+                "end": 125,
+                "technique": "Smears",
+                "text_fragment": "Said the ignorant, internet doctor who thinks this is free"
+            }
+        ]
+    },
+    {
+        "id": "672_batch_2",
+        "text": "You ain't black!\n\nYou ain't President!\n",
+        "labels": []
+    },
+    {
+        "id": "673_batch_2",
+        "text": "in order to stay out of Facebook jail I will be posting memes in code\n\nIs a...\n",
+        "labels": [
+            {
+                "start": 24,
+                "end": 37,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Facebook jail"
+            },
+            {
+                "start": 33,
+                "end": 37,
+                "technique": "Loaded Language",
+                "text_fragment": "jail"
+            }
+        ]
+    },
+    {
+        "id": "674_batch_2",
+        "text": "Just like Bernie, I'm all for making the minimum age 15.\n\nWage, Joe, the minimum wage, you idiot.\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 97,
+                "technique": "Smears",
+                "text_fragment": "Just like Bernie, I'm all for making the minimum age 15.\n\nWage, Joe, the minimum wage, you idiot."
+            },
+            {
+                "start": 91,
+                "end": 96,
+                "technique": "Loaded Language",
+                "text_fragment": "idiot"
+            },
+            {
+                "start": 91,
+                "end": 96,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "idiot"
+            }
+        ]
+    },
+    {
+        "id": "675_batch_2",
+        "text": "SNIFF DOG\n",
+        "labels": []
+    },
+    {
+        "id": "676_batch_2",
+        "text": "What now boss?\n\nI'm not your boss this time, Joe.\nThat's Kamala now.\n\n",
+        "labels": [
+            {
+                "start": 16,
+                "end": 68,
+                "technique": "Smears",
+                "text_fragment": "I'm not your boss this time, Joe.\nThat's Kamala now."
+            },
+            {
+                "start": 9,
+                "end": 13,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "boss"
+            }
+        ]
+    },
+    {
+        "id": "677_batch_2",
+        "text": "Hunter Biden celebrating his dad's victory\n\nPeanutbutter and crack sandwich.\n",
+        "labels": [
+            {
+                "start": 61,
+                "end": 66,
+                "technique": "Loaded Language",
+                "text_fragment": "crack"
+            },
+            {
+                "start": 0,
+                "end": 75,
+                "technique": "Smears",
+                "text_fragment": "Hunter Biden celebrating his dad's victory\n\nPeanutbutter and crack sandwich"
+            }
+        ]
+    },
+    {
+        "id": "678_batch_2",
+        "text": "Pornhub\n\nInterracial couple fuck entire nation.\n\n",
+        "labels": [
+            {
+                "start": 28,
+                "end": 46,
+                "technique": "Loaded Language",
+                "text_fragment": "fuck entire nation"
+            }
+        ]
+    },
+    {
+        "id": "679_batch_2",
+        "text": "TRUMP RALLY\n\nCan you spot the difference?\n\nBIDEN RALLY\n",
+        "labels": []
+    },
+    {
+        "id": "680_batch_2",
+        "text": "TELLING YOU RIGHT NOW\n\nMY NAME BETTER NOT BE ON YOUR DUMB ASS KIDS COMPUTER\n",
+        "labels": [
+            {
+                "start": 53,
+                "end": 61,
+                "technique": "Loaded Language",
+                "text_fragment": "DUMB ASS"
+            },
+            {
+                "start": 53,
+                "end": 66,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "DUMB ASS KIDS"
+            }
+        ]
+    },
+    {
+        "id": "681_batch_2",
+        "text": "During Halloween some states require child sex offenders put signs up... stay informed\n\nBIDEN FOR PRESIDENT\n",
+        "labels": [
+            {
+                "start": 37,
+                "end": 56,
+                "technique": "Loaded Language",
+                "text_fragment": "child sex offenders"
+            },
+            {
+                "start": 88,
+                "end": 107,
+                "technique": "Slogans",
+                "text_fragment": "BIDEN FOR PRESIDENT"
+            }
+        ]
+    },
+    {
+        "id": "682_batch_2",
+        "text": "MEET THE BIDEN BOYS\n\nSNIFF &SNORT\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 33,
+                "technique": "Smears",
+                "text_fragment": "MEET THE BIDEN BOYS\n\nSNIFF &SNORT"
+            },
+            {
+                "start": 21,
+                "end": 33,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "SNIFF &SNORT"
+            }
+        ]
+    },
+    {
+        "id": "683_batch_2",
+        "text": "TRUMP KIDS CAMPAIGNING FOR DAD\n\nHUNTER BIDEN\n",
+        "labels": []
+    },
+    {
+        "id": "684_batch_2",
+        "text": "Joe Biden presents\n\nThe Poor Boys\n",
+        "labels": [
+            {
+                "start": 20,
+                "end": 33,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "The Poor Boys"
+            },
+            {
+                "start": 24,
+                "end": 28,
+                "technique": "Loaded Language",
+                "text_fragment": "Poor"
+            }
+        ]
+    },
+    {
+        "id": "685_batch_2",
+        "text": "President Trump's rallies should feature a wall of mirrors behind him to force the media to show the enormous, enthusiastic crowd in front of him.\n\n",
+        "labels": [
+            {
+                "start": 101,
+                "end": 123,
+                "technique": "Loaded Language",
+                "text_fragment": "enormous, enthusiastic"
+            },
+            {
+                "start": 101,
+                "end": 145,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "enormous, enthusiastic crowd in front of him"
+            },
+            {
+                "start": 101,
+                "end": 129,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "enormous, enthusiastic crowd"
+            }
+        ]
+    },
+    {
+        "id": "686_batch_2",
+        "text": "I'd crawl blindfolded and naked over a mile of broken glass slathered with germs to vote for Trump and every other Republican on the ballot in 2020.\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 147,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "I'd crawl blindfolded and naked over a mile of broken glass slathered with germs to vote for Trump and every other Republican on the ballot in 2020"
+            },
+            {
+                "start": 4,
+                "end": 80,
+                "technique": "Loaded Language",
+                "text_fragment": "crawl blindfolded and naked over a mile of broken glass slathered with germs"
+            }
+        ]
+    },
+    {
+        "id": "687_batch_2",
+        "text": "Asked what the \"D.C.\" stands for in \"Washington, D.C,\"\nRep. Alexandria Ocasio-Cortez thought for a moment and replied confidently:\n\"Dot Com.\"\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 141,
+                "technique": "Smears",
+                "text_fragment": "Asked what the \"D.C.\" stands for in \"Washington, D.C,\"\nRep. Alexandria Ocasio-Cortez thought for a moment and replied confidently:\n\"Dot Com.\""
+            }
+        ]
+    },
+    {
+        "id": "688_batch_2",
+        "text": "COMMUNISTS AROUND THE GLOBE ARE LOVING THESE 2!",
+        "labels": [
+            {
+                "start": 0,
+                "end": 10,
+                "technique": "Loaded Language",
+                "text_fragment": "COMMUNISTS"
+            },
+            {
+                "start": 0,
+                "end": 46,
+                "technique": "Reductio ad hitlerum",
+                "text_fragment": "COMMUNISTS AROUND THE GLOBE ARE LOVING THESE 2"
+            }
+        ]
     }
 ]
