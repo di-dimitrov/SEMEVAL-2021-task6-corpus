@@ -21,7 +21,8 @@ __Table of contents:__
 TBA
 
 ## List of Versions
-* __v1.5 [TBD]__ - Fifth batch of training data for subtasks 1, 2 and 3 is <ins>**In progress**</ins>
+* __v1.6 [TBD]__ - Sixth batch of training data for subtasks 1, 2 and 3 is <ins>**In progress**</ins>
+* __v1.5 [2020/12/28]__ - Fifth batch of training data for subtasks 1, 2 and 3 is released (120 new memes; a total of 607 for train + 63 for dev).
 * __v1.4 [2020/12/21]__ - Fourth batch of training data for subtasks 1, 2 and 3 is released (197 new memes; a total of 487 for train + 63 for dev).
 * __v1.3 [2020/12/03]__ - Third batch of training data for subtasks 1, 2 and 3 is released (88 new memes; a total of 290 for train + 63 for dev).
 * __v1.2 [2020/11/26]__ - Second batch of training data for subtasks 1, 2 and 3 is released (101 new memes; a total of 202 for train + 63 for dev).
