@@ -234,7 +234,7 @@ If you score the baseline on the training set (uncomment lines 5-6 in baseline_t
 ```
 python3 task-2-semeval21_scorer.py -s ../../baselines/baseline-output-task2-train.txt -r ../../data/training_set_task2.txt -p ../../techniques_list_task1-2.txt 
 ...
-F1=0.038112
+F1=0.00699
 ...
 ```
 
