@@ -1,802 +1,3579 @@
 [
     {
         "id": "705_batch_2",
-        "text": "The Democrats New America\n"
+        "text": "The Democrats New America\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 25,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "The Democrats New America"
+            },
+            {
+                "start": 0,
+                "end": 25,
+                "technique": "Slogans",
+                "text_fragment": "The Democrats New America"
+            }
+        ]
     },
     {
         "id": "706_batch_2",
-        "text": "WE ARE AT WAR!\n\nThere is a complex assault on our presidential election\nwith all the multifaceted tentacles of a terrorist organization and operation\n\n2020\nTERRORISM\n"
+        "text": "WE ARE AT WAR!\n\nThere is a complex assault on our presidential election\nwith all the multifaceted tentacles of a terrorist organization and operation\n\n2020\nTERRORISM\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 149,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "WE ARE AT WAR!\n\nThere is a complex assault on our presidential election\nwith all the multifaceted tentacles of a terrorist organization and operation"
+            },
+            {
+                "start": 10,
+                "end": 13,
+                "technique": "Loaded Language",
+                "text_fragment": "WAR"
+            },
+            {
+                "start": 85,
+                "end": 107,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "multifaceted tentacles"
+            },
+            {
+                "start": 85,
+                "end": 149,
+                "technique": "Loaded Language",
+                "text_fragment": "multifaceted tentacles of a terrorist organization and operation"
+            },
+            {
+                "start": 156,
+                "end": 165,
+                "technique": "Loaded Language",
+                "text_fragment": "TERRORISM"
+            },
+            {
+                "start": 35,
+                "end": 71,
+                "technique": "Loaded Language",
+                "text_fragment": "assault on our presidential election"
+            }
+        ]
     },
     {
         "id": "710_batch_2",
-        "text": "KILLED HIMSELF IN PRISON\n\nWON AN HONEST ELECTION\n"
+        "text": "KILLED HIMSELF IN PRISON\n\nWON AN HONEST ELECTION\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 24,
+                "technique": "Loaded Language",
+                "text_fragment": "KILLED HIMSELF IN PRISON"
+            },
+            {
+                "start": 33,
+                "end": 48,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "HONEST ELECTION"
+            }
+        ]
     },
     {
         "id": "713_batch_2",
-        "text": "I will never concede!\n\nNO WAY IN HELL BIDEN WON!\n"
+        "text": "I will never concede!\n\nNO WAY IN HELL BIDEN WON!\n",
+        "labels": [
+            {
+                "start": 23,
+                "end": 37,
+                "technique": "Loaded Language",
+                "text_fragment": "NO WAY IN HELL"
+            },
+            {
+                "start": 23,
+                "end": 48,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "NO WAY IN HELL BIDEN WON!"
+            }
+        ]
     },
     {
         "id": "715_batch_2",
-        "text": "TRYING TO FIGURE OUT HOW BIDEN WON A RECORD LOW OF ONLY 16.7% OF ALL U.S. COUNTIES\n\nYET SUPPOSEDLY WON THE ELECTION WITH THE MOST VOTES IN HISTORY\n\n"
+        "text": "TRYING TO FIGURE OUT HOW BIDEN WON A RECORD LOW OF ONLY 16.7% OF ALL U.S. COUNTIES\n\nYET SUPPOSEDLY WON THE ELECTION WITH THE MOST VOTES IN HISTORY\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 146,
+                "technique": "Doubt",
+                "text_fragment": "TRYING TO FIGURE OUT HOW BIDEN WON A RECORD LOW OF ONLY 16.7% OF ALL U.S. COUNTIES\n\nYET SUPPOSEDLY WON THE ELECTION WITH THE MOST VOTES IN HISTORY"
+            }
+        ]
     },
     {
         "id": "716_batch_2",
-        "text": "HYPOCRISY MUCH?!\nMacy's Thanksgiving Day Parade to March On Despite Pandemic\n\nBusinesses Are Closing Permanently, People Are Losing Everything!\nLet's Have A Parade!\n"
+        "text": "HYPOCRISY MUCH?!\nMacy's Thanksgiving Day Parade to March On Despite Pandemic\n\nBusinesses Are Closing Permanently, People Are Losing Everything!\nLet's Have A Parade!\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 9,
+                "technique": "Loaded Language",
+                "text_fragment": "HYPOCRISY"
+            },
+            {
+                "start": 17,
+                "end": 143,
+                "technique": "Whataboutism",
+                "text_fragment": "Macy's Thanksgiving Day Parade to March On Despite Pandemic\n\nBusinesses Are Closing Permanently, People Are Losing Everything!"
+            },
+            {
+                "start": 0,
+                "end": 143,
+                "technique": "Smears",
+                "text_fragment": "HYPOCRISY MUCH?!\nMacy's Thanksgiving Day Parade to March On Despite Pandemic\n\nBusinesses Are Closing Permanently, People Are Losing Everything!"
+            }
+        ]
     },
     {
         "id": "720_batch_2",
-        "text": "WHEN TRUMP IS REELECTED THERE WILL BE BLOOD!"
+        "text": "WHEN TRUMP IS REELECTED THERE WILL BE BLOOD!",
+        "labels": [
+            {
+                "start": 23,
+                "end": 43,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "THERE WILL BE BLOOD!"
+            },
+            {
+                "start": 23,
+                "end": 43,
+                "technique": "Loaded Language",
+                "text_fragment": "THERE WILL BE BLOOD!"
+            }
+        ]
     },
     {
         "id": "722_batch_2",
-        "text": "People are so quick to forget.\n\nWedding bands that were removed from Holocaust victims prior to being executed, 1945. \nEach ring represents a destroyed family. \nNever forget, Nazis tore down statues.\nBanned free speech.\nBlamed economic hardships on one group of people. Instituted gun control.\nSound Familiar?"
+        "text": "People are so quick to forget.\n\nWedding bands that were removed from Holocaust victims prior to being executed, 1945. \nEach ring represents a destroyed family. \nNever forget, Nazis tore down statues.\nBanned free speech.\nBlamed economic hardships on one group of people. Instituted gun control.\nSound Familiar?",
+        "labels": [
+            {
+                "start": 69,
+                "end": 86,
+                "technique": "Loaded Language",
+                "text_fragment": "Holocaust victims"
+            },
+            {
+                "start": 102,
+                "end": 110,
+                "technique": "Loaded Language",
+                "text_fragment": "executed"
+            },
+            {
+                "start": 142,
+                "end": 158,
+                "technique": "Loaded Language",
+                "text_fragment": "destroyed family"
+            },
+            {
+                "start": 161,
+                "end": 309,
+                "technique": "Reductio ad hitlerum",
+                "text_fragment": "Never forget, Nazis tore down statues.\nBanned free speech.\nBlamed economic hardships on one group of people. Instituted gun control.\nSound Familiar?"
+            },
+            {
+                "start": 200,
+                "end": 218,
+                "technique": "Loaded Language",
+                "text_fragment": "Banned free speech"
+            },
+            {
+                "start": 270,
+                "end": 292,
+                "technique": "Loaded Language",
+                "text_fragment": "Instituted gun control"
+            }
+        ]
     },
     {
         "id": "723_batch_2",
-        "text": "FAKE WINNER"
+        "text": "FAKE WINNER",
+        "labels": [
+            {
+                "start": 0,
+                "end": 11,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "FAKE WINNER"
+            }
+        ]
     },
     {
         "id": "724_batch_2",
-        "text": "\"We put together I think the most extensive and inclusive voter fraud organization in the history of American politics.\"\n-Joe Biden"
+        "text": "\"We put together I think the most extensive and inclusive voter fraud organization in the history of American politics.\"\n-Joe Biden",
+        "labels": [
+            {
+                "start": 0,
+                "end": 131,
+                "technique": "Obfuscation, Intentional vagueness, Confusion",
+                "text_fragment": "\"We put together I think the most extensive and inclusive voter fraud organization in the history of American politics.\"\n-Joe Biden"
+            },
+            {
+                "start": 25,
+                "end": 118,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "the most extensive and inclusive voter fraud organization in the history of American politics"
+            },
+            {
+                "start": 25,
+                "end": 118,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "the most extensive and inclusive voter fraud organization in the history of American politics"
+            },
+            {
+                "start": 58,
+                "end": 69,
+                "technique": "Loaded Language",
+                "text_fragment": "voter fraud"
+            }
+        ]
     },
     {
         "id": "725_batch_2",
-        "text": "The Fraudfather\nHe'll give you a ballot you can reuse"
+        "text": "The Fraudfather\nHe'll give you a ballot you can reuse",
+        "labels": [
+            {
+                "start": 0,
+                "end": 15,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "The Fraudfather"
+            },
+            {
+                "start": 4,
+                "end": 15,
+                "technique": "Loaded Language",
+                "text_fragment": "Fraudfather"
+            }
+        ]
     },
     {
         "id": "726_batch_2",
-        "text": "NOW YOU KNOW WHY I DIDN'T BOTHER CAMPAIGNING"
+        "text": "NOW YOU KNOW WHY I DIDN'T BOTHER CAMPAIGNING",
+        "labels": []
     },
     {
         "id": "727_batch_2",
-        "text": "Me coming home with a turkey that serves 25"
+        "text": "Me coming home with a turkey that serves 25",
+        "labels": []
     },
     {
         "id": "732_batch_2",
-        "text": "I NEVER SAY ANYTHING I CAN'T PROVE. \n- SIDNEY POWELL"
+        "text": "I NEVER SAY ANYTHING I CAN'T PROVE. \n- SIDNEY POWELL",
+        "labels": []
     },
     {
         "id": "733_batch_2",
-        "text": "'Strike me down and you'll make me even more powerful'"
+        "text": "'Strike me down and you'll make me even more powerful'",
+        "labels": [
+            {
+                "start": 1,
+                "end": 53,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "Strike me down and you'll make me even more powerful"
+            },
+            {
+                "start": 1,
+                "end": 15,
+                "technique": "Loaded Language",
+                "text_fragment": "Strike me down"
+            }
+        ]
     },
     {
         "id": "736_batch_2",
-        "text": "By Bullet or Ballot\nRestoration Of The Republic Is Coming !"
+        "text": "By Bullet or Ballot\nRestoration Of The Republic Is Coming !",
+        "labels": [
+            {
+                "start": 0,
+                "end": 59,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "By Bullet or Ballot\nRestoration Of The Republic Is Coming !"
+            },
+            {
+                "start": 3,
+                "end": 9,
+                "technique": "Loaded Language",
+                "text_fragment": "Bullet"
+            },
+            {
+                "start": 20,
+                "end": 57,
+                "technique": "Flag-waving",
+                "text_fragment": "Restoration Of The Republic Is Coming"
+            }
+        ]
     },
     {
         "id": "738_batch_2",
-        "text": "We're fed up.\nWe're not asking for our country back.\nWe're TAKING IT BACK\nWE THE PEOPLE ARE COMING\nAmerica was founded by pissed off people.\nAnd they're pissed again!"
+        "text": "We're fed up.\nWe're not asking for our country back.\nWe're TAKING IT BACK\nWE THE PEOPLE ARE COMING\nAmerica was founded by pissed off people.\nAnd they're pissed again!",
+        "labels": [
+            {
+                "start": 14,
+                "end": 73,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "We're not asking for our country back.\nWe're TAKING IT BACK"
+            },
+            {
+                "start": 122,
+                "end": 131,
+                "technique": "Loaded Language",
+                "text_fragment": "pissed of"
+            },
+            {
+                "start": 122,
+                "end": 139,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "pissed off people"
+            },
+            {
+                "start": 153,
+                "end": 159,
+                "technique": "Loaded Language",
+                "text_fragment": "pissed"
+            },
+            {
+                "start": 14,
+                "end": 139,
+                "technique": "Flag-waving",
+                "text_fragment": "We're not asking for our country back.\nWe're TAKING IT BACK\nWE THE PEOPLE ARE COMING\nAmerica was founded by pissed off people"
+            }
+        ]
     },
     {
         "id": "740_batch_2",
-        "text": "REMEMBER KIDS. \nYOU CAN VOTE YOUR WAY INTO SOCIALISM.\nBUT YOU HAVE TO SHOOT YOUR WAY OUT."
+        "text": "REMEMBER KIDS. \nYOU CAN VOTE YOUR WAY INTO SOCIALISM.\nBUT YOU HAVE TO SHOOT YOUR WAY OUT.",
+        "labels": [
+            {
+                "end": 88,
+                "start": 70,
+                "technique": "Loaded Language",
+                "text_fragment": "SHOOT YOUR WAY OUT"
+            },
+            {
+                "end": 88,
+                "start": 58,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "YOU HAVE TO SHOOT YOUR WAY OUT"
+            },
+            {
+                "end": 88,
+                "start": 16,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "YOU CAN VOTE YOUR WAY INTO SOCIALISM.\nBUT YOU HAVE TO SHOOT YOUR WAY OUT"
+            }
+        ]
     },
     {
         "id": "741_batch_2",
-        "text": "NOW RIDDLE ME THIS\n\nIF VOTER FRAUD IS SO LOW, WHY DO LIBERALS THROW A TEMPER TANTRUM WHENEVER ANYBODY BOTHERS TO CHECK?"
+        "text": "NOW RIDDLE ME THIS\n\nIF VOTER FRAUD IS SO LOW, WHY DO LIBERALS THROW A TEMPER TANTRUM WHENEVER ANYBODY BOTHERS TO CHECK?",
+        "labels": [
+            {
+                "start": 20,
+                "end": 119,
+                "technique": "Doubt",
+                "text_fragment": "IF VOTER FRAUD IS SO LOW, WHY DO LIBERALS THROW A TEMPER TANTRUM WHENEVER ANYBODY BOTHERS TO CHECK?"
+            },
+            {
+                "start": 23,
+                "end": 34,
+                "technique": "Loaded Language",
+                "text_fragment": "VOTER FRAUD"
+            },
+            {
+                "start": 70,
+                "end": 84,
+                "technique": "Loaded Language",
+                "text_fragment": "TEMPER TANTRUM"
+            }
+        ]
     },
     {
         "id": "744_batch_2",
-        "text": "THE GOVERNMENT IS CORRUPT ON EVERY LEVEL BUT DON'T WORRY, THE GOVERNMENT WILL INVESTIGATE\nITSELF AND TELL YOU WHAT REALLY HAPPENED.\n"
+        "text": "THE GOVERNMENT IS CORRUPT ON EVERY LEVEL BUT DON'T WORRY, THE GOVERNMENT WILL INVESTIGATE\nITSELF AND TELL YOU WHAT REALLY HAPPENED.\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 130,
+                "technique": "Doubt",
+                "text_fragment": "THE GOVERNMENT IS CORRUPT ON EVERY LEVEL BUT DON'T WORRY, THE GOVERNMENT WILL INVESTIGATE\nITSELF AND TELL YOU WHAT REALLY HAPPENED"
+            },
+            {
+                "start": 18,
+                "end": 25,
+                "technique": "Loaded Language",
+                "text_fragment": "CORRUPT"
+            }
+        ]
     },
     {
         "id": "746_batch_2",
-        "text": "THE MOST ANOINTED FALSE PROPHET IN THE EARTH TODAY IS THE LYING MEDIA AND IT HAS MILLIONS OF\nCHRISTIANS UNDERNEATH ITS INFLUENCE AND THEY\nDON'T EVEN KNOW IT!\n\n"
+        "text": "THE MOST ANOINTED FALSE PROPHET IN THE EARTH TODAY IS THE LYING MEDIA AND IT HAS MILLIONS OF\nCHRISTIANS UNDERNEATH ITS INFLUENCE AND THEY\nDON'T EVEN KNOW IT!\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 50,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "THE MOST ANOINTED FALSE PROPHET IN THE EARTH TODAY"
+            },
+            {
+                "start": 54,
+                "end": 69,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "THE LYING MEDIA"
+            },
+            {
+                "start": 58,
+                "end": 63,
+                "technique": "Loaded Language",
+                "text_fragment": "LYING"
+            },
+            {
+                "start": 18,
+                "end": 31,
+                "technique": "Loaded Language",
+                "text_fragment": "FALSE PROPHET"
+            },
+            {
+                "start": 0,
+                "end": 69,
+                "technique": "Smears",
+                "text_fragment": "THE MOST ANOINTED FALSE PROPHET IN THE EARTH TODAY IS THE LYING MEDIA"
+            },
+            {
+                "start": 74,
+                "end": 156,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "IT HAS MILLIONS OF\nCHRISTIANS UNDERNEATH ITS INFLUENCE AND THEY\nDON'T EVEN KNOW IT"
+            }
+        ]
     },
     {
         "id": "748_batch_2",
-        "text": "IF YOU AIN'T DONALD TRUMP\nTHEN YOU AIN'T MY PRESIDENT\n"
+        "text": "IF YOU AIN'T DONALD TRUMP\nTHEN YOU AIN'T MY PRESIDENT\n",
+        "labels": []
     },
     {
         "id": "750_batch_2",
-        "text": "WHY do Sidney Powell, James O'Keefe and Tom Fitton\nhave to do the job of our FBI and DOJ?\n\n\n"
+        "text": "WHY do Sidney Powell, James O'Keefe and Tom Fitton\nhave to do the job of our FBI and DOJ?\n\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 89,
+                "technique": "Doubt",
+                "text_fragment": "WHY do Sidney Powell, James O'Keefe and Tom Fitton\nhave to do the job of our FBI and DOJ?"
+            }
+        ]
     },
     {
         "id": "753_batch_2",
-        "text": "HAIL JUSTICE AMY CONEY-BARRETT\n"
+        "text": "HAIL JUSTICE AMY CONEY-BARRETT\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 4,
+                "technique": "Loaded Language",
+                "text_fragment": "HAIL"
+            }
+        ]
     },
     {
         "id": "754_batch_2",
-        "text": "WE COVER OUR FACES\n\nSO OUR PARENTS WON'T GROUND US\n"
+        "text": "WE COVER OUR FACES\n\nSO OUR PARENTS WON'T GROUND US\n",
+        "labels": []
     },
     {
         "id": "758_batch_2",
-        "text": "FUCK EM\n\nRELEASE THE KRAKEN\n"
+        "text": "FUCK EM\n\nRELEASE THE KRAKEN\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 7,
+                "technique": "Loaded Language",
+                "text_fragment": "FUCK EM"
+            },
+            {
+                "start": 9,
+                "end": 27,
+                "technique": "Slogans",
+                "text_fragment": "RELEASE THE KRAKEN"
+            }
+        ]
     },
     {
         "id": "759_batch_2",
-        "text": "DOMINION VOTING AND SCYTL ARE FOREIGN COMPANIES...\n\nACCORDING TO U.S. LAW THAT'S ILLEGAL!!!\n"
+        "text": "DOMINION VOTING AND SCYTL ARE FOREIGN COMPANIES...\n\nACCORDING TO U.S. LAW THAT'S ILLEGAL!!!\n",
+        "labels": [
+            {
+                "start": 81,
+                "end": 91,
+                "technique": "Loaded Language",
+                "text_fragment": "ILLEGAL!!!"
+            },
+            {
+                "start": 0,
+                "end": 91,
+                "technique": "Doubt",
+                "text_fragment": "DOMINION VOTING AND SCYTL ARE FOREIGN COMPANIES...\n\nACCORDING TO U.S. LAW THAT'S ILLEGAL!!!"
+            }
+        ]
     },
     {
         "id": "763_batch_2",
-        "text": "THIS AIN'T OVER\n"
+        "text": "THIS AIN'T OVER\n",
+        "labels": []
     },
     {
         "id": "765_batch_2",
-        "text": "IF THEY ARE SO SURE THEY WON WHY HASNT KAMALA RESIGNED HER SENATE SEAT?\n"
+        "text": "IF THEY ARE SO SURE THEY WON WHY HASNT KAMALA RESIGNED HER SENATE SEAT?\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 71,
+                "technique": "Doubt",
+                "text_fragment": "IF THEY ARE SO SURE THEY WON WHY HASNT KAMALA RESIGNED HER SENATE SEAT?"
+            },
+            {
+                "start": 0,
+                "end": 71,
+                "technique": "Presenting Irrelevant Data (Red Herring)",
+                "text_fragment": "IF THEY ARE SO SURE THEY WON WHY HASNT KAMALA RESIGNED HER SENATE SEAT?"
+            }
+        ]
     },
     {
         "id": "766_batch_2",
-        "text": "COWBOY WISDOM\n\"The water ain't gonna clear up 'til you get the pigs outa the creek!\"\n"
+        "text": "COWBOY WISDOM\n\"The water ain't gonna clear up 'til you get the pigs outa the creek!\"\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 84,
+                "technique": "Appeal to authority",
+                "text_fragment": "COWBOY WISDOM\n\"The water ain't gonna clear up 'til you get the pigs outa the creek!\""
+            },
+            {
+                "start": 55,
+                "end": 83,
+                "technique": "Loaded Language",
+                "text_fragment": "get the pigs outa the creek!"
+            }
+        ]
     },
     {
         "id": "767_batch_2",
-        "text": "AMERICA WAS NEVER THAT GREAT\n\nCAN YOU REPEAT THAT YOU PIECE OF SHIT"
+        "text": "AMERICA WAS NEVER THAT GREAT\n\nCAN YOU REPEAT THAT YOU PIECE OF SHIT",
+        "labels": [
+            {
+                "start": 54,
+                "end": 67,
+                "technique": "Loaded Language",
+                "text_fragment": "PIECE OF SHIT"
+            },
+            {
+                "start": 54,
+                "end": 67,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "PIECE OF SHIT"
+            }
+        ]
     },
     {
         "id": "770_batch_2",
-        "text": "Liberal media declaring Biden the winner\n\nCaptain, I'm picking up BULLSHIT on all frequencies\n"
+        "text": "Liberal media declaring Biden the winner\n\nCaptain, I'm picking up BULLSHIT on all frequencies\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 13,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Liberal media"
+            },
+            {
+                "start": 42,
+                "end": 93,
+                "technique": "Doubt",
+                "text_fragment": "Captain, I'm picking up BULLSHIT on all frequencies"
+            },
+            {
+                "start": 66,
+                "end": 74,
+                "technique": "Loaded Language",
+                "text_fragment": "BULLSHIT"
+            },
+            {
+                "start": 0,
+                "end": 93,
+                "technique": "Smears",
+                "text_fragment": "Liberal media declaring Biden the winner\n\nCaptain, I'm picking up BULLSHIT on all frequencies"
+            }
+        ]
     },
     {
         "id": "771_batch_2",
-        "text": "Hallo. \nVe vill have to restrikt your akkount because you vont konform to kommunity standards.\n\n"
+        "text": "Hallo. \nVe vill have to restrikt your akkount because you vont konform to kommunity standards.\n\n",
+        "labels": []
     },
     {
         "id": "775_batch_2",
-        "text": "Nancy \"Has-been\" Pelosi has claimed that even if he is aquitted, Trump will always go down in history as having been impeached.\nWhat Nasty Nancy hasn't realized yet is that her own legacy will be to go down in history as being the most\ncorrupt, lying and despised member of congress and the WORST speaker of the house that has ever been\nknown to man.\n"
+        "text": "Nancy \"Has-been\" Pelosi has claimed that even if he is aquitted, Trump will always go down in history as having been impeached.\nWhat Nasty Nancy hasn't realized yet is that her own legacy will be to go down in history as being the most\ncorrupt, lying and despised member of congress and the WORST speaker of the house that has ever been\nknown to man.\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 23,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Nancy \"Has-been\" Pelosi"
+            },
+            {
+                "start": 128,
+                "end": 349,
+                "technique": "Smears",
+                "text_fragment": "What Nasty Nancy hasn't realized yet is that her own legacy will be to go down in history as being the most\ncorrupt, lying and despised member of congress and the WORST speaker of the house that has ever been\nknown to man"
+            },
+            {
+                "start": 133,
+                "end": 138,
+                "technique": "Loaded Language",
+                "text_fragment": "Nasty"
+            },
+            {
+                "start": 227,
+                "end": 282,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "the most\ncorrupt, lying and despised member of congress"
+            },
+            {
+                "start": 287,
+                "end": 296,
+                "technique": "Loaded Language",
+                "text_fragment": "the WORST"
+            },
+            {
+                "start": 287,
+                "end": 304,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "the WORST speaker"
+            },
+            {
+                "start": 133,
+                "end": 144,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Nasty Nancy"
+            },
+            {
+                "start": 287,
+                "end": 349,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "the WORST speaker of the house that has ever been\nknown to man"
+            },
+            {
+                "start": 236,
+                "end": 263,
+                "technique": "Loaded Language",
+                "text_fragment": "corrupt, lying and despised"
+            }
+        ]
     },
     {
         "id": "778_batch_2",
-        "text": "SEPTEMBER\n\nОСТОВЕR\n\nNOVEMBER\nYou Are Here\n\nDECEMBER\n\nFEBRUARY\n\nMARCH\n\nAPRIL\n\nMAY\n"
+        "text": "SEPTEMBER\n\nОСТОВЕR\n\nNOVEMBER\nYou Are Here\n\nDECEMBER\n\nFEBRUARY\n\nMARCH\n\nAPRIL\n\nMAY\n",
+        "labels": []
     },
     {
         "id": "779_batch_2",
-        "text": "BIDEN/HARRIS VOTERS\n"
+        "text": "BIDEN/HARRIS VOTERS\n",
+        "labels": []
     },
     {
         "id": "781_batch_2",
-        "text": "I WONDER HOW MANY DEMOCRATS ARE THINKING\n\"WE FILLED OUT TOO MANY\"\n\n"
+        "text": "I WONDER HOW MANY DEMOCRATS ARE THINKING\n\"WE FILLED OUT TOO MANY\"\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 65,
+                "technique": "Doubt",
+                "text_fragment": "I WONDER HOW MANY DEMOCRATS ARE THINKING\n\"WE FILLED OUT TOO MANY\""
+            }
+        ]
     },
     {
         "id": "782_batch_2",
-        "text": "Ladies and gentlemen, THIS, is what I call modern art.\n\nTrump\n\n"
+        "text": "Ladies and gentlemen, THIS, is what I call modern art.\n\nTrump\n\n",
+        "labels": []
     },
     {
         "id": "783_batch_2",
-        "text": "I SAW WHAT YOU DID WITH THOSE BALLOTS.\n"
+        "text": "I SAW WHAT YOU DID WITH THOSE BALLOTS.\n",
+        "labels": []
     },
     {
         "id": "785_batch_2",
-        "text": "I'M A R.A.C.I.S.T.\n\nREPUBLICAN\nAGAINST\nCOMMUNIST\nINSANE\nSOCIALIST\nTERRORISM\n\nARE YOU A R.A.C.I.S.T. TOO?\n"
+        "text": "I'M A R.A.C.I.S.T.\n\nREPUBLICAN\nAGAINST\nCOMMUNIST\nINSANE\nSOCIALIST\nTERRORISM\n\nARE YOU A R.A.C.I.S.T. TOO?\n",
+        "labels": [
+            {
+                "start": 6,
+                "end": 17,
+                "technique": "Loaded Language",
+                "text_fragment": "R.A.C.I.S.T"
+            },
+            {
+                "start": 39,
+                "end": 48,
+                "technique": "Loaded Language",
+                "text_fragment": "COMMUNIST"
+            },
+            {
+                "start": 49,
+                "end": 55,
+                "technique": "Loaded Language",
+                "text_fragment": "INSANE"
+            },
+            {
+                "start": 56,
+                "end": 65,
+                "technique": "Loaded Language",
+                "text_fragment": "SOCIALIST"
+            },
+            {
+                "start": 66,
+                "end": 75,
+                "technique": "Loaded Language",
+                "text_fragment": "TERRORISM"
+            },
+            {
+                "start": 87,
+                "end": 98,
+                "technique": "Loaded Language",
+                "text_fragment": "R.A.C.I.S.T"
+            }
+        ]
     },
     {
         "id": "787_batch_2",
-        "text": "Your inspiration..\n\nMy inspiration\n"
+        "text": "Your inspiration..\n\nMy inspiration\n",
+        "labels": []
     },
     {
         "id": "789_batch_2",
-        "text": "Case for Biden sainthood opened at Vatican after he raised millions from the dead on election day\n\n"
+        "text": "Case for Biden sainthood opened at Vatican after he raised millions from the dead on election day\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 97,
+                "technique": "Smears",
+                "text_fragment": "Case for Biden sainthood opened at Vatican after he raised millions from the dead on election day"
+            },
+            {
+                "start": 49,
+                "end": 97,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "he raised millions from the dead on election day"
+            }
+        ]
     },
     {
         "id": "790_batch_2",
-        "text": "MAYBE THE REASON GROWN ADULTS ARE ACTING LIKE\nCHILDREN ABOUT PRESIDENT TRUMP Is because he's stepped up and has acted like the \"strict parent\" to a group of spoiled, ignorant, and entitled \"teenagers\" in a Government that has been in need of a true Father figure for a long time!!!!!\n"
+        "text": "MAYBE THE REASON GROWN ADULTS ARE ACTING LIKE\nCHILDREN ABOUT PRESIDENT TRUMP Is because he's stepped up and has acted like the \"strict parent\" to a group of spoiled, ignorant, and entitled \"teenagers\" in a Government that has been in need of a true Father figure for a long time!!!!!\n",
+        "labels": [
+            {
+                "start": 46,
+                "end": 54,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "CHILDREN"
+            },
+            {
+                "start": 127,
+                "end": 142,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "\"strict parent\""
+            },
+            {
+                "start": 157,
+                "end": 188,
+                "technique": "Loaded Language",
+                "text_fragment": "spoiled, ignorant, and entitled"
+            },
+            {
+                "start": 157,
+                "end": 200,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "spoiled, ignorant, and entitled \"teenagers\""
+            },
+            {
+                "start": 244,
+                "end": 262,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "true Father figure"
+            },
+            {
+                "start": 88,
+                "end": 283,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "he's stepped up and has acted like the \"strict parent\" to a group of spoiled, ignorant, and entitled \"teenagers\" ​in a Government that has been in need of a true Father figure for a long time!!!!"
+            },
+            {
+                "start": 0,
+                "end": 283,
+                "technique": "Smears",
+                "text_fragment": "MAYBE THE REASON GROWN ADULTS ARE ACTING LIKE\nCHILDREN ABOUT PRESIDENT TRUMP Is because he's stepped up and has acted like the \"strict parent\" to a group of spoiled, ignorant, and entitled \"teenagers\" ​in a Government that has been in need of a true Father figure for a long time!!!!"
+            }
+        ]
     },
     {
         "id": "794_batch_2",
-        "text": "AMERICAN EXPERIENCE\nTHE GREAT WAR\n"
+        "text": "AMERICAN EXPERIENCE\nTHE GREAT WAR\n",
+        "labels": []
     },
     {
         "id": "795_batch_2",
-        "text": "HOUSTON WE FOUND SOME MORE BALLOTS\n"
+        "text": "HOUSTON WE FOUND SOME MORE BALLOTS\n",
+        "labels": []
     },
     {
         "id": "798_batch_2",
-        "text": "\"I'M COMPLETELY FED-UP TO HERE WITH FACEBOOK PUTTING WORDS INTO MY MOUTH\"\n\n\"WHEN I SAID, WE NOW HAVE THE GREATEST VOTER FRAUD ORGANIZATION IN HISTORY',,, I MEANT IT!\".\n"
+        "text": "\"I'M COMPLETELY FED-UP TO HERE WITH FACEBOOK PUTTING WORDS INTO MY MOUTH\"\n\n\"WHEN I SAID, WE NOW HAVE THE GREATEST VOTER FRAUD ORGANIZATION IN HISTORY',,, I MEANT IT!\".\n",
+        "labels": [
+            {
+                "start": 5,
+                "end": 22,
+                "technique": "Loaded Language",
+                "text_fragment": "COMPLETELY FED-UP"
+            },
+            {
+                "start": 105,
+                "end": 149,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "GREATEST VOTER FRAUD ORGANIZATION IN HISTORY"
+            },
+            {
+                "start": 105,
+                "end": 149,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "GREATEST VOTER FRAUD ORGANIZATION IN HISTORY"
+            }
+        ]
     },
     {
         "id": "799_batch_2",
-        "text": "The greatest words ever spoken by a sitting president.\n\n\"Democrats continue to defraud the public with ridiculous bullshit!\"\n- Donald Trump -\n"
+        "text": "The greatest words ever spoken by a sitting president.\n\n\"Democrats continue to defraud the public with ridiculous bullshit!\"\n- Donald Trump -\n",
+        "labels": [
+            {
+                "start": 56,
+                "end": 139,
+                "technique": "Appeal to authority",
+                "text_fragment": "\"Democrats continue to defraud the public with ridiculous bullshit!\"\n- Donald Trump"
+            },
+            {
+                "start": 103,
+                "end": 123,
+                "technique": "Loaded Language",
+                "text_fragment": "ridiculous bullshit!"
+            },
+            {
+                "start": 4,
+                "end": 53,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "greatest words ever spoken by a sitting president"
+            },
+            {
+                "start": 4,
+                "end": 53,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "greatest words ever spoken by a sitting president"
+            },
+            {
+                "start": 0,
+                "end": 53,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "The greatest words ever spoken by a sitting president"
+            },
+            {
+                "start": 57,
+                "end": 122,
+                "technique": "Smears",
+                "text_fragment": "Democrats continue to defraud the public with ridiculous bullshit"
+            }
+        ]
     },
     {
         "id": "802_batch_2",
-        "text": "RIP FOX NEWS\n\nI'M STILL GOING TO BE YOUR PRESIDENT\n"
+        "text": "RIP FOX NEWS\n\nI'M STILL GOING TO BE YOUR PRESIDENT\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 3,
+                "technique": "Loaded Language",
+                "text_fragment": "RIP"
+            },
+            {
+                "start": 0,
+                "end": 12,
+                "technique": "Smears",
+                "text_fragment": "RIP FOX NEWS"
+            }
+        ]
     },
     {
         "id": "803_batch_2",
-        "text": "He's been telling us for months about election fraud...\nDo you really believe he hasn't been preparing for this moment???\n3..2.. 1 ....Checkmate!!\n"
+        "text": "He's been telling us for months about election fraud...\nDo you really believe he hasn't been preparing for this moment???\n3..2.. 1 ....Checkmate!!\n",
+        "labels": [
+            {
+                "start": 56,
+                "end": 121,
+                "technique": "Doubt",
+                "text_fragment": "Do you really believe he hasn't been preparing for this moment???"
+            },
+            {
+                "start": 38,
+                "end": 52,
+                "technique": "Loaded Language",
+                "text_fragment": "election fraud"
+            },
+            {
+                "start": 135,
+                "end": 146,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "Checkmate!!"
+            }
+        ]
     },
     {
         "id": "804_batch_2",
-        "text": "Enjoy Communism\n\"it's finger lickin'good\"\n\n"
+        "text": "Enjoy Communism\n\"it's finger lickin'good\"\n\n",
+        "labels": [
+            {
+                "start": 6,
+                "end": 15,
+                "technique": "Loaded Language",
+                "text_fragment": "Communism"
+            },
+            {
+                "start": 6,
+                "end": 41,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Communism\n\"it's finger lickin'good\""
+            }
+        ]
     },
     {
         "id": "805_batch_2",
-        "text": "WALT DISNEY Presents\nOLD Smeller\n"
+        "text": "WALT DISNEY Presents\nOLD Smeller\n",
+        "labels": [
+            {
+                "start": 21,
+                "end": 32,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "OLD Smeller"
+            }
+        ]
     },
     {
         "id": "806_batch_2",
-        "text": "Still trying to find the section in the Constitution where it says CNN determines the President...\n"
+        "text": "Still trying to find the section in the Constitution where it says CNN determines the President...\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 98,
+                "technique": "Doubt",
+                "text_fragment": "Still trying to find the section in the Constitution where it says CNN determines the President..."
+            }
+        ]
     },
     {
         "id": "808_batch_2",
-        "text": "\"WHERE ARE YOU GOING,BIG BIRD?\"\n\n\"I'M GOING TO PENNSYLVANIA, TO TEACH THEM HOW TO COUNT\"\n\n"
+        "text": "\"WHERE ARE YOU GOING,BIG BIRD?\"\n\n\"I'M GOING TO PENNSYLVANIA, TO TEACH THEM HOW TO COUNT\"\n\n",
+        "labels": [
+            {
+                "start": 21,
+                "end": 29,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "BIG BIRD"
+            },
+            {
+                "start": 34,
+                "end": 87,
+                "technique": "Doubt",
+                "text_fragment": "I'M GOING TO PENNSYLVANIA, TO TEACH THEM HOW TO COUNT"
+            },
+            {
+                "start": 34,
+                "end": 87,
+                "technique": "Smears",
+                "text_fragment": "I'M GOING TO PENNSYLVANIA, TO TEACH THEM HOW TO COUNT"
+            }
+        ]
     },
     {
         "id": "813_batch_2",
-        "text": "NOW MORE THAN EVER"
+        "text": "NOW MORE THAN EVER",
+        "labels": [
+            {
+                "start": 0,
+                "end": 18,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "NOW MORE THAN EVER"
+            }
+        ]
     },
     {
         "id": "814_batch_2",
-        "text": "HOLD UP!!! Sleepy Joe broke my record?!?!?!?\n\nI call BULLSHIT!!!"
+        "text": "HOLD UP!!! Sleepy Joe broke my record?!?!?!?\n\nI call BULLSHIT!!!",
+        "labels": [
+            {
+                "start": 11,
+                "end": 21,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Sleepy Joe"
+            },
+            {
+                "start": 53,
+                "end": 64,
+                "technique": "Loaded Language",
+                "text_fragment": "BULLSHIT!!!"
+            },
+            {
+                "start": 0,
+                "end": 38,
+                "technique": "Doubt",
+                "text_fragment": "HOLD UP!!! Sleepy Joe broke my record?"
+            }
+        ]
     },
     {
         "id": "815_batch_2",
-        "text": "CHEERS TO MY HATERS\n\nBE PATIENT, SO MUCH MORE IS COMING"
+        "text": "CHEERS TO MY HATERS\n\nBE PATIENT, SO MUCH MORE IS COMING",
+        "labels": [
+            {
+                "start": 13,
+                "end": 19,
+                "technique": "Loaded Language",
+                "text_fragment": "HATERS"
+            },
+            {
+                "start": 13,
+                "end": 19,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "HATERS"
+            }
+        ]
     },
     {
         "id": "816_batch_2",
-        "text": "FAIR AND BALANCED\n\nFAUX NEWS\n\nWE DISTORT YOU COMPLY"
+        "text": "FAIR AND BALANCED\n\nFAUX NEWS\n\nWE DISTORT YOU COMPLY",
+        "labels": [
+            {
+                "start": 19,
+                "end": 28,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "FAUX NEWS"
+            },
+            {
+                "start": 30,
+                "end": 51,
+                "technique": "Slogans",
+                "text_fragment": "WE DISTORT YOU COMPLY"
+            },
+            {
+                "start": 19,
+                "end": 51,
+                "technique": "Smears",
+                "text_fragment": "FAUX NEWS\n\nWE DISTORT YOU COMPLY"
+            }
+        ]
     },
     {
         "id": "817_batch_2",
-        "text": "Those who spent the last 4 years convinced there was election interference are now saying there's no way the election could be rigged."
+        "text": "Those who spent the last 4 years convinced there was election interference are now saying there's no way the election could be rigged.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 133,
+                "technique": "Whataboutism",
+                "text_fragment": "Those who spent the last 4 years convinced there was election interference are now saying there's no way the election could be rigged"
+            },
+            {
+                "start": 127,
+                "end": 133,
+                "technique": "Loaded Language",
+                "text_fragment": "rigged"
+            }
+        ]
     },
     {
         "id": "819_batch_2",
-        "text": "9-11 NEVER FORGET\n\n11-3 NEVER FORGET"
+        "text": "9-11 NEVER FORGET\n\n11-3 NEVER FORGET",
+        "labels": [
+            {
+                "start": 0,
+                "end": 17,
+                "technique": "Slogans",
+                "text_fragment": "9-11 NEVER FORGET"
+            },
+            {
+                "start": 24,
+                "end": 36,
+                "technique": "Repetition",
+                "text_fragment": "NEVER FORGET"
+            }
+        ]
     },
     {
         "id": "822_batch_2",
-        "text": "DEMOCRATS GOING TO THE POLLS 2020"
+        "text": "DEMOCRATS GOING TO THE POLLS 2020",
+        "labels": []
     },
     {
         "id": "824_batch_2",
-        "text": "\"SHOW ME A MAN THAT GETS RICH BY BEING A POLITICIAN, AND I'LL SHOW YOU A CROOK.\"\n-HARRY S. TRUMAN\n\nMAKIN' IT RAIN"
+        "text": "\"SHOW ME A MAN THAT GETS RICH BY BEING A POLITICIAN, AND I'LL SHOW YOU A CROOK.\"\n-HARRY S. TRUMAN\n\nMAKIN' IT RAIN",
+        "labels": [
+            {
+                "end": 97,
+                "start": 0,
+                "technique": "Appeal to authority",
+                "text_fragment": "\"SHOW ME A MAN THAT GETS RICH BY BEING A POLITICIAN, AND I'LL SHOW YOU A CROOK.\"\n-HARRY S. TRUMAN"
+            },
+            {
+                "end": 78,
+                "start": 73,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "CROOK"
+            },
+            {
+                "end": 78,
+                "start": 73,
+                "technique": "Loaded Language",
+                "text_fragment": "CROOK"
+            },
+            {
+                "end": 113,
+                "start": 99,
+                "technique": "Slogans",
+                "text_fragment": "MAKIN' IT RAIN"
+            }
+        ]
     },
     {
         "id": "825_batch_2",
-        "text": "Never burned one building\nNever robbed one store\nNever destroyed one town\n\nChanged the World"
+        "text": "Never burned one building\nNever robbed one store\nNever destroyed one town\n\nChanged the World",
+        "labels": [
+            {
+                "start": 0,
+                "end": 92,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "Never burned one building\nNever robbed one store\nNever destroyed one town\n\nChanged the World"
+            },
+            {
+                "start": 6,
+                "end": 12,
+                "technique": "Loaded Language",
+                "text_fragment": "burned"
+            },
+            {
+                "start": 32,
+                "end": 38,
+                "technique": "Loaded Language",
+                "text_fragment": "robbed"
+            },
+            {
+                "start": 55,
+                "end": 64,
+                "technique": "Loaded Language",
+                "text_fragment": "destroyed"
+            }
+        ]
     },
     {
         "id": "828_batch_2",
-        "text": "All four members of 'The Squad' re-elected to House, with more progressives joining\n\nMEET THE SQUAD"
+        "text": "All four members of 'The Squad' re-elected to House, with more progressives joining\n\nMEET THE SQUAD",
+        "labels": [
+            {
+                "start": 21,
+                "end": 30,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "The Squad"
+            }
+        ]
     },
     {
         "id": "829_batch_2",
-        "text": "STEPHANOPOULOS: WHAT'S IN YOUR QUIVER ?\n\nPELOSI: STOLEN BALLOTS TO DUMP"
+        "text": "STEPHANOPOULOS: WHAT'S IN YOUR QUIVER ?\n\nPELOSI: STOLEN BALLOTS TO DUMP",
+        "labels": [
+            {
+                "start": 49,
+                "end": 55,
+                "technique": "Loaded Language",
+                "text_fragment": "STOLEN"
+            },
+            {
+                "start": 49,
+                "end": 71,
+                "technique": "Doubt",
+                "text_fragment": "STOLEN BALLOTS TO DUMP"
+            },
+            {
+                "start": 0,
+                "end": 71,
+                "technique": "Smears",
+                "text_fragment": "STEPHANOPOULOS: WHAT'S IN YOUR QUIVER ?\n\nPELOSI: STOLEN BALLOTS TO DUMP"
+            }
+        ]
     },
     {
         "id": "830_batch_2",
-        "text": "Biden makes history with twice as many votes as voters"
+        "text": "Biden makes history with twice as many votes as voters",
+        "labels": [
+            {
+                "start": 0,
+                "end": 54,
+                "technique": "Doubt",
+                "text_fragment": "Biden makes history with twice as many votes as voters"
+            }
+        ]
     },
     {
         "id": "832_batch_2",
-        "text": "PRAY FOR AMERICA\n\nDear God \nI bow my head and ask, if it be thy will, please save this land from those who seek to destroy it."
+        "text": "PRAY FOR AMERICA\n\nDear God \nI bow my head and ask, if it be thy will, please save this land from those who seek to destroy it.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 16,
+                "technique": "Flag-waving",
+                "text_fragment": "PRAY FOR AMERICA"
+            },
+            {
+                "start": 115,
+                "end": 122,
+                "technique": "Loaded Language",
+                "text_fragment": "destroy"
+            },
+            {
+                "start": 70,
+                "end": 125,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "please save this land from those who seek to destroy it"
+            },
+            {
+                "start": 0,
+                "end": 16,
+                "technique": "Slogans",
+                "text_fragment": "PRAY FOR AMERICA"
+            }
+        ]
     },
     {
         "id": "837_batch_2",
-        "text": "SO YOU'RE TELLING ME THE DEMS RIGGED THE ELECTION BUT LET MITCH MCCONNELL WIN?"
+        "text": "SO YOU'RE TELLING ME THE DEMS RIGGED THE ELECTION BUT LET MITCH MCCONNELL WIN?",
+        "labels": [
+            {
+                "start": 0,
+                "end": 78,
+                "technique": "Doubt",
+                "text_fragment": "SO YOU'RE TELLING ME THE DEMS RIGGED THE ELECTION BUT LET MITCH MCCONNELL WIN?"
+            },
+            {
+                "start": 30,
+                "end": 49,
+                "technique": "Loaded Language",
+                "text_fragment": "RIGGED THE ELECTION"
+            }
+        ]
     },
     {
         "id": "839_batch_2",
-        "text": "IS IT ALZHEIMER'S?\nTHE INTERNET NEVER FORGETS, BUT THEY SEEM TO... \n\n\"I HAVE NEVER SEEN ANYTING LIKE THE ANGER ON THE LEFT\"\n- Ted Cruz Feb. 23, 2017"
+        "text": "IS IT ALZHEIMER'S?\nTHE INTERNET NEVER FORGETS, BUT THEY SEEM TO... \n\n\"I HAVE NEVER SEEN ANYTING LIKE THE ANGER ON THE LEFT\"\n- Ted Cruz Feb. 23, 2017",
+        "labels": [
+            {
+                "start": 70,
+                "end": 122,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "I HAVE NEVER SEEN ANYTING LIKE THE ANGER ON THE LEFT"
+            },
+            {
+                "start": 105,
+                "end": 110,
+                "technique": "Loaded Language",
+                "text_fragment": "ANGER"
+            }
+        ]
     },
     {
         "id": "840_batch_2",
-        "text": "KENTUCKY VOTERS HAVE A RIGHT KNOW WHAT'S WRONG WITH MITCH MCCONNELL'S HEALTH BEFORE THE ELECTION.\nPERIOD."
+        "text": "KENTUCKY VOTERS HAVE A RIGHT KNOW WHAT'S WRONG WITH MITCH MCCONNELL'S HEALTH BEFORE THE ELECTION.\nPERIOD.",
+        "labels": [
+            {
+                "start": 98,
+                "end": 105,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "PERIOD."
+            }
+        ]
     },
     {
         "id": "841_batch_2",
-        "text": "i spent the last 11 years refusing to do my job and 9 of those years preventing the entire Us senate from doing theirs.\n\nI'm up for re election this year.\nAnybody want me to spend 6 more years NOT doing my job?"
+        "text": "i spent the last 11 years refusing to do my job and 9 of those years preventing the entire Us senate from doing theirs.\n\nI'm up for re election this year.\nAnybody want me to spend 6 more years NOT doing my job?",
+        "labels": [
+            {
+                "start": 0,
+                "end": 118,
+                "technique": "Smears",
+                "text_fragment": "i spent the last 11 years refusing to do my job and 9 of those years preventing the entire Us senate from doing theirs"
+            },
+            {
+                "start": 155,
+                "end": 210,
+                "technique": "Doubt",
+                "text_fragment": "Anybody want me to spend 6 more years NOT doing my job?"
+            }
+        ]
     },
     {
         "id": "843_batch_2",
-        "text": "He LOVES to Talk about Himself.\n\nWARNING SIGNS OF A CULT\n-From the Cult Education Network\n• The Leader is Always Right\n• Criticism of the Leader is Characterized as “Persecution\"\n• No Matter How Harmful, the Leader's Behavior is Justified\n• Adherents are Obsessed with the Leader\n• The Leader has the Exclusive Franchise on \"Truth\"\n\nANOTHER DAY, MORE REPUBLICAN DIRTY TRICKS"
+        "text": "He LOVES to Talk about Himself.\n\nWARNING SIGNS OF A CULT\n-From the Cult Education Network\n• The Leader is Always Right\n• Criticism of the Leader is Characterized as “Persecution\"\n• No Matter How Harmful, the Leader's Behavior is Justified\n• Adherents are Obsessed with the Leader\n• The Leader has the Exclusive Franchise on \"Truth\"\n\nANOTHER DAY, MORE REPUBLICAN DIRTY TRICKS",
+        "labels": [
+            {
+                "start": 166,
+                "end": 177,
+                "technique": "Loaded Language",
+                "text_fragment": "Persecution"
+            },
+            {
+                "start": 195,
+                "end": 202,
+                "technique": "Loaded Language",
+                "text_fragment": "Harmful"
+            },
+            {
+                "start": 255,
+                "end": 263,
+                "technique": "Loaded Language",
+                "text_fragment": "Obsessed"
+            },
+            {
+                "start": 362,
+                "end": 374,
+                "technique": "Loaded Language",
+                "text_fragment": "DIRTY TRICKS"
+            },
+            {
+                "start": 92,
+                "end": 118,
+                "technique": "Slogans",
+                "text_fragment": "The Leader is Always Right"
+            },
+            {
+                "start": 52,
+                "end": 56,
+                "technique": "Loaded Language",
+                "text_fragment": "CULT"
+            },
+            {
+                "start": 346,
+                "end": 374,
+                "technique": "Smears",
+                "text_fragment": "MORE REPUBLICAN DIRTY TRICKS"
+            },
+            {
+                "start": 362,
+                "end": 374,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "DIRTY TRICKS"
+            }
+        ]
     },
     {
         "id": "844_batch_2",
-        "text": "Republicans, \nYou can either follow Jesus Christ;\n\nOr, you can follow Donald Trump\n\nYou cannot do both."
+        "text": "Republicans, \nYou can either follow Jesus Christ;\n\nOr, you can follow Donald Trump\n\nYou cannot do both.",
+        "labels": [
+            {
+                "start": 14,
+                "end": 103,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "You can either follow Jesus Christ;\n\nOr, you can follow Donald Trump\n\nYou cannot do both."
+            },
+            {
+                "start": 14,
+                "end": 103,
+                "technique": "Smears",
+                "text_fragment": "You can either follow Jesus Christ;\n\nOr, you can follow Donald Trump\n\nYou cannot do both."
+            }
+        ]
     },
     {
         "id": "845_batch_2",
-        "text": "THE MOST CRIMIMAL PRESIDENCY EVER ASSEMBLED.\n\nTHE INDICTABLES"
+        "text": "THE MOST CRIMIMAL PRESIDENCY EVER ASSEMBLED.\n\nTHE INDICTABLES",
+        "labels": [
+            {
+                "start": 0,
+                "end": 43,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "THE MOST CRIMIMAL PRESIDENCY EVER ASSEMBLED"
+            },
+            {
+                "start": 0,
+                "end": 43,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "THE MOST CRIMIMAL PRESIDENCY EVER ASSEMBLED"
+            },
+            {
+                "start": 9,
+                "end": 17,
+                "technique": "Loaded Language",
+                "text_fragment": "CRIMIMAL"
+            },
+            {
+                "start": 46,
+                "end": 61,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "THE INDICTABLES"
+            }
+        ]
     },
     {
         "id": "846_batch_2",
-        "text": "Make no mistake.\n\nThis is TRUMP's America."
+        "text": "Make no mistake.\n\nThis is TRUMP's America.",
+        "labels": [
+            {
+                "start": 26,
+                "end": 41,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "TRUMP's America"
+            }
+        ]
     },
     {
         "id": "847_batch_2",
-        "text": "PRESIDENTS FOR TRUMP\n\nPRESIDENTS AGAINST TRUMP\n\nAmerica, this says it all."
+        "text": "PRESIDENTS FOR TRUMP\n\nPRESIDENTS AGAINST TRUMP\n\nAmerica, this says it all.",
+        "labels": []
     },
     {
         "id": "852_batch_2",
-        "text": "I NEVER TOLD YOU TO HATE ANYBODY\nI DON'T CARE WHERE THEY'RE FROM,  WHAT THEY LOOK LIKE, WHO THEY'RE IN LOVE WITH, OR WHO THEY WORSHIP.\nWHY IS THIS SO DIFFICULT?"
+        "text": "I NEVER TOLD YOU TO HATE ANYBODY\nI DON'T CARE WHERE THEY'RE FROM,  WHAT THEY LOOK LIKE, WHO THEY'RE IN LOVE WITH, OR WHO THEY WORSHIP.\nWHY IS THIS SO DIFFICULT?",
+        "labels": [
+            {
+                "start": 20,
+                "end": 24,
+                "technique": "Loaded Language",
+                "text_fragment": "HATE"
+            }
+        ]
     },
     {
         "id": "854_batch_2",
-        "text": "MAKE AMERICA GREAT AGAIN\n\nA NATION WHOSE HEALTHCARE WORKERS DON'T HAVE MASKS TO KEEP THEM FROM GETTING SICK, ATTENDING TO PATIENTS WHO CAN'T GET VENTILATORS TO KEEP THEM ALIVE, SURROUNDED BY SICK PEOPLE WHO CAN'T GET TESTED, ISN'T GREAT\nIT'S A DAMN DISGRACE."
+        "text": "MAKE AMERICA GREAT AGAIN\n\nA NATION WHOSE HEALTHCARE WORKERS DON'T HAVE MASKS TO KEEP THEM FROM GETTING SICK, ATTENDING TO PATIENTS WHO CAN'T GET VENTILATORS TO KEEP THEM ALIVE, SURROUNDED BY SICK PEOPLE WHO CAN'T GET TESTED, ISN'T GREAT\nIT'S A DAMN DISGRACE.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 24,
+                "technique": "Slogans",
+                "text_fragment": "MAKE AMERICA GREAT AGAIN"
+            },
+            {
+                "start": 0,
+                "end": 24,
+                "technique": "Flag-waving",
+                "text_fragment": "MAKE AMERICA GREAT AGAIN"
+            },
+            {
+                "start": 26,
+                "end": 257,
+                "technique": "Smears",
+                "text_fragment": "A NATION WHOSE HEALTHCARE WORKERS DON'T HAVE MASKS TO KEEP THEM FROM GETTING SICK, ATTENDING TO PATIENTS WHO CAN'T GET VENTILATORS TO KEEP THEM ALIVE, SURROUNDED BY SICK PEOPLE WHO CAN'T GET TESTED, ISN'T GREAT\nIT'S A DAMN DISGRACE"
+            },
+            {
+                "start": 244,
+                "end": 257,
+                "technique": "Loaded Language",
+                "text_fragment": "DAMN DISGRACE"
+            },
+            {
+                "start": 26,
+                "end": 236,
+                "technique": "Loaded Language",
+                "text_fragment": "A NATION WHOSE HEALTHCARE WORKERS DON'T HAVE MASKS TO KEEP THEM FROM GETTING SICK, ATTENDING TO PATIENTS WHO CAN'T GET VENTILATORS TO KEEP THEM ALIVE, SURROUNDED BY SICK PEOPLE WHO CAN'T GET TESTED, ISN'T GREAT"
+            }
+        ]
     },
     {
         "id": "858_batch_2",
-        "text": "ELECTION 2020: PICK A TORCH"
+        "text": "ELECTION 2020: PICK A TORCH",
+        "labels": []
     },
     {
         "id": "860_batch_2",
-        "text": "The President of the United States is fighting the release of his DNA in a rape case.\nEvidence that would exonerate him if innocent.\nLet that sink in."
+        "text": "The President of the United States is fighting the release of his DNA in a rape case.\nEvidence that would exonerate him if innocent.\nLet that sink in.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 131,
+                "technique": "Smears",
+                "text_fragment": "The President of the United States is fighting the release of his DNA in a rape case.\nEvidence that would exonerate him if innocent"
+            },
+            {
+                "start": 75,
+                "end": 84,
+                "technique": "Loaded Language",
+                "text_fragment": "rape case"
+            },
+            {
+                "start": 133,
+                "end": 149,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "Let that sink in"
+            }
+        ]
     },
     {
         "id": "865_batch_2",
-        "text": "TRUMP FOR EX-PRESIDENT"
+        "text": "TRUMP FOR EX-PRESIDENT",
+        "labels": [
+            {
+                "start": 0,
+                "end": 22,
+                "technique": "Slogans",
+                "text_fragment": "TRUMP FOR EX-PRESIDENT"
+            },
+            {
+                "start": 0,
+                "end": 22,
+                "technique": "Smears",
+                "text_fragment": "TRUMP FOR EX-PRESIDENT"
+            }
+        ]
     },
     {
         "id": "866_batch_2",
-        "text": "Flip the Senate"
+        "text": "Flip the Senate",
+        "labels": [
+            {
+                "start": 0,
+                "end": 15,
+                "technique": "Slogans",
+                "text_fragment": "Flip the Senate"
+            }
+        ]
     },
     {
         "id": "872_batch_2",
-        "text": "TRUMP ANNOUNCES HIS NEW PANDEMIC RESPONSE TEAM"
+        "text": "TRUMP ANNOUNCES HIS NEW PANDEMIC RESPONSE TEAM",
+        "labels": []
     },
     {
         "id": "873_batch_2",
-        "text": "TRUMP'S COUNCIL TO REOPEN AMERICA AFTERA HEALTH CRISIS.\n\nNOT ONE DOCTOR OR PUBLIC HEALTH SPECIALIST IN THE GROUP.\n\nBECAUSE TRUMP DOESN'T WANT ADVICE, HE WANTS AGREEMENT."
+        "text": "TRUMP'S COUNCIL TO REOPEN AMERICA AFTERA HEALTH CRISIS.\n\nNOT ONE DOCTOR OR PUBLIC HEALTH SPECIALIST IN THE GROUP.\n\nBECAUSE TRUMP DOESN'T WANT ADVICE, HE WANTS AGREEMENT.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 168,
+                "technique": "Smears",
+                "text_fragment": "TRUMP'S COUNCIL TO REOPEN AMERICA AFTERA HEALTH CRISIS.\n\nNOT ONE DOCTOR OR PUBLIC HEALTH SPECIALIST IN THE GROUP.\n\nBECAUSE TRUMP DOESN'T WANT ADVICE, HE WANTS AGREEMENT"
+            },
+            {
+                "start": 115,
+                "end": 168,
+                "technique": "Causal Oversimplification",
+                "text_fragment": "BECAUSE TRUMP DOESN'T WANT ADVICE, HE WANTS AGREEMENT"
+            }
+        ]
     },
     {
         "id": "875_batch_2",
-        "text": "\"Trump cannot come up with an alibi for the month of\nFebruary.\"\n- Jennifer Rubin"
+        "text": "\"Trump cannot come up with an alibi for the month of\nFebruary.\"\n- Jennifer Rubin",
+        "labels": [
+            {
+                "start": 0,
+                "end": 80,
+                "technique": "Appeal to authority",
+                "text_fragment": "\"Trump cannot come up with an alibi for the month of\nFebruary.\"\n- Jennifer Rubin"
+            }
+        ]
     },
     {
         "id": "876_batch_2",
-        "text": "\"MY WORK HERE IS ALMOST DONE.\""
+        "text": "\"MY WORK HERE IS ALMOST DONE.\"",
+        "labels": []
     },
     {
         "id": "877_batch_2",
-        "text": "Thank a Democrat\n\nSocial Security \nMedicare\nVeterans Administration \nCivil Rights \nWomen's Suffrage \nAffordable Care Act \nPeace Corps \nMinimum Wage \nUnemployment"
+        "text": "Thank a Democrat\n\nSocial Security \nMedicare\nVeterans Administration \nCivil Rights \nWomen's Suffrage \nAffordable Care Act \nPeace Corps \nMinimum Wage \nUnemployment",
+        "labels": [
+            {
+                "start": 0,
+                "end": 161,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "Thank a Democrat\n\nSocial Security \nMedicare\nVeterans Administration \nCivil Rights \nWomen's Suffrage \nAffordable Care Act \nPeace Corps \nMinimum Wage \nUnemployment"
+            },
+            {
+                "start": 0,
+                "end": 16,
+                "technique": "Slogans",
+                "text_fragment": "Thank a Democrat"
+            }
+        ]
     },
     {
         "id": "880_batch_2",
-        "text": "\"I alone can fix it\"\n- Trump, 2016\n\n\"I don't take responsibility at all\"\n- Trump, 2020"
+        "text": "\"I alone can fix it\"\n- Trump, 2016\n\n\"I don't take responsibility at all\"\n- Trump, 2020",
+        "labels": [
+            {
+                "start": 0,
+                "end": 86,
+                "technique": "Smears",
+                "text_fragment": "\"I alone can fix it\"\n- Trump, 2016\n\n\"I don't take responsibility at all\"\n- Trump, 2020"
+            },
+            {
+                "start": 0,
+                "end": 86,
+                "technique": "Whataboutism",
+                "text_fragment": "\"I alone can fix it\"\n- Trump, 2016\n\n\"I don't take responsibility at all\"\n- Trump, 2020"
+            }
+        ]
     },
     {
         "id": "881_batch_2",
-        "text": "REMEMBER WHEN OBAMA FORCED REPUBLICAN GOVERNORS TO BEG FOR FEDERAL DISASTER RELIEF?\n\nYEAH, ME NEITHER"
+        "text": "REMEMBER WHEN OBAMA FORCED REPUBLICAN GOVERNORS TO BEG FOR FEDERAL DISASTER RELIEF?\n\nYEAH, ME NEITHER",
+        "labels": [
+            {
+                "start": 20,
+                "end": 82,
+                "technique": "Loaded Language",
+                "text_fragment": "FORCED REPUBLICAN GOVERNORS TO BEG FOR FEDERAL DISASTER RELIEF"
+            },
+            {
+                "start": 0,
+                "end": 101,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "REMEMBER WHEN OBAMA FORCED REPUBLICAN GOVERNORS TO BEG FOR FEDERAL DISASTER RELIEF?\n\nYEAH, ME NEITHER"
+            }
+        ]
     },
     {
         "id": "886_batch_2",
-        "text": "FOUGHT ISIS \n\nFREED ISIS\n"
+        "text": "FOUGHT ISIS \n\nFREED ISIS\n",
+        "labels": []
     },
     {
         "id": "887_batch_2",
-        "text": "YOUR MASK IS THE NEW TINFOIL HAT"
+        "text": "YOUR MASK IS THE NEW TINFOIL HAT",
+        "labels": [
+            {
+                "end": 32,
+                "start": 0,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "YOUR MASK IS THE NEW TINFOIL HAT"
+            },
+            {
+                "end": 32,
+                "start": 0,
+                "technique": "Doubt",
+                "text_fragment": "YOUR MASK IS THE NEW TINFOIL HAT"
+            },
+            {
+                "end": 32,
+                "start": 0,
+                "technique": "Smears",
+                "text_fragment": "YOUR MASK IS THE NEW TINFOIL HAT"
+            }
+        ]
     },
     {
         "id": "888_batch_2",
-        "text": "The Biden/Harris/CCP Administration Will Never Rule Over The United States of America"
+        "text": "The Biden/Harris/CCP Administration Will Never Rule Over The United States of America",
+        "labels": [
+            {
+                "start": 0,
+                "end": 35,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "The Biden/Harris/CCP Administration"
+            },
+            {
+                "start": 0,
+                "end": 85,
+                "technique": "Smears",
+                "text_fragment": "The Biden/Harris/CCP Administration Will Never Rule Over The United States of America"
+            },
+            {
+                "start": 36,
+                "end": 85,
+                "technique": "Flag-waving",
+                "text_fragment": "Will Never Rule Over The United States of America"
+            }
+        ]
     },
     {
         "id": "889_batch_2",
-        "text": "JUST GIVE US THE VACCINE \n\nWE DONT CARE WHATS IN IT"
+        "text": "JUST GIVE US THE VACCINE \n\nWE DONT CARE WHATS IN IT",
+        "labels": [
+            {
+                "start": 0,
+                "end": 24,
+                "technique": "Slogans",
+                "text_fragment": "JUST GIVE US THE VACCINE"
+            }
+        ]
     },
     {
         "id": "891_batch_2",
-        "text": "CHOICE IS YOURS REMOVE HIM OR LOSE YOUR FREEDOM"
+        "text": "CHOICE IS YOURS REMOVE HIM OR LOSE YOUR FREEDOM",
+        "labels": [
+            {
+                "start": 16,
+                "end": 47,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "REMOVE HIM OR LOSE YOUR FREEDOM"
+            },
+            {
+                "start": 16,
+                "end": 47,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "REMOVE HIM OR LOSE YOUR FREEDOM"
+            },
+            {
+                "start": 30,
+                "end": 47,
+                "technique": "Loaded Language",
+                "text_fragment": "LOSE YOUR FREEDOM"
+            }
+        ]
     },
     {
         "id": "894_batch_2",
-        "text": "THE PEOPLE WHO SELL THE PANIC SELL THE CURE\n\nOWNERSHIP OF THE MEDIA IS IN THE HANDS OF THE\nPERPETRATORS \n- SOLZHENITSYN"
+        "text": "THE PEOPLE WHO SELL THE PANIC SELL THE CURE\n\nOWNERSHIP OF THE MEDIA IS IN THE HANDS OF THE\nPERPETRATORS \n- SOLZHENITSYN",
+        "labels": [
+            {
+                "start": 24,
+                "end": 29,
+                "technique": "Loaded Language",
+                "text_fragment": "PANIC"
+            },
+            {
+                "start": 45,
+                "end": 119,
+                "technique": "Appeal to authority",
+                "text_fragment": "OWNERSHIP OF THE MEDIA IS IN THE HANDS OF THE\nPERPETRATORS \n- SOLZHENITSYN"
+            },
+            {
+                "start": 0,
+                "end": 43,
+                "technique": "Doubt",
+                "text_fragment": "THE PEOPLE WHO SELL THE PANIC SELL THE CURE"
+            }
+        ]
     },
     {
         "id": "900_batch_2",
-        "text": "The human body has over 7 TRILLION nerves and this fucker gets on every one of mine!\n\nJustin Trudeau is an Idiot"
+        "text": "The human body has over 7 TRILLION nerves and this fucker gets on every one of mine!\n\nJustin Trudeau is an Idiot",
+        "labels": [
+            {
+                "start": 51,
+                "end": 57,
+                "technique": "Loaded Language",
+                "text_fragment": "fucker"
+            },
+            {
+                "start": 51,
+                "end": 57,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "fucker"
+            },
+            {
+                "start": 58,
+                "end": 84,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "gets on every one of mine!"
+            },
+            {
+                "start": 107,
+                "end": 112,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Idiot"
+            },
+            {
+                "start": 107,
+                "end": 112,
+                "technique": "Loaded Language",
+                "text_fragment": "Idiot"
+            }
+        ]
     },
     {
         "id": "901_batch_2",
-        "text": "HEY YOU GUYSSSS!\n\nI CAN TRAVEL NOW\nTHE VACCINE WASN'T EVEN THAT BAD"
+        "text": "HEY YOU GUYSSSS!\n\nI CAN TRAVEL NOW\nTHE VACCINE WASN'T EVEN THAT BAD",
+        "labels": []
     },
     {
         "id": "903_batch_2",
-        "text": "Fake News TM New York Times' \"Man in Moscow\" Walter Duranty, 1922-1936\n\n\"Any report of a famine in Russia is today an exaggeration of malignant propaganda.\" \n- NYT 23 Aug 1933"
+        "text": "Fake News TM New York Times' \"Man in Moscow\" Walter Duranty, 1922-1936\n\n\"Any report of a famine in Russia is today an exaggeration of malignant propaganda.\" \n- NYT 23 Aug 1933",
+        "labels": [
+            {
+                "start": 0,
+                "end": 9,
+                "technique": "Loaded Language",
+                "text_fragment": "Fake News"
+            },
+            {
+                "start": 89,
+                "end": 95,
+                "technique": "Loaded Language",
+                "text_fragment": "famine"
+            },
+            {
+                "start": 134,
+                "end": 154,
+                "technique": "Loaded Language",
+                "text_fragment": "malignant propaganda"
+            },
+            {
+                "start": 29,
+                "end": 59,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "\"Man in Moscow\" Walter Duranty"
+            },
+            {
+                "start": 0,
+                "end": 28,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Fake News TM New York Times'"
+            },
+            {
+                "start": 118,
+                "end": 154,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "exaggeration of malignant propaganda"
+            },
+            {
+                "start": 0,
+                "end": 175,
+                "technique": "Smears",
+                "text_fragment": "Fake News TM New York Times' \"Man in Moscow\" Walter Duranty, 1922-1936\n\n\"Any report of a famine in Russia is today an exaggeration of malignant propaganda.\" \n- NYT 23 Aug 1933"
+            }
+        ]
     },
     {
         "id": "904_batch_2",
-        "text": "A child in America is 66,667 times more likely to be sold\nto human traffickers than die of Covid-19. \nIn addition, your masks assist in them being transported undetected and unidentified to anyone."
+        "text": "A child in America is 66,667 times more likely to be sold\nto human traffickers than die of Covid-19. \nIn addition, your masks assist in them being transported undetected and unidentified to anyone.",
+        "labels": [
+            {
+                "start": 53,
+                "end": 78,
+                "technique": "Loaded Language",
+                "text_fragment": "sold\nto human traffickers"
+            },
+            {
+                "start": 84,
+                "end": 99,
+                "technique": "Loaded Language",
+                "text_fragment": "die of Covid-19"
+            },
+            {
+                "start": 102,
+                "end": 196,
+                "technique": "Presenting Irrelevant Data (Red Herring)",
+                "text_fragment": "In addition, your masks assist in them being transported undetected and unidentified to anyone"
+            },
+            {
+                "start": 115,
+                "end": 196,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "your masks assist in them being transported undetected and unidentified to anyone"
+            }
+        ]
     },
     {
         "id": "906_batch_2",
-        "text": "Non Essential\n"
+        "text": "Non Essential\n",
+        "labels": []
     },
     {
         "id": "910_batch_2",
-        "text": "This is what Propaganda and conditioning looks like.\nThere is no *Office* of president elect\nThis is not a briefing, its a mans opinions.\n\nThis is called Arrogation\nIts designed to make you think someone has authority because it looks like they do."
+        "text": "This is what Propaganda and conditioning looks like.\nThere is no *Office* of president elect\nThis is not a briefing, its a mans opinions.\n\nThis is called Arrogation\nIts designed to make you think someone has authority because it looks like they do.",
+        "labels": [
+            {
+                "start": 13,
+                "end": 40,
+                "technique": "Loaded Language",
+                "text_fragment": "Propaganda and conditioning"
+            },
+            {
+                "start": 93,
+                "end": 136,
+                "technique": "Doubt",
+                "text_fragment": "This is not a briefing, its a mans opinions"
+            }
+        ]
     },
     {
         "id": "911_batch_2",
-        "text": "WHY ARE MASS PROTESTS FINE BUT REMEMBRANCE DAY CEREMONIES ARE DANGEROUS?"
+        "text": "WHY ARE MASS PROTESTS FINE BUT REMEMBRANCE DAY CEREMONIES ARE DANGEROUS?",
+        "labels": [
+            {
+                "start": 0,
+                "end": 72,
+                "technique": "Doubt",
+                "text_fragment": "WHY ARE MASS PROTESTS FINE BUT REMEMBRANCE DAY CEREMONIES ARE DANGEROUS?"
+            },
+            {
+                "start": 62,
+                "end": 71,
+                "technique": "Loaded Language",
+                "text_fragment": "DANGEROUS"
+            },
+            {
+                "start": 0,
+                "end": 72,
+                "technique": "Whataboutism",
+                "text_fragment": "WHY ARE MASS PROTESTS FINE BUT REMEMBRANCE DAY CEREMONIES ARE DANGEROUS?"
+            }
+        ]
     },
     {
         "id": "914_batch_2",
-        "text": "Trump, The Next 3 Term President\n\nBest President in American history"
+        "text": "Trump, The Next 3 Term President\n\nBest President in American history",
+        "labels": [
+            {
+                "start": 0,
+                "end": 68,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "Trump, The Next 3 Term President\n\nBest President in American history"
+            },
+            {
+                "start": 34,
+                "end": 68,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "Best President in American history"
+            },
+            {
+                "start": 0,
+                "end": 32,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Trump, The Next 3 Term President"
+            },
+            {
+                "start": 34,
+                "end": 68,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Best President in American history"
+            }
+        ]
     },
     {
         "id": "915_batch_2",
-        "text": "CHINESE COMMUNIST DEMOCRAT PARTY\n\nELECTION THEFT"
+        "text": "CHINESE COMMUNIST DEMOCRAT PARTY\n\nELECTION THEFT",
+        "labels": [
+            {
+                "start": 0,
+                "end": 32,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "CHINESE COMMUNIST DEMOCRAT PARTY"
+            },
+            {
+                "start": 34,
+                "end": 48,
+                "technique": "Loaded Language",
+                "text_fragment": "ELECTION THEFT"
+            },
+            {
+                "start": 8,
+                "end": 17,
+                "technique": "Loaded Language",
+                "text_fragment": "COMMUNIST"
+            }
+        ]
     },
     {
         "id": "916_batch_2",
-        "text": "THE DEMOCRATS TRIED TO IMPEACH A PRESIDENT FOR EXPOSING A CRIM NOW THEY WANT YOU TO ELECT THE PERSON WHO COMMITTED THAT CRIME LET THAT SINK IN."
+        "text": "THE DEMOCRATS TRIED TO IMPEACH A PRESIDENT FOR EXPOSING A CRIM NOW THEY WANT YOU TO ELECT THE PERSON WHO COMMITTED THAT CRIME LET THAT SINK IN.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 125,
+                "technique": "Whataboutism",
+                "text_fragment": "THE DEMOCRATS TRIED TO IMPEACH A PRESIDENT FOR EXPOSING A CRIM NOW THEY WANT YOU TO ELECT THE PERSON WHO COMMITTED THAT CRIME"
+            },
+            {
+                "start": 126,
+                "end": 142,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "LET THAT SINK IN"
+            },
+            {
+                "start": 23,
+                "end": 30,
+                "technique": "Loaded Language",
+                "text_fragment": "IMPEACH"
+            },
+            {
+                "start": 0,
+                "end": 125,
+                "technique": "Smears",
+                "text_fragment": "THE DEMOCRATS TRIED TO IMPEACH A PRESIDENT FOR EXPOSING A CRIM NOW THEY WANT YOU TO ELECT THE PERSON WHO COMMITTED THAT CRIME"
+            }
+        ]
     },
     {
         "id": "917_batch_2",
-        "text": "ATTENTION LIBERAL VOTERS...\n\nEVENTUALLY YOU WILL FIND OUT THE CHEESE IS NEVER FREE"
+        "text": "ATTENTION LIBERAL VOTERS...\n\nEVENTUALLY YOU WILL FIND OUT THE CHEESE IS NEVER FREE",
+        "labels": [
+            {
+                "start": 10,
+                "end": 24,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "LIBERAL VOTERS"
+            }
+        ]
     },
     {
         "id": "918_batch_2",
-        "text": "WEARING A MASK INTO A RESTAURANT JUST TO SIT DOWN AND TAKE IT OFF?\n\nIS LIKE HAVING A PISSING SECTION IN A SWIMMING POOL"
+        "text": "WEARING A MASK INTO A RESTAURANT JUST TO SIT DOWN AND TAKE IT OFF?\n\nIS LIKE HAVING A PISSING SECTION IN A SWIMMING POOL",
+        "labels": [
+            {
+                "start": 0,
+                "end": 66,
+                "technique": "Doubt",
+                "text_fragment": "WEARING A MASK INTO A RESTAURANT JUST TO SIT DOWN AND TAKE IT OFF?"
+            },
+            {
+                "start": 76,
+                "end": 119,
+                "technique": "Loaded Language",
+                "text_fragment": "HAVING A PISSING SECTION IN A SWIMMING POOL"
+            }
+        ]
     },
     {
         "id": "919_batch_2",
-        "text": "When you're in court for murder but the victim tests positive for Covid at the autopsy"
+        "text": "When you're in court for murder but the victim tests positive for Covid at the autopsy",
+        "labels": [
+            {
+                "start": 25,
+                "end": 31,
+                "technique": "Loaded Language",
+                "text_fragment": "murder"
+            },
+            {
+                "start": 47,
+                "end": 71,
+                "technique": "Loaded Language",
+                "text_fragment": "tests positive for Covid"
+            }
+        ]
     },
     {
         "id": "920_batch_2",
-        "text": "LET'S PLAY PRETEND\n\nI'LL PRETEND YOUR MASK WORKS AND YOU PRETEND I'M WEARING ONE"
+        "text": "LET'S PLAY PRETEND\n\nI'LL PRETEND YOUR MASK WORKS AND YOU PRETEND I'M WEARING ONE",
+        "labels": [
+            {
+                "start": 0,
+                "end": 80,
+                "technique": "Doubt",
+                "text_fragment": "LET'S PLAY PRETEND\n\nI'LL PRETEND YOUR MASK WORKS AND YOU PRETEND I'M WEARING ONE"
+            }
+        ]
     },
     {
         "id": "921_batch_2",
-        "text": "facebook\n\nCommiebook, llegal Censorship"
+        "text": "facebook\n\nCommiebook, llegal Censorship",
+        "labels": [
+            {
+                "start": 10,
+                "end": 20,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Commiebook"
+            },
+            {
+                "start": 22,
+                "end": 39,
+                "technique": "Loaded Language",
+                "text_fragment": "llegal Censorship"
+            },
+            {
+                "start": 22,
+                "end": 39,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "llegal Censorship"
+            }
+        ]
     },
     {
         "id": "927_batch_2",
-        "text": "Corona Virus\n\n•poverty\n•child slavery\n•pedophiles in positions of power\n•wealth inequality\n•mind control\n•sex trafficking\n•5g causing cancer"
+        "text": "Corona Virus\n\n•poverty\n•child slavery\n•pedophiles in positions of power\n•wealth inequality\n•mind control\n•sex trafficking\n•5g causing cancer",
+        "labels": [
+            {
+                "start": 14,
+                "end": 140,
+                "technique": "Loaded Language",
+                "text_fragment": "•poverty\n•child slavery\n•pedophiles in positions of power\n•wealth inequality\n•mind control\n•sex trafficking\n•5g causing cancer"
+            }
+        ]
     },
     {
         "id": "928_batch_2",
-        "text": "IF YOU ACTUALLY CARE ABOUT THE ENVIRONMENT YOU'LL WANT CARBON DIOXIDE LEVELS IN THE ATMOSPHERE TO MORE THAN TRIPLE."
+        "text": "IF YOU ACTUALLY CARE ABOUT THE ENVIRONMENT YOU'LL WANT CARBON DIOXIDE LEVELS IN THE ATMOSPHERE TO MORE THAN TRIPLE.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 114,
+                "technique": "Doubt",
+                "text_fragment": "IF YOU ACTUALLY CARE ABOUT THE ENVIRONMENT YOU'LL WANT CARBON DIOXIDE LEVELS IN THE ATMOSPHERE TO MORE THAN TRIPLE"
+            }
+        ]
     },
     {
         "id": "929_batch_2",
-        "text": "I WANT THE TRUTH!\n\nYou do realize who I am right?"
+        "text": "I WANT THE TRUTH!\n\nYou do realize who I am right?",
+        "labels": [
+            {
+                "start": 11,
+                "end": 17,
+                "technique": "Loaded Language",
+                "text_fragment": "TRUTH!"
+            }
+        ]
     },
     {
         "id": "932_batch_2",
-        "text": "President Trump, infected with COVID-19, returns to the White House after 3 days in the hospital\n\nJustin Trudeau, who wasn't infected with COVID-19, self isolates for 28 days at his cottage"
+        "text": "President Trump, infected with COVID-19, returns to the White House after 3 days in the hospital\n\nJustin Trudeau, who wasn't infected with COVID-19, self isolates for 28 days at his cottage",
+        "labels": [
+            {
+                "start": 0,
+                "end": 96,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "President Trump, infected with COVID-19, returns to the White House after 3 days in the hospital"
+            },
+            {
+                "start": 98,
+                "end": 189,
+                "technique": "Smears",
+                "text_fragment": "Justin Trudeau, who wasn't infected with COVID-19, self isolates for 28 days at his cottage"
+            },
+            {
+                "start": 125,
+                "end": 147,
+                "technique": "Loaded Language",
+                "text_fragment": "infected with COVID-19"
+            },
+            {
+                "start": 17,
+                "end": 39,
+                "technique": "Loaded Language",
+                "text_fragment": "infected with COVID-19"
+            }
+        ]
     },
     {
         "id": "933_batch_2",
-        "text": "IF POSTING THE TRUTH DIDN'T AFFECT THE MASSES THEY WOULDN'T CENSOR IT"
+        "text": "IF POSTING THE TRUTH DIDN'T AFFECT THE MASSES THEY WOULDN'T CENSOR IT",
+        "labels": [
+            {
+                "start": 60,
+                "end": 66,
+                "technique": "Loaded Language",
+                "text_fragment": "CENSOR"
+            },
+            {
+                "start": 0,
+                "end": 69,
+                "technique": "Doubt",
+                "text_fragment": "IF POSTING THE TRUTH DIDN'T AFFECT THE MASSES THEY WOULDN'T CENSOR IT"
+            }
+        ]
     },
     {
         "id": "935_batch_2",
-        "text": "OBAMAGATE\n\nWATERGATE"
+        "text": "OBAMAGATE\n\nWATERGATE",
+        "labels": [
+            {
+                "start": 0,
+                "end": 9,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "OBAMAGATE"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "technique": "Loaded Language",
+                "text_fragment": "WATERGATE"
+            }
+        ]
     },
     {
         "id": "936_batch_2",
-        "text": "An app to trace movements of COVID positive people?\n\nWhere are the apps tracking PEDOPHILES and RAPISTS?!"
+        "text": "An app to trace movements of COVID positive people?\n\nWhere are the apps tracking PEDOPHILES and RAPISTS?!",
+        "labels": [
+            {
+                "end": 103,
+                "start": 81,
+                "technique": "Loaded Language",
+                "text_fragment": "PEDOPHILES and RAPISTS"
+            },
+            {
+                "end": 103,
+                "start": 81,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "PEDOPHILES and RAPISTS"
+            },
+            {
+                "end": 105,
+                "start": 0,
+                "technique": "Whataboutism",
+                "text_fragment": "An app to trace movements of COVID positive people?\n\nWhere are the apps tracking PEDOPHILES and RAPISTS?!"
+            }
+        ]
     },
     {
         "id": "937_batch_2",
-        "text": "Our Forefathers in 1944 Facing Almost Certain Death\n\nLiberals in 2020 Facing a 99.7% Survival Rate"
+        "text": "Our Forefathers in 1944 Facing Almost Certain Death\n\nLiberals in 2020 Facing a 99.7% Survival Rate",
+        "labels": [
+            {
+                "start": 38,
+                "end": 51,
+                "technique": "Loaded Language",
+                "text_fragment": "Certain Death"
+            },
+            {
+                "start": 53,
+                "end": 98,
+                "technique": "Smears",
+                "text_fragment": "Liberals in 2020 Facing a 99.7% Survival Rate"
+            }
+        ]
     },
     {
         "id": "938_batch_2",
-        "text": "I can always tell which passengers are anti-vaccine.\nThey are the ones who peek into the cockpit prior to the flight and tell me they could fly better than me because they watched a video on YouTube."
+        "text": "I can always tell which passengers are anti-vaccine.\nThey are the ones who peek into the cockpit prior to the flight and tell me they could fly better than me because they watched a video on YouTube.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 51,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "I can always tell which passengers are anti-vaccine"
+            },
+            {
+                "start": 0,
+                "end": 198,
+                "technique": "Smears",
+                "text_fragment": "I can always tell which passengers are anti-vaccine.\nThey are the ones who peek into the cockpit prior to the flight and tell me they could fly better than me because they watched a video on YouTube"
+            }
+        ]
     },
     {
         "id": "939_batch_2",
-        "text": "Anti-Vaxxers:\nThe COVID vaccine makes you vulnerable to lightning.\nCovid vaccine volunteer, 72, struck by lightning after getting Moderna injection"
+        "text": "Anti-Vaxxers:\nThe COVID vaccine makes you vulnerable to lightning.\nCovid vaccine volunteer, 72, struck by lightning after getting Moderna injection",
+        "labels": []
     },
     {
         "id": "940_batch_2",
-        "text": "You said you had done \"research on vaccines for many years.\" \nYet when I search for your name in PubMed, I find no publications at all.\n\n100 points from Anti-Vaxxer!!!"
+        "text": "You said you had done \"research on vaccines for many years.\" \nYet when I search for your name in PubMed, I find no publications at all.\n\n100 points from Anti-Vaxxer!!!",
+        "labels": [
+            {
+                "start": 0,
+                "end": 134,
+                "technique": "Doubt",
+                "text_fragment": "You said you had done \"research on vaccines for many years.\" \nYet when I search for your name in PubMed, I find no publications at all"
+            }
+        ]
     },
     {
         "id": "942_batch_2",
-        "text": "Dr. Jonas Salk giving the polio vaccine.\n\nDr. Jonas Salk getting the polio vaccine.\n\nDoctors and scientists who study vaccines put their money where their mouth is.\nThey vaccinate themselves.\nThey vaccinate their families."
+        "text": "Dr. Jonas Salk giving the polio vaccine.\n\nDr. Jonas Salk getting the polio vaccine.\n\nDoctors and scientists who study vaccines put their money where their mouth is.\nThey vaccinate themselves.\nThey vaccinate their families.",
+        "labels": [
+            {
+                "start": 85,
+                "end": 163,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "Doctors and scientists who study vaccines put their money where their mouth is"
+            }
+        ]
     },
     {
         "id": "944_batch_2",
-        "text": "I'm a Doctor.\nI'm a Dad.\nAnd my child will always be vaccine-free.\nDr. Henele, ND\n\nI'm a real Doctor.\nI'm a Dad.\nI've published over 160 papers on vaccines.\nAnd my children are vaccinated.\nDr. Paul Offit, MD"
+        "text": "I'm a Doctor.\nI'm a Dad.\nAnd my child will always be vaccine-free.\nDr. Henele, ND\n\nI'm a real Doctor.\nI'm a Dad.\nI've published over 160 papers on vaccines.\nAnd my children are vaccinated.\nDr. Paul Offit, MD",
+        "labels": [
+            {
+                "start": 89,
+                "end": 100,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "real Doctor"
+            }
+        ]
     },
     {
         "id": "945_batch_2",
-        "text": "Would you do anything to avoid giving your baby arsenic, cadmium, lead, and aluminum...\n\nThen don't breastfeed them.\n\nOf course, we are NOT against breastfeeding.\nBut scary-sounding substances can be found anywhere-including breast milk.\nKeep this in mind when people try to mislead you about the safety of the ingredients in vaccines."
+        "text": "Would you do anything to avoid giving your baby arsenic, cadmium, lead, and aluminum...\n\nThen don't breastfeed them.\n\nOf course, we are NOT against breastfeeding.\nBut scary-sounding substances can be found anywhere-including breast milk.\nKeep this in mind when people try to mislead you about the safety of the ingredients in vaccines.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 84,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "Would you do anything to avoid giving your baby arsenic, cadmium, lead, and aluminum"
+            },
+            {
+                "start": 31,
+                "end": 84,
+                "technique": "Loaded Language",
+                "text_fragment": "giving your baby arsenic, cadmium, lead, and aluminum"
+            },
+            {
+                "start": 167,
+                "end": 192,
+                "technique": "Loaded Language",
+                "text_fragment": "scary-sounding substances"
+            }
+        ]
     },
     {
         "id": "948_batch_2",
-        "text": "He spreads fear & doubt about the COVID vaccine.\n\nShe read the studies & got it as soon as possible.\n\nSee the difference?"
+        "text": "He spreads fear & doubt about the COVID vaccine.\n\nShe read the studies & got it as soon as possible.\n\nSee the difference?",
+        "labels": [
+            {
+                "start": 11,
+                "end": 23,
+                "technique": "Loaded Language",
+                "text_fragment": "fear & doubt"
+            }
+        ]
     },
     {
         "id": "953_batch_2",
-        "text": "What do AOC, Pelosi, McConnell, and Pence all have in common?\nThey know the COVID vaccine is safe and effective."
+        "text": "What do AOC, Pelosi, McConnell, and Pence all have in common?\nThey know the COVID vaccine is safe and effective.",
+        "labels": [
+            {
+                "end": 111,
+                "start": 0,
+                "technique": "Appeal to authority",
+                "text_fragment": "What do AOC, Pelosi, McConnell, and Pence all have in common?\nThey know the COVID vaccine is safe and effective"
+            },
+            {
+                "end": 111,
+                "start": 76,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "COVID vaccine is safe and effective"
+            },
+            {
+                "end": 111,
+                "start": 93,
+                "technique": "Loaded Language",
+                "text_fragment": "safe and effective"
+            },
+            {
+                "end": 111,
+                "start": 0,
+                "technique": "Bandwagon",
+                "text_fragment": "What do AOC, Pelosi, McConnell, and Pence all have in common?\nThey know the COVID vaccine is safe and effective"
+            }
+        ]
     },
     {
         "id": "955_batch_2",
-        "text": "The government knows the poisons in vaccines make us weak and docile- if they don't kill us outright. \nThat is why soldiers get more vaccines than anyone else.\nThroughout history, every government wants the most\ninjured, harmless soldiers for its armies.\nMr. Wrong"
+        "text": "The government knows the poisons in vaccines make us weak and docile- if they don't kill us outright. \nThat is why soldiers get more vaccines than anyone else.\nThroughout history, every government wants the most\ninjured, harmless soldiers for its armies.\nMr. Wrong",
+        "labels": [
+            {
+                "start": 25,
+                "end": 44,
+                "technique": "Loaded Language",
+                "text_fragment": "poisons in vaccines"
+            },
+            {
+                "start": 53,
+                "end": 68,
+                "technique": "Loaded Language",
+                "text_fragment": "weak and docile"
+            },
+            {
+                "start": 84,
+                "end": 100,
+                "technique": "Loaded Language",
+                "text_fragment": "kill us outright"
+            },
+            {
+                "start": 203,
+                "end": 238,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "the most\ninjured, harmless soldiers"
+            }
+        ]
     },
     {
         "id": "956_batch_2",
-        "text": "DEAR GOP SENATORS \n\nVIOLATING YOUR OATH IS A FEDERAL CRIME.\nAttempting to overthrow an election violates your oath to support and defend the Constitution.\nPunishable by removal from office, prison, and fines."
+        "text": "DEAR GOP SENATORS \n\nVIOLATING YOUR OATH IS A FEDERAL CRIME.\nAttempting to overthrow an election violates your oath to support and defend the Constitution.\nPunishable by removal from office, prison, and fines.",
+        "labels": [
+            {
+                "start": 20,
+                "end": 58,
+                "technique": "Loaded Language",
+                "text_fragment": "VIOLATING YOUR OATH IS A FEDERAL CRIME"
+            },
+            {
+                "start": 74,
+                "end": 95,
+                "technique": "Loaded Language",
+                "text_fragment": "overthrow an election"
+            },
+            {
+                "start": 96,
+                "end": 104,
+                "technique": "Loaded Language",
+                "text_fragment": "violates"
+            },
+            {
+                "start": 96,
+                "end": 153,
+                "technique": "Flag-waving",
+                "text_fragment": "violates your oath to support and defend the Constitution"
+            },
+            {
+                "start": 155,
+                "end": 207,
+                "technique": "Loaded Language",
+                "text_fragment": "Punishable by removal from office, prison, and fines"
+            }
+        ]
     },
     {
         "id": "961_batch_2",
-        "text": "WHEN YOU REALIZE, IT'S NOT A SLOGAN, BUT AN EXPIRATION DATE\nTRUMP 2020"
+        "text": "WHEN YOU REALIZE, IT'S NOT A SLOGAN, BUT AN EXPIRATION DATE\nTRUMP 2020",
+        "labels": []
     },
     {
         "id": "966_batch_2",
-        "text": "I SUPPORT JOE BIDEN AND I NARRATED HIS CAMPAIGN AD WHO ARE YOU GOING TO USE FOR YOUR CONDESCENDING MEMES NOW, CONSERVATIVES?"
+        "text": "I SUPPORT JOE BIDEN AND I NARRATED HIS CAMPAIGN AD WHO ARE YOU GOING TO USE FOR YOUR CONDESCENDING MEMES NOW, CONSERVATIVES?",
+        "labels": [
+            {
+                "start": 85,
+                "end": 104,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "CONDESCENDING MEMES"
+            },
+            {
+                "start": 85,
+                "end": 104,
+                "technique": "Loaded Language",
+                "text_fragment": "CONDESCENDING MEMES"
+            }
+        ]
     },
     {
         "id": "967_batch_2",
-        "text": "Your parades are cute!\n\nWait till you see ours!!"
+        "text": "Your parades are cute!\n\nWait till you see ours!!",
+        "labels": [
+            {
+                "start": 17,
+                "end": 22,
+                "technique": "Loaded Language",
+                "text_fragment": "cute!"
+            }
+        ]
     },
     {
         "id": "971_batch_2",
-        "text": "BIDEN AND THE LADY WHO MADE BRETT KAVANAUGH CRY"
+        "text": "BIDEN AND THE LADY WHO MADE BRETT KAVANAUGH CRY",
+        "labels": [
+            {
+                "start": 10,
+                "end": 47,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "THE LADY WHO MADE BRETT KAVANAUGH CRY"
+            },
+            {
+                "start": 44,
+                "end": 47,
+                "technique": "Loaded Language",
+                "text_fragment": "CRY"
+            }
+        ]
     },
     {
         "id": "973_batch_2",
-        "text": "DONALD TRUMP\nTHE PEDOPHILE'S CHOICE\n\nDonald and Ivanka Trump\n\nKatie Johnson\n\nKatie said she was 13 when Donald Trump raped her.\nShe tried to file a lawsuit, but received so many death threats from Trump supporters she dropped the case."
+        "text": "DONALD TRUMP\nTHE PEDOPHILE'S CHOICE\n\nDonald and Ivanka Trump\n\nKatie Johnson\n\nKatie said she was 13 when Donald Trump raped her.\nShe tried to file a lawsuit, but received so many death threats from Trump supporters she dropped the case.",
+        "labels": [
+            {
+                "end": 35,
+                "start": 0,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "DONALD TRUMP\nTHE PEDOPHILE'S CHOICE"
+            },
+            {
+                "end": 26,
+                "start": 17,
+                "technique": "Loaded Language",
+                "text_fragment": "PEDOPHILE"
+            },
+            {
+                "end": 234,
+                "start": 77,
+                "technique": "Smears",
+                "text_fragment": "Katie said she was 13 when Donald Trump raped her.\nShe tried to file a lawsuit, but received so many death threats from Trump supporters she dropped the case"
+            },
+            {
+                "end": 122,
+                "start": 117,
+                "technique": "Loaded Language",
+                "text_fragment": "raped"
+            },
+            {
+                "end": 191,
+                "start": 178,
+                "technique": "Loaded Language",
+                "text_fragment": "death threats"
+            },
+            {
+                "end": 35,
+                "start": 0,
+                "technique": "Reductio ad hitlerum",
+                "text_fragment": "DONALD TRUMP\nTHE PEDOPHILE'S CHOICE"
+            }
+        ]
     },
     {
         "id": "974_batch_2",
-        "text": "When Trump got COVID, Joe Biden pulled all negative ads, out of respect and basic human decency.\n\nWhen Hillary Clinton got pneumonia in 2016, Trump mercilessly MOCKED and ATTACKED her for it, saying \"she can't even walk 15 feet to her car!\" as his rally crowd cheered.\n\nSEE THE DIFFERENCE?"
+        "text": "When Trump got COVID, Joe Biden pulled all negative ads, out of respect and basic human decency.\n\nWhen Hillary Clinton got pneumonia in 2016, Trump mercilessly MOCKED and ATTACKED her for it, saying \"she can't even walk 15 feet to her car!\" as his rally crowd cheered.\n\nSEE THE DIFFERENCE?",
+        "labels": [
+            {
+                "start": 0,
+                "end": 95,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "When Trump got COVID, Joe Biden pulled all negative ads, out of respect and basic human decency"
+            },
+            {
+                "start": 98,
+                "end": 267,
+                "technique": "Smears",
+                "text_fragment": "When Hillary Clinton got pneumonia in 2016, Trump mercilessly MOCKED and ATTACKED her for it, saying \"she can't even walk 15 feet to her car!\" as his rally crowd cheered"
+            },
+            {
+                "start": 148,
+                "end": 179,
+                "technique": "Loaded Language",
+                "text_fragment": "mercilessly MOCKED and ATTACKED"
+            }
+        ]
     },
     {
         "id": "975_batch_2",
-        "text": "Did you ever notice that\n\nRepublicans who say people on welfare are scamming the system, are the same people who say Trump is a genius for scamming the system?\n\nWhy is that?"
+        "text": "Did you ever notice that\n\nRepublicans who say people on welfare are scamming the system, are the same people who say Trump is a genius for scamming the system?\n\nWhy is that?",
+        "labels": [
+            {
+                "start": 26,
+                "end": 159,
+                "technique": "Whataboutism",
+                "text_fragment": "Republicans who say people on welfare are scamming the system, are the same people who say Trump is a genius for scamming the system?"
+            },
+            {
+                "start": 68,
+                "end": 76,
+                "technique": "Loaded Language",
+                "text_fragment": "scamming"
+            },
+            {
+                "start": 128,
+                "end": 134,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "genius"
+            },
+            {
+                "start": 139,
+                "end": 147,
+                "technique": "Loaded Language",
+                "text_fragment": "scamming"
+            }
+        ]
     },
     {
         "id": "978_batch_2",
-        "text": "Your taxes aren't high because of schools or healthcare or food stamps. \nThey are high because of rich assholes like Trump who game the system so they don't have to pay their fair share."
+        "text": "Your taxes aren't high because of schools or healthcare or food stamps. \nThey are high because of rich assholes like Trump who game the system so they don't have to pay their fair share.",
+        "labels": [
+            {
+                "start": 73,
+                "end": 185,
+                "technique": "Smears",
+                "text_fragment": "They are high because of rich assholes like Trump who game the system so they don't have to pay their fair share"
+            },
+            {
+                "start": 73,
+                "end": 185,
+                "technique": "Causal Oversimplification",
+                "text_fragment": "They are high because of rich assholes like Trump who game the system so they don't have to pay their fair share"
+            },
+            {
+                "start": 98,
+                "end": 111,
+                "technique": "Loaded Language",
+                "text_fragment": "rich assholes"
+            },
+            {
+                "start": 98,
+                "end": 111,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "rich assholes"
+            }
+        ]
     },
     {
         "id": "979_batch_2",
-        "text": "IF A FELON HAS TO PAY OFF THEIR DEBTS TO VOTE IN FLORIDA A POLITICIAN SHOULD PAY OFF THEIR DEBTS TO RUN FOR PRESIDENT"
+        "text": "IF A FELON HAS TO PAY OFF THEIR DEBTS TO VOTE IN FLORIDA A POLITICIAN SHOULD PAY OFF THEIR DEBTS TO RUN FOR PRESIDENT",
+        "labels": [
+            {
+                "end": 117,
+                "start": 0,
+                "technique": "Whataboutism",
+                "text_fragment": "IF A FELON HAS TO PAY OFF THEIR DEBTS TO VOTE IN FLORIDA A POLITICIAN SHOULD PAY OFF THEIR DEBTS TO RUN FOR PRESIDENT"
+            }
+        ]
     },
     {
         "id": "981_batch_2",
-        "text": "Republican Party\n\nU.S. Women\n\nAmy Coney Barrett\n"
+        "text": "Republican Party\n\nU.S. Women\n\nAmy Coney Barrett\n",
+        "labels": []
     },
     {
         "id": "984_batch_2",
-        "text": "Sure, Trump May Be Basing His Entire Re-Election Campaign Around Terrifying Tales Of Antifa Burning And Looting Cities While Dark, Shadowy Forces Rape And Murder Their Way Across The Suburbs, But You Can Believe That He Didn't Tell America The Truth About Coronavirus Because... \n\nI didn't want to create a panic"
+        "text": "Sure, Trump May Be Basing His Entire Re-Election Campaign Around Terrifying Tales Of Antifa Burning And Looting Cities While Dark, Shadowy Forces Rape And Murder Their Way Across The Suburbs, But You Can Believe That He Didn't Tell America The Truth About Coronavirus Because... \n\nI didn't want to create a panic",
+        "labels": [
+            {
+                "start": 6,
+                "end": 312,
+                "technique": "Whataboutism",
+                "text_fragment": "Trump May Be Basing His Entire Re-Election Campaign Around Terrifying Tales Of Antifa Burning And Looting Cities While Dark, Shadowy Forces Rape And Murder Their Way Across The Suburbs, But You Can Believe That He Didn't Tell America The Truth About Coronavirus Because... \n\nI didn't want to create a panic"
+            },
+            {
+                "start": 65,
+                "end": 81,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Terrifying Tales"
+            },
+            {
+                "start": 65,
+                "end": 111,
+                "technique": "Loaded Language",
+                "text_fragment": "Terrifying Tales Of Antifa Burning And Looting"
+            },
+            {
+                "start": 125,
+                "end": 145,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Dark, Shadowy Forces"
+            },
+            {
+                "start": 125,
+                "end": 161,
+                "technique": "Loaded Language",
+                "text_fragment": "Dark, Shadowy Forces Rape And Murder"
+            },
+            {
+                "start": 217,
+                "end": 249,
+                "technique": "Loaded Language",
+                "text_fragment": "He Didn't Tell America The Truth"
+            },
+            {
+                "start": 307,
+                "end": 312,
+                "technique": "Loaded Language",
+                "text_fragment": "panic"
+            }
+        ]
     },
     {
         "id": "986_batch_2",
-        "text": "I look at this picture & I see civility.\nI see people that we know have differences with each other being cordial to one another.\nI see normality.\nI want it back."
+        "text": "I look at this picture & I see civility.\nI see people that we know have differences with each other being cordial to one another.\nI see normality.\nI want it back.",
+        "labels": []
     },
     {
         "id": "474_batch_2",
-        "text": "JOE BIDEN'S LIFETIME ACCOMPLISHMENTS."
+        "text": "JOE BIDEN'S LIFETIME ACCOMPLISHMENTS.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 37,
+                "technique": "Slogans",
+                "text_fragment": "JOE BIDEN'S LIFETIME ACCOMPLISHMENTS."
+            }
+        ]
     },
     {
         "id": "476_batch_2",
-        "text": "NEWS ALERT\nJoe Biden expected to make several complete sentences\n\nBIDEN\nPRESIDENT\n\n"
+        "text": "NEWS ALERT\nJoe Biden expected to make several complete sentences\n\nBIDEN\nPRESIDENT\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 64,
+                "technique": "Smears",
+                "text_fragment": "NEWS ALERT\nJoe Biden expected to make several complete sentences"
+            }
+        ]
     },
     {
         "id": "478_batch_2",
-        "text": "Do you see the pattern yet?\nTick tock...\n"
+        "text": "Do you see the pattern yet?\nTick tock...\n",
+        "labels": []
     },
     {
         "id": "479_batch_2",
-        "text": "I DID NOT HAVE SEXUAL RELATIONS WITH THAT WOMAN.\n\nI HAVE NEVER BEEN TO EPSTEIN'S ISLAND.\n\n"
+        "text": "I DID NOT HAVE SEXUAL RELATIONS WITH THAT WOMAN.\n\nI HAVE NEVER BEEN TO EPSTEIN'S ISLAND.\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 88,
+                "technique": "Presenting Irrelevant Data (Red Herring)",
+                "text_fragment": "I DID NOT HAVE SEXUAL RELATIONS WITH THAT WOMAN.\n\nI HAVE NEVER BEEN TO EPSTEIN'S ISLAND."
+            }
+        ]
     },
     {
         "id": "480_batch_2",
-        "text": "METEOROLOGIST, \"I CAN BE WRONG MORE THAN ANYBODY AND KEEP MY JOB.\"\n\nCDC, \"HOLD MY BEER.\"\n"
+        "text": "METEOROLOGIST, \"I CAN BE WRONG MORE THAN ANYBODY AND KEEP MY JOB.\"\n\nCDC, \"HOLD MY BEER.\"\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 66,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "METEOROLOGIST, \"I CAN BE WRONG MORE THAN ANYBODY AND KEEP MY JOB.\""
+            },
+            {
+                "start": 68,
+                "end": 88,
+                "technique": "Smears",
+                "text_fragment": "CDC, \"HOLD MY BEER.\""
+            }
+        ]
     },
     {
         "id": "481_batch_2",
-        "text": "IF YOU CAN DO THIS SIX FEET APART...\n\nYOU CAN DO THIS SIX FEET APART\n"
+        "text": "IF YOU CAN DO THIS SIX FEET APART...\n\nYOU CAN DO THIS SIX FEET APART\n",
+        "labels": []
     },
     {
         "id": "482_batch_2",
-        "text": "MASKS WORK\n\nOK GOOD, SO WE CAN GO VOTE IN PERSON\n\n..WELL NO LET'S NOT BE TO HASTY..\n\nOK WELL IF THEY DON'T THEN LET'S POSTPONE THE ELECTION\n\nNO! THEY WORK...I MEAN NOT ENOUGH TO VOTE...BUT ENOUGH TO NOT POSTPONE THE ELECTION.!!\n\n"
+        "text": "MASKS WORK\n\nOK GOOD, SO WE CAN GO VOTE IN PERSON\n\n..WELL NO LET'S NOT BE TO HASTY..\n\nOK WELL IF THEY DON'T THEN LET'S POSTPONE THE ELECTION\n\nNO! THEY WORK...I MEAN NOT ENOUGH TO VOTE...BUT ENOUGH TO NOT POSTPONE THE ELECTION.!!\n\n",
+        "labels": [
+            {
+                "start": 85,
+                "end": 139,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "OK WELL IF THEY DON'T THEN LET'S POSTPONE THE ELECTION"
+            },
+            {
+                "start": 145,
+                "end": 224,
+                "technique": "Doubt",
+                "text_fragment": "THEY WORK...I MEAN NOT ENOUGH TO VOTE...BUT ENOUGH TO NOT POSTPONE THE ELECTION"
+            }
+        ]
     },
     {
         "id": "483_batch_2",
-        "text": "YOU KNOW THE BRAINWASHING IS REAL WHEN WHITE PEOPLE PROTEST AGAINST WHITE PEOPLE FOR BEING WHITE.\n"
+        "text": "YOU KNOW THE BRAINWASHING IS REAL WHEN WHITE PEOPLE PROTEST AGAINST WHITE PEOPLE FOR BEING WHITE.\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 97,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "YOU KNOW THE BRAINWASHING IS REAL WHEN WHITE PEOPLE PROTEST AGAINST WHITE PEOPLE FOR BEING WHITE."
+            },
+            {
+                "start": 13,
+                "end": 25,
+                "technique": "Loaded Language",
+                "text_fragment": "BRAINWASHING"
+            }
+        ]
     },
     {
         "id": "484_batch_2",
-        "text": "LET ME BE CLEAR, IF YOU'RE PART OF A LARGE GROUP RIOTING AND LOOTING IT IS IMPOSSIBLE TO CONTRACT OR SPREAD COVID-19. \nIT'S THAT SIMPLE\n"
+        "text": "LET ME BE CLEAR, IF YOU'RE PART OF A LARGE GROUP RIOTING AND LOOTING IT IS IMPOSSIBLE TO CONTRACT OR SPREAD COVID-19. \nIT'S THAT SIMPLE\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 135,
+                "technique": "Smears",
+                "text_fragment": "LET ME BE CLEAR, IF YOU'RE PART OF A LARGE GROUP RIOTING AND LOOTING IT IS IMPOSSIBLE TO CONTRACT OR SPREAD COVID-19. \nIT'S THAT SIMPLE"
+            },
+            {
+                "start": 49,
+                "end": 68,
+                "technique": "Loaded Language",
+                "text_fragment": "RIOTING AND LOOTING"
+            },
+            {
+                "start": 119,
+                "end": 135,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "IT'S THAT SIMPLE"
+            }
+        ]
     },
     {
         "id": "485_batch_2",
-        "text": "LIBERALS WOULD RATHER DIE THAN TRY HYDROXYCHLOROQUINE?\nLET THEM. \nIT'S CALLED NATURAL SELECTION"
+        "text": "LIBERALS WOULD RATHER DIE THAN TRY HYDROXYCHLOROQUINE?\nLET THEM. \nIT'S CALLED NATURAL SELECTION",
+        "labels": [
+            {
+                "end": 95,
+                "start": 55,
+                "technique": "Thought-terminating cliché",
+                "text_fragment": "LET THEM. \nIT'S CALLED NATURAL SELECTION"
+            },
+            {
+                "end": 54,
+                "start": 0,
+                "technique": "Misrepresentation of Someone's Position (Straw Man)",
+                "text_fragment": "LIBERALS WOULD RATHER DIE THAN TRY HYDROXYCHLOROQUINE?"
+            },
+            {
+                "end": 95,
+                "start": 0,
+                "technique": "Smears",
+                "text_fragment": "LIBERALS WOULD RATHER DIE THAN TRY HYDROXYCHLOROQUINE?\nLET THEM. \nIT'S CALLED NATURAL SELECTION"
+            }
+        ]
     },
     {
         "id": "486_batch_2",
-        "text": "You know Facebook, Twitter, and YouTube removed the Frontline Doctor videos because they're lying about a cure for covid?\nNo, they removed the videos because Pfizer, Gillead,\nand Bill Gates cant make trillions of dollars off of\na $3 cure that they cant patent."
+        "text": "You know Facebook, Twitter, and YouTube removed the Frontline Doctor videos because they're lying about a cure for covid?\nNo, they removed the videos because Pfizer, Gillead,\nand Bill Gates cant make trillions of dollars off of\na $3 cure that they cant patent.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 260,
+                "technique": "Smears",
+                "text_fragment": "You know Facebook, Twitter, and YouTube removed the Frontline Doctor videos because they're lying about a cure for covid?\nNo, they removed the videos because Pfizer, Gillead,\nand Bill Gates cant make trillions of dollars off of\na $3 cure that they cant patent."
+            },
+            {
+                "start": 200,
+                "end": 220,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "trillions of dollars"
+            }
+        ]
     },
     {
         "id": "488_batch_2",
-        "text": "Protesters in California set fire to a courthouse, damaged a police station and assaulted officers after a peaceful demonstration intensified.\n\nPEACEFULNESS INTENSIFIES!"
+        "text": "Protesters in California set fire to a courthouse, damaged a police station and assaulted officers after a peaceful demonstration intensified.\n\nPEACEFULNESS INTENSIFIES!",
+        "labels": [
+            {
+                "start": 144,
+                "end": 169,
+                "technique": "Slogans",
+                "text_fragment": "PEACEFULNESS INTENSIFIES!"
+            },
+            {
+                "start": 25,
+                "end": 98,
+                "technique": "Loaded Language",
+                "text_fragment": "set fire to a courthouse, damaged a police station and assaulted officers"
+            }
+        ]
     },
     {
         "id": "490_batch_2",
-        "text": "COME VISIT PORTLAND!\n\nBROUGHT TO YOU BY:\nGOVERNOR KATE BROWN\nMAYOR TED WHEELER\nPORTLAND CHAMBER OF COMMERCE\nPORTLAND CITY COMMISSIONERS\nANTIFA & BLACK LIVES MARXISTS"
+        "text": "COME VISIT PORTLAND!\n\nBROUGHT TO YOU BY:\nGOVERNOR KATE BROWN\nMAYOR TED WHEELER\nPORTLAND CHAMBER OF COMMERCE\nPORTLAND CITY COMMISSIONERS\nANTIFA & BLACK LIVES MARXISTS",
+        "labels": [
+            {
+                "start": 0,
+                "end": 20,
+                "technique": "Slogans",
+                "text_fragment": "COME VISIT PORTLAND!"
+            },
+            {
+                "start": 136,
+                "end": 165,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "ANTIFA & BLACK LIVES MARXISTS"
+            }
+        ]
     },
     {
         "id": "491_batch_2",
-        "text": "THE CREEPIEST CIRCUS CLOWNS EVER"
+        "text": "THE CREEPIEST CIRCUS CLOWNS EVER",
+        "labels": [
+            {
+                "start": 0,
+                "end": 32,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "THE CREEPIEST CIRCUS CLOWNS EVER"
+            },
+            {
+                "start": 4,
+                "end": 13,
+                "technique": "Loaded Language",
+                "text_fragment": "CREEPIEST"
+            }
+        ]
     },
     {
         "id": "492_batch_2",
-        "text": "Arresting people for burning down buildings.\n\nArresting people for not wearing a mask."
+        "text": "Arresting people for burning down buildings.\n\nArresting people for not wearing a mask.",
+        "labels": [
+            {
+                "start": 21,
+                "end": 43,
+                "technique": "Loaded Language",
+                "text_fragment": "burning down buildings"
+            }
+        ]
     },
     {
         "id": "493_batch_2",
-        "text": "BREAKING: THE SAME PEOPLE WHO SAID TRUMP WOULD DESTROY AMERICA... ARE DESTROYING AMERICA"
+        "text": "BREAKING: THE SAME PEOPLE WHO SAID TRUMP WOULD DESTROY AMERICA... ARE DESTROYING AMERICA",
+        "labels": [
+            {
+                "end": 88,
+                "start": 10,
+                "technique": "Slogans",
+                "text_fragment": "THE SAME PEOPLE WHO SAID TRUMP WOULD DESTROY AMERICA... ARE DESTROYING AMERICA"
+            },
+            {
+                "end": 62,
+                "start": 47,
+                "technique": "Loaded Language",
+                "text_fragment": "DESTROY AMERICA"
+            },
+            {
+                "end": 88,
+                "start": 70,
+                "technique": "Loaded Language",
+                "text_fragment": "DESTROYING AMERICA"
+            },
+            {
+                "end": 88,
+                "start": 10,
+                "technique": "Whataboutism",
+                "text_fragment": "THE SAME PEOPLE WHO SAID TRUMP WOULD DESTROY AMERICA... ARE DESTROYING AMERICA"
+            }
+        ]
     },
     {
         "id": "495_batch_2",
-        "text": "YOU NEED TO TRUST SCIENCE ASSHOLE!\n\nOK. HOW MANY GENDERS ARE THERE?"
+        "text": "YOU NEED TO TRUST SCIENCE ASSHOLE!\n\nOK. HOW MANY GENDERS ARE THERE?",
+        "labels": [
+            {
+                "start": 0,
+                "end": 34,
+                "technique": "Black-and-white Fallacy/Dictatorship",
+                "text_fragment": "YOU NEED TO TRUST SCIENCE ASSHOLE!"
+            },
+            {
+                "start": 26,
+                "end": 33,
+                "technique": "Loaded Language",
+                "text_fragment": "ASSHOLE"
+            },
+            {
+                "start": 40,
+                "end": 67,
+                "technique": "Doubt",
+                "text_fragment": "HOW MANY GENDERS ARE THERE?"
+            }
+        ]
     },
     {
         "id": "496_batch_2",
-        "text": "AN INTRUDER WOULDN'T TRY TO DISARM THIS WOMAN\nYOUR ELECTED REPRESENTATIVES PROMISED TO DO IT FOR HIM."
+        "text": "AN INTRUDER WOULDN'T TRY TO DISARM THIS WOMAN\nYOUR ELECTED REPRESENTATIVES PROMISED TO DO IT FOR HIM.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 100,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "AN INTRUDER WOULDN'T TRY TO DISARM THIS WOMAN\nYOUR ELECTED REPRESENTATIVES PROMISED TO DO IT FOR HIM"
+            },
+            {
+                "start": 0,
+                "end": 100,
+                "technique": "Smears",
+                "text_fragment": "AN INTRUDER WOULDN'T TRY TO DISARM THIS WOMAN\nYOUR ELECTED REPRESENTATIVES PROMISED TO DO IT FOR HIM"
+            }
+        ]
     },
     {
         "id": "497_batch_2",
-        "text": "The problem with Socialism is that eventually you run out of other people's money.\nMargaret Thatcher"
+        "text": "The problem with Socialism is that eventually you run out of other people's money.\nMargaret Thatcher",
+        "labels": [
+            {
+                "start": 0,
+                "end": 82,
+                "technique": "Smears",
+                "text_fragment": "The problem with Socialism is that eventually you run out of other people's money."
+            },
+            {
+                "start": 0,
+                "end": 100,
+                "technique": "Appeal to authority",
+                "text_fragment": "The problem with Socialism is that eventually you run out of other people's money.\nMargaret Thatcher"
+            }
+        ]
     },
     {
         "id": "499_batch_2",
-        "text": "PROMISE EVERYTHING\nDELIVER NOTHING\n\nBLAME SOMEONE ELSE\n\nDEMOCRATS\nCHANGE THAT MATTERS"
+        "text": "PROMISE EVERYTHING\nDELIVER NOTHING\n\nBLAME SOMEONE ELSE\n\nDEMOCRATS\nCHANGE THAT MATTERS",
+        "labels": [
+            {
+                "start": 0,
+                "end": 34,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "PROMISE EVERYTHING\nDELIVER NOTHING"
+            },
+            {
+                "start": 66,
+                "end": 85,
+                "technique": "Slogans",
+                "text_fragment": "CHANGE THAT MATTERS"
+            },
+            {
+                "start": 0,
+                "end": 34,
+                "technique": "Slogans",
+                "text_fragment": "PROMISE EVERYTHING\nDELIVER NOTHING"
+            }
+        ]
     },
     {
         "id": "500_batch_2",
-        "text": "A NEW MASK HAS BEEN RELEASED THAT WILL SAVE COUNTLESS LIVES!"
+        "text": "A NEW MASK HAS BEEN RELEASED THAT WILL SAVE COUNTLESS LIVES!",
+        "labels": [
+            {
+                "end": 59,
+                "start": 0,
+                "technique": "Slogans",
+                "text_fragment": "A NEW MASK HAS BEEN RELEASED THAT WILL SAVE COUNTLESS LIVES!"
+            }
+        ]
     },
     {
         "id": "502_batch_2",
-        "text": "Mask for Spray Paint\n\nMask for Asbestos\n\nMask for Mining\n\nMask for the Deadliest Virus in History"
+        "text": "Mask for Spray Paint\n\nMask for Asbestos\n\nMask for Mining\n\nMask for the Deadliest Virus in History",
+        "labels": [
+            {
+                "start": 67,
+                "end": 97,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "the Deadliest Virus in History"
+            },
+            {
+                "start": 67,
+                "end": 97,
+                "technique": "Loaded Language",
+                "text_fragment": "the Deadliest Virus in History"
+            }
+        ]
     },
     {
         "id": "503_batch_2",
-        "text": "YOU ARE NOT FOR WOMEN'S RIGHTS\n\nIF YOU WANT TO STRIP THEM OF THEIR RIGHT TO SELF DEFENSE"
+        "text": "YOU ARE NOT FOR WOMEN'S RIGHTS\n\nIF YOU WANT TO STRIP THEM OF THEIR RIGHT TO SELF DEFENSE",
+        "labels": [
+            {
+                "start": 0,
+                "end": 88,
+                "technique": "Presenting Irrelevant Data (Red Herring)",
+                "text_fragment": "YOU ARE NOT FOR WOMEN'S RIGHTS\n\nIF YOU WANT TO STRIP THEM OF THEIR RIGHT TO SELF DEFENSE"
+            },
+            {
+                "start": 47,
+                "end": 72,
+                "technique": "Loaded Language",
+                "text_fragment": "STRIP THEM OF THEIR RIGHT"
+            }
+        ]
     },
     {
         "id": "504_batch_2",
-        "text": "PAYDAY CANDY BAR IS CHANGING IT'S NAME BECAUSE\nIT'S OFFENSIVE TO THOSE WHO DON'T WORK."
+        "text": "PAYDAY CANDY BAR IS CHANGING IT'S NAME BECAUSE\nIT'S OFFENSIVE TO THOSE WHO DON'T WORK.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 86,
+                "technique": "Causal Oversimplification",
+                "text_fragment": "PAYDAY CANDY BAR IS CHANGING IT'S NAME BECAUSE\nIT'S OFFENSIVE TO THOSE WHO DON'T WORK."
+            }
+        ]
     },
     {
         "id": "505_batch_2",
-        "text": "I'M GONNA STAY INSIDE BECAUSE THE PEDOPHILES SAID SO"
+        "text": "I'M GONNA STAY INSIDE BECAUSE THE PEDOPHILES SAID SO",
+        "labels": [
+            {
+                "start": 0,
+                "end": 52,
+                "technique": "Reductio ad hitlerum",
+                "text_fragment": "I'M GONNA STAY INSIDE BECAUSE THE PEDOPHILES SAID SO"
+            },
+            {
+                "start": 34,
+                "end": 44,
+                "technique": "Loaded Language",
+                "text_fragment": "PEDOPHILES"
+            }
+        ]
     },
     {
         "id": "507_batch_2",
-        "text": "IF BIDEN SELECTED YOU AS HIS VICE PRESIDENT WHAT IS THE FIRST THING YOU WORK ON?\nHIS OBITUARY"
+        "text": "IF BIDEN SELECTED YOU AS HIS VICE PRESIDENT WHAT IS THE FIRST THING YOU WORK ON?\nHIS OBITUARY",
+        "labels": [
+            {
+                "end": 93,
+                "start": 0,
+                "technique": "Smears",
+                "text_fragment": "IF BIDEN SELECTED YOU AS HIS VICE PRESIDENT WHAT IS THE FIRST THING YOU WORK ON?\nHIS OBITUARY"
+            },
+            {
+                "end": 93,
+                "start": 81,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "HIS OBITUARY"
+            }
+        ]
     },
     {
         "id": "511_batch_2",
-        "text": "MY CAMPAIGN MANAGER TOLD ME THAT IT'S NOT RAPE IF YOU'RE A DEMOCRAT!"
+        "text": "MY CAMPAIGN MANAGER TOLD ME THAT IT'S NOT RAPE IF YOU'RE A DEMOCRAT!",
+        "labels": [
+            {
+                "start": 0,
+                "end": 68,
+                "technique": "Smears",
+                "text_fragment": "MY CAMPAIGN MANAGER TOLD ME THAT IT'S NOT RAPE IF YOU'RE A DEMOCRAT!"
+            },
+            {
+                "start": 42,
+                "end": 46,
+                "technique": "Loaded Language",
+                "text_fragment": "RAPE"
+            },
+            {
+                "start": 33,
+                "end": 68,
+                "technique": "Slogans",
+                "text_fragment": "IT'S NOT RAPE IF YOU'RE A DEMOCRAT!"
+            }
+        ]
     },
     {
         "id": "513_batch_2",
-        "text": "GOYA\nEMPLOYEE OF THE MONTH\n\nBoosting sales 1000%\nWhile using 0% brain cells"
+        "text": "GOYA\nEMPLOYEE OF THE MONTH\n\nBoosting sales 1000%\nWhile using 0% brain cells",
+        "labels": [
+            {
+                "start": 28,
+                "end": 75,
+                "technique": "Exaggeration/Minimisation",
+                "text_fragment": "Boosting sales 1000%\nWhile using 0% brain cells"
+            }
+        ]
     },
     {
         "id": "514_batch_2",
-        "text": "liberal: how pro gun are you?\nme:"
+        "text": "liberal: how pro gun are you?\nme:",
+        "labels": []
     },
     {
         "id": "515_batch_2",
-        "text": "MOMMY, WHY AREN'T WE WEARING MASKS?\n\nBECAUSE BULLS**T COMES IN THROUGH YOUR EARS, HONEY, NOT YOUR MOUTH."
+        "text": "MOMMY, WHY AREN'T WE WEARING MASKS?\n\nBECAUSE BULLS**T COMES IN THROUGH YOUR EARS, HONEY, NOT YOUR MOUTH.",
+        "labels": [
+            {
+                "start": 45,
+                "end": 53,
+                "technique": "Loaded Language",
+                "text_fragment": "BULLS**T"
+            },
+            {
+                "start": 0,
+                "end": 103,
+                "technique": "Doubt",
+                "text_fragment": "MOMMY, WHY AREN'T WE WEARING MASKS?\n\nBECAUSE BULLS**T COMES IN THROUGH YOUR EARS, HONEY, NOT YOUR MOUTH"
+            }
+        ]
     },
     {
         "id": "516_batch_2",
-        "text": "BREAKING NEWS: The Chicago Police Dept has replaced all sirens with the National Anthem, to force\nsuspects to stop running and take a knee."
+        "text": "BREAKING NEWS: The Chicago Police Dept has replaced all sirens with the National Anthem, to force\nsuspects to stop running and take a knee.",
+        "labels": [
+            {
+                "end": 138,
+                "start": 15,
+                "technique": "Appeal to fear/prejudice",
+                "text_fragment": "The Chicago Police Dept has replaced all sirens with the National Anthem, to force\nsuspects to stop running and take a knee"
+            }
+        ]
     },
     {
         "id": "517_batch_2",
-        "text": "The \"I'm offended\" starter pack"
+        "text": "The \"I'm offended\" starter pack",
+        "labels": []
     },
     {
         "id": "518_batch_2",
-        "text": "THE LOOK ON ANTIFA'S FACE WHEN YOU REALIZE TRUMP SUPPORTERS ARE COMBAT VETS AND WHAT YOU LEARNED ON X-BOX DOESN'T WORK."
+        "text": "THE LOOK ON ANTIFA'S FACE WHEN YOU REALIZE TRUMP SUPPORTERS ARE COMBAT VETS AND WHAT YOU LEARNED ON X-BOX DOESN'T WORK.",
+        "labels": [
+            {
+                "start": 0,
+                "end": 118,
+                "technique": "Smears",
+                "text_fragment": "THE LOOK ON ANTIFA'S FACE WHEN YOU REALIZE TRUMP SUPPORTERS ARE COMBAT VETS AND WHAT YOU LEARNED ON X-BOX DOESN'T WORK"
+            },
+            {
+                "start": 43,
+                "end": 75,
+                "technique": "Glittering generalities (Virtue)",
+                "text_fragment": "TRUMP SUPPORTERS ARE COMBAT VETS"
+            }
+        ]
     },
     {
         "id": "707_batch_2",
-        "text": "MISSING\n\nHAVE YOU SEEN ME?\nIf found, contact THE FEDS\n"
+        "text": "MISSING\n\nHAVE YOU SEEN ME?\nIf found, contact THE FEDS\n",
+        "labels": []
     },
     {
         "id": "708_batch_2",
-        "text": "YES I KNOW EUROPE USES EUROS AND AFRICA USES AFROS...\n"
+        "text": "YES I KNOW EUROPE USES EUROS AND AFRICA USES AFROS...\n",
+        "labels": []
     },
     {
         "id": "711_batch_2",
-        "text": "TCF Center fraudster Ruby Freeman criminal\n\nRuby Freeman criminal\n"
+        "text": "TCF Center fraudster Ruby Freeman criminal\n\nRuby Freeman criminal\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 42,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "TCF Center fraudster Ruby Freeman criminal"
+            },
+            {
+                "start": 11,
+                "end": 20,
+                "technique": "Loaded Language",
+                "text_fragment": "fraudster"
+            },
+            {
+                "start": 34,
+                "end": 42,
+                "technique": "Loaded Language",
+                "text_fragment": "criminal"
+            },
+            {
+                "start": 44,
+                "end": 65,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Ruby Freeman criminal"
+            },
+            {
+                "start": 57,
+                "end": 65,
+                "technique": "Loaded Language",
+                "text_fragment": "criminal"
+            }
+        ]
     },
     {
         "id": "712_batch_2",
-        "text": "ATTENTION PATRIOTS\n\nMEET YOUR CIVIL WAR OPPONENTS\n"
+        "text": "ATTENTION PATRIOTS\n\nMEET YOUR CIVIL WAR OPPONENTS\n",
+        "labels": [
+            {
+                "start": 10,
+                "end": 18,
+                "technique": "Loaded Language",
+                "text_fragment": "PATRIOTS"
+            }
+        ]
     },
     {
         "id": "714_batch_2",
-        "text": "WHY DO THEY KEEP SAYING RELEASE THE CRACKHEAD? \nHUNTER ISN'T IN JAIL.\n\nIT'S KRAKEN JOE, AND IF THEY DO WE'RE ALL FUCKED\n\n"
+        "text": "WHY DO THEY KEEP SAYING RELEASE THE CRACKHEAD? \nHUNTER ISN'T IN JAIL.\n\nIT'S KRAKEN JOE, AND IF THEY DO WE'RE ALL FUCKED\n\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 119,
+                "technique": "Smears",
+                "text_fragment": "WHY DO THEY KEEP SAYING RELEASE THE CRACKHEAD? \nHUNTER ISN'T IN JAIL.\n\nIT'S KRAKEN JOE, AND IF THEY DO WE'RE ALL FUCKED"
+            },
+            {
+                "start": 36,
+                "end": 45,
+                "technique": "Loaded Language",
+                "text_fragment": "CRACKHEAD"
+            },
+            {
+                "start": 36,
+                "end": 45,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "CRACKHEAD"
+            },
+            {
+                "start": 76,
+                "end": 82,
+                "technique": "Loaded Language",
+                "text_fragment": "KRAKEN"
+            },
+            {
+                "start": 113,
+                "end": 119,
+                "technique": "Loaded Language",
+                "text_fragment": "FUCKED"
+            }
+        ]
     },
     {
         "id": "728_batch_2",
-        "text": "THIS MAY CONFUSE DEMOCRATS"
+        "text": "THIS MAY CONFUSE DEMOCRATS",
+        "labels": []
     },
     {
         "id": "729_batch_2",
-        "text": "PEACEFUL TRANSITION"
+        "text": "PEACEFUL TRANSITION",
+        "labels": []
     },
     {
         "id": "730_batch_2",
-        "text": "AND JUST LIKE THAT EVERYONE FORGOTABOUT HIGH RANKING PEDOPHILES"
+        "text": "AND JUST LIKE THAT EVERYONE FORGOTABOUT HIGH RANKING PEDOPHILES",
+        "labels": [
+            {
+                "start": 40,
+                "end": 63,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "HIGH RANKING PEDOPHILES"
+            },
+            {
+                "start": 53,
+                "end": 63,
+                "technique": "Loaded Language",
+                "text_fragment": "PEDOPHILES"
+            }
+        ]
     },
     {
         "id": "731_batch_2",
-        "text": "WELCOMETO 2020\n\nWHERE SPOILED WHITE DEMOCRATS SCREAM RACIAL SLURS AT BLACK COPS IN THE NAME OF EQUALITY"
+        "text": "WELCOMETO 2020\n\nWHERE SPOILED WHITE DEMOCRATS SCREAM RACIAL SLURS AT BLACK COPS IN THE NAME OF EQUALITY",
+        "labels": [
+            {
+                "start": 22,
+                "end": 45,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "SPOILED WHITE DEMOCRATS"
+            },
+            {
+                "start": 22,
+                "end": 103,
+                "technique": "Smears",
+                "text_fragment": "SPOILED WHITE DEMOCRATS SCREAM RACIAL SLURS AT BLACK COPS IN THE NAME OF EQUALITY"
+            },
+            {
+                "start": 46,
+                "end": 65,
+                "technique": "Loaded Language",
+                "text_fragment": "SCREAM RACIAL SLURS"
+            },
+            {
+                "start": 22,
+                "end": 35,
+                "technique": "Loaded Language",
+                "text_fragment": "SPOILED WHITE"
+            },
+            {
+                "start": 69,
+                "end": 79,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "BLACK COPS"
+            }
+        ]
     },
     {
         "id": "734_batch_2",
-        "text": "Every job that puts food on the table is an essential job"
+        "text": "Every job that puts food on the table is an essential job",
+        "labels": [
+            {
+                "start": 44,
+                "end": 57,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "essential job"
+            }
+        ]
     },
     {
         "id": "737_batch_2",
-        "text": "The Sheep Says:\n\nStay in your house you scared little bitches..."
+        "text": "The Sheep Says:\n\nStay in your house you scared little bitches...",
+        "labels": [
+            {
+                "start": 40,
+                "end": 61,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "scared little bitches"
+            },
+            {
+                "start": 40,
+                "end": 61,
+                "technique": "Loaded Language",
+                "text_fragment": "scared little bitches"
+            },
+            {
+                "start": 0,
+                "end": 9,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "The Sheep"
+            }
+        ]
     },
     {
         "id": "739_batch_2",
-        "text": "HOW TRUMP VOTERS FEEL AFTER FINDING OUT THEY WERE CHEATED\n\nNAH, MAN.\nI'M PRETTY FUCKIN FAR FROM OK."
+        "text": "HOW TRUMP VOTERS FEEL AFTER FINDING OUT THEY WERE CHEATED\n\nNAH, MAN.\nI'M PRETTY FUCKIN FAR FROM OK.",
+        "labels": [
+            {
+                "start": 50,
+                "end": 57,
+                "technique": "Loaded Language",
+                "text_fragment": "CHEATED"
+            },
+            {
+                "start": 80,
+                "end": 86,
+                "technique": "Loaded Language",
+                "text_fragment": "FUCKIN"
+            }
+        ]
     },
     {
         "id": "742_batch_2",
-        "text": "ASKED TO SPELL \"ORANGE\" \nSHE SAID \"THE FRUIT, OR THE COLOR?\""
+        "text": "ASKED TO SPELL \"ORANGE\" \nSHE SAID \"THE FRUIT, OR THE COLOR?\"",
+        "labels": [
+            {
+                "start": 0,
+                "end": 60,
+                "technique": "Smears",
+                "text_fragment": "ASKED TO SPELL \"ORANGE\" \nSHE SAID \"THE FRUIT, OR THE COLOR?\""
+            }
+        ]
     },
     {
         "id": "743_batch_2",
-        "text": "Dominion's Buy 1, Get 10 Free!"
+        "text": "Dominion's Buy 1, Get 10 Free!",
+        "labels": []
     },
     {
         "id": "745_batch_2",
-        "text": "I love eagles \nthey're so majestic\n"
+        "text": "I love eagles \nthey're so majestic\n",
+        "labels": [
+            {
+                "end": 34,
+                "start": 26,
+                "technique": "Loaded Language",
+                "text_fragment": "majestic"
+            }
+        ]
     },
     {
         "id": "747_batch_2",
-        "text": "So Don King and BeetleJuice had a baby...\n"
+        "text": "So Don King and BeetleJuice had a baby...\n",
+        "labels": []
     },
     {
         "id": "749_batch_2",
-        "text": "ELIZABETH WARREN IS MORE INDIAN THAN YOU ARE\nREPUBLICAN!\n"
+        "text": "ELIZABETH WARREN IS MORE INDIAN THAN YOU ARE\nREPUBLICAN!\n",
+        "labels": []
     },
     {
         "id": "751_batch_2",
-        "text": "I'm so happy for you Joe, I got you a present! \nIt's parked outside!\n"
+        "text": "I'm so happy for you Joe, I got you a present! \nIt's parked outside!\n",
+        "labels": []
     },
     {
         "id": "752_batch_2",
-        "text": "SHE'S TAKING ACTION!\n\nSHE'S TAKING A DUMP\n\n"
+        "text": "SHE'S TAKING ACTION!\n\nSHE'S TAKING A DUMP\n\n",
+        "labels": [
+            {
+                "start": 37,
+                "end": 41,
+                "technique": "Loaded Language",
+                "text_fragment": "DUMP"
+            }
+        ]
     },
     {
         "id": "755_batch_2",
-        "text": "EVERYONE WANTS ME TO READ THE CONSTITUTION\n\nBUT IT'S WRITTEN IN CURSIVE\n"
+        "text": "EVERYONE WANTS ME TO READ THE CONSTITUTION\n\nBUT IT'S WRITTEN IN CURSIVE\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 71,
+                "technique": "Smears",
+                "text_fragment": "EVERYONE WANTS ME TO READ THE CONSTITUTION\n\nBUT IT'S WRITTEN IN CURSIVE"
+            }
+        ]
     },
     {
         "id": "756_batch_2",
-        "text": "It's a pandemic!\n\nIt's a Dem panic!\n"
+        "text": "It's a pandemic!\n\nIt's a Dem panic!\n",
+        "labels": [
+            {
+                "start": 25,
+                "end": 34,
+                "technique": "Name calling/Labeling",
+                "text_fragment": "Dem panic"
+            }
+        ]
     },
     {
         "id": "757_batch_2",
-        "text": "WE ARE ALL BORN IGNORANT. \nBUT ONE MUST WORK HARD TO REMAIN STUPID.\n"
+        "text": "WE ARE ALL BORN IGNORANT. \nBUT ONE MUST WORK HARD TO REMAIN STUPID.\n",
+        "labels": [
+            {
+                "start": 60,
+                "end": 66,
+                "technique": "Loaded Language",
+                "text_fragment": "STUPID"
+            }
+        ]
     },
     {
         "id": "760_batch_2",
-        "text": "WHAT IF I TOLD YOU THERE WERE THOUSANDS OF UNDERCOVER FEDS DOCUMENTING THE FRAUD AND THEY'VE STEPPED INTO A TRAP\n\n"
+        "text": "WHAT IF I TOLD YOU THERE WERE THOUSANDS OF UNDERCOVER FEDS DOCUMENTING THE FRAUD AND THEY'VE STEPPED INTO A TRAP\n\n",
+        "labels": []
     },
     {
         "id": "761_batch_2",
-        "text": "Hi Joe, it's me...Cornpop\n"
+        "text": "Hi Joe, it's me...Cornpop\n",
+        "labels": []
     },
     {
         "id": "762_batch_2",
-        "text": "HE'S MAKING HIS LIST\n\nHE'S CHECKING IT TWICE\n\nVoter fraud\n"
+        "text": "HE'S MAKING HIS LIST\n\nHE'S CHECKING IT TWICE\n\nVoter fraud\n",
+        "labels": [
+            {
+                "start": 46,
+                "end": 57,
+                "technique": "Loaded Language",
+                "text_fragment": "Voter fraud"
+            }
+        ]
     },
     {
         "id": "764_batch_2",
-        "text": "PA WHAT'S IRONY MEAN?\n\nIRONY IS WHEN THE LIBERALS INVESTIGATE TRUMP AND DEMOCRATS KEEP GETTING IMPLICATED IN CRIMES.\n"
+        "text": "PA WHAT'S IRONY MEAN?\n\nIRONY IS WHEN THE LIBERALS INVESTIGATE TRUMP AND DEMOCRATS KEEP GETTING IMPLICATED IN CRIMES.\n",
+        "labels": [
+            {
+                "start": 23,
+                "end": 115,
+                "technique": "Smears",
+                "text_fragment": "IRONY IS WHEN THE LIBERALS INVESTIGATE TRUMP AND DEMOCRATS KEEP GETTING IMPLICATED IN CRIMES"
+            },
+            {
+                "start": 95,
+                "end": 115,
+                "technique": "Loaded Language",
+                "text_fragment": "IMPLICATED IN CRIMES"
+            }
+        ]
     },
     {
         "id": "768_batch_2",
-        "text": "Girlfriend Keeps Referring To Herself As 'Wife-Elect' Despite No Official Word From Boyfriend\n"
+        "text": "Girlfriend Keeps Referring To Herself As 'Wife-Elect' Despite No Official Word From Boyfriend\n",
+        "labels": [
+            {
+                "start": 0,
+                "end": 93,
+                "technique": "Smears",
+                "text_fragment": "Girlfriend Keeps Referring To Herself As 'Wife-Elect' Despite No Official Word From Boyfriend"
+            }
+        ]
     },
     {
         "id": "769_batch_2",
-        "text": "9 \"LEGAL VOTES\" LEFT TO BE COUNTED\n"
+        "text": "9 \"LEGAL VOTES\" LEFT TO BE COUNTED\n",
+        "labels": []
     }
 ]
