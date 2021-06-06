@@ -249,6 +249,7 @@ These datasets are free for general research use.
 
 ## Citation
 
+```bibtex
 @InProceedings{SemEval2021:task6,
   author    = {Dimitar Dimitrov and Bin Ali, Bishr and Shaden Shaar and Firoj Alam and Fabrizio Silvestri and Hamed Firooz and Preslav Nakov and Da San Martino, Giovanni},
   title     = {{SemEval-2021 Task 6}: Detection of Persuasion Techniques in Texts and Images},
@@ -257,3 +258,4 @@ These datasets are free for general research use.
   year      = {2021},
   url = {https://arxiv.org/abs/2105.09284},
 }
+```
