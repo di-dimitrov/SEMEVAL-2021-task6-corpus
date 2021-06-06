@@ -1,11 +1,10 @@
-# Data for SemEval-2021 Task 6: Detection of Persuasive Techniques in Texts and Images
+# Data for [SemEval-2021 Task 6: Detection of Persuasive Techniques in Texts and Images](https://arxiv.org/abs/2105.09284)
 
 The website of the shared task, with the submission instructions, updates on the competition and the live leaderboard can be found here: https://propaganda.math.unipd.it/semeval2021task6/
 
 __Table of contents:__
 
 - [SEMEVAL-2021-task6-corpus](#semeval-2021-task6-corpus)
-  - [Evaluation Results](#evaluation-results)
   - [List of Versions](#list-of-versions)
   - [Task Description](#task-description)
   - [Data Format](#data-format)
@@ -13,12 +12,7 @@ __Table of contents:__
   - [Scorers](#scorers)
   - [Baseline](#baseline)
   - [Licensing](#licensing)
-  - [Credits](#credits)
   - [Citation](#citation)
-
-## Evaluation Results
-
-TBA
 
 ## List of Versions
 * __v1.6.3 [2021/02/15]__ - Gold labels for test data for subtasks 1, 2 and 3 are released
@@ -252,10 +246,14 @@ If you submit the predictions of the baseline on the development set to the shar
 
 These datasets are free for general research use.
 
-## Credits
-
-TBA
 
 ## Citation
 
-TBA
+@InProceedings{SemEval2021:task6,
+  author    = {Dimitar Dimitrov and Bin Ali, Bishr and Shaden Shaar and Firoj Alam and Fabrizio Silvestri and Hamed Firooz and Preslav Nakov and Da San Martino, Giovanni},
+  title     = {{SemEval-2021 Task 6}: Detection of Persuasion Techniques in Texts and Images},
+  booktitle = {Proceedings of the International Workshop on Semantic Evaluation},
+  series    = {SemEval~'21},
+  year      = {2021},
+  url = {https://arxiv.org/abs/2105.09284},
+}
